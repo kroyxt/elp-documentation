@@ -1,3 +1,3 @@
 # Encapsulated Language Projects
 
-[See Documentation]()
+[See Documentation](https://kroyxlab.github.io/elp-documentation/)
