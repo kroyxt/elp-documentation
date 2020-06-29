@@ -1,0 +1,16 @@
+{
+  "name": "elp-documentation",
+  "version": "1.0.0",
+  "description": "Encapsulated Language Project Documentation",
+  "main": "index.js",
+  "author": "Kristian Soto <kroyxlab@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "docs:dev": "vuepress dev docs",
+    "docs:build": "vuepress build docs"
+  },
+  "devDependencies": {
+    "@vuepress/plugin-back-to-top": "^1.5.2",
+    "vuepress": "^1.5.2"
+  }
+}
