@@ -17,7 +17,8 @@ module.exports = {
 		repoLabel: 'Contribute!',
 		DocsRepo: 'kroyxlab/elp-documentation',
 		DocsDir: 'docs',
-		editsLinks: true
+		editsLinks: true,
+    lastUpdated: 'Last Updated',
 	},
 	plugins: ['@vuepress/back-to-top'],
 	base: '/elp-documentation/'
