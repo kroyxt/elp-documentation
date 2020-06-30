@@ -12,9 +12,7 @@ Following is a list of Draft Proposals to change an Official Proposal or add to 
 
 ## Community Administration
 
-| Proponent         | Draft Version | Summary                                                                                        | Link                                                                                                                  |
-| ----------------- | :-----------: | ---------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------- |
-| u/ActingAustralia |     v1.0      | Vote to determine whether Richard Delamore should act as the Gatekeeper for Official Proposals | [See](https://www.reddit.com/r/EncapsulatedLanguage/comments/hgyh4a/draft_proposal_evildea_act_as_a_gate_keeper_for/) |
+There are currently no Draft Proposals for community administration.
 
 ## Number Base
 

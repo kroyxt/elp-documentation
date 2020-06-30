@@ -2,7 +2,7 @@
 
 ## Who is this language for?
 
-This language can be utilised by anyone. However, Evildea stated a specific target audience for the language in his original proposal.
+This language can be utilised by anyone. However, Richard Delamore (Evildea) stated a specific target audience for the language in his original proposal.
 
 The end goal of this project is to create a language parents can raise their children speaking natively alongside their other native languages. The children would acquire this language like any other native language. Then, when the child starts their education, the parent would instruct them in how to analyse and parse their own native language to gain access to a wide range of mathematical and scientific knowledge. This will help the child to gain an intuitive understanding of the world around them and lower the amount of rote memorisation required.
 
@@ -55,7 +55,7 @@ In order to make changes to the language, the following process needs to be adhe
    - If there’s an existing **Draft Proposal**, then the proponent should throw their support behind that proposal.
    - If there isn’t an existing **Draft Proposal**, then the proponent should post their [Draft Proposal](https://www.reddit.com/r/EncapsulatedLanguage/) for feedback.
 3. The **Proponent** should acknowledge community feedback and update their Draft Proposal accordingly.
-4. If a **Draft Proposal** generates enough community feedback / support, Evildea will post a poll asking the community to either accept or reject the proposal. Members of the community will have 3 days to vote in the poll. If the Draft Proposal gets 50% or more support, the Draft Proposal will become an **Official Proposal**.
+4. If a **Draft Proposal** generates enough community feedback / support, the **Proponent** is to send their finalised Proposal to /u/ActingAustralia (Richard Delamore). Richard will organise a vote asking the community to either accept or reject the proposal. Members of the community will have 3 days to vote in the poll. If the Official Proposal gets 50% or more support, the Proposal will be promoted to an **Official Proposal**.
 
 ## When will the Language be finalised
 
