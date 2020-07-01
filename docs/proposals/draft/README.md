@@ -6,7 +6,7 @@ Following is a list of Draft Proposals to change an Official Proposal or add to 
 
 | Proponent      | Draft Version | Summary                                                             | Link                                                                                                    |
 | -------------- | :-----------: | ------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------- |
-| u/OhMyChickens |     v1.0      | Propose to call the language Encap (**Enca**psulated **La**nguage) | [See](https://www.reddit.com/r/EncapsulatedLanguage/comments/hiiguc/encapsulated_language_name_proposal/) |
+| u/OhMyChickens |     v1.0      | Propose to call the language Encala (**Enca**psulated **La**nguage) | [See](https://www.reddit.com/r/EncapsulatedLanguage/comments/hiiguc/encapsulated_language_name_proposal/) |
 
 ## Logo
 
