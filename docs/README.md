@@ -2,23 +2,30 @@
 
 ## Language Name
 
-**We’re currently accepting proposals.**
-
 The language doesn’t currently have a name.
+
+::: tip We’re currently accepting proposals.
+present your proposal in [Reddit](https://www.reddit.com/r/EncapsulatedLanguage/new/)
+:::
 
 ## Language Logo / Flag
 
-**We’re currently accepting proposals.**
-
 The language doesn’t currently have a logo.
+
+::: tip We’re currently accepting proposals.
+present your proposal in [Reddit](https://www.reddit.com/r/EncapsulatedLanguage/new/)
+:::
 
 ## Aim of the Language
 
-**We’re currently accepting improvements of the wording to the stated aim of the language. If you wish to change the wording, please present your proposal in Reddit first.**
 
 The Encapsulated Language Project aims to create a Language that encapsulates as much scientific and mathematical knowledge within the sounds and constructs of the Language itself to facilitate an intuitive understanding of the world around us. A speaker of this language will have instant access to a large pool of knowledge simply through understanding how to unpack their own language and utilise the knowledge cached within it.
 
 [Video](https://youtu.be/0VCLTq6epQQ) by Evildea, instigator of the Encapsulated Language Project.
+
+::: tip We’re currently accepting improvements of the wording to the stated aim of the language. If you wish to change the wording, please present your proposal in Reddit first.
+present your proposal in [Reddit](https://www.reddit.com/r/EncapsulatedLanguage/new/)
+:::
 
 ## Encapsulated Language Project Definitions
 

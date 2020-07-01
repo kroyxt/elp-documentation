@@ -8,11 +8,13 @@ The end goal of this project is to create a language parents can raise their chi
 
 ## What knowledge will be encapsulated?
 
-**We’re currently accepting proposals.**
-
 The primary decider will be pertinence of usage (pertinence based for school-age or living day-by-day). We aim to include knowledge that speakers can use on a day to day basis.
 
 The fields of knowledge that will be encapsulated are
+
+::: tip We’re currently accepting proposals.
+present your proposal in [Reddit](https://www.reddit.com/r/EncapsulatedLanguage/new/)
+:::
 
 **Formal Sciences:**
 
@@ -44,7 +46,9 @@ There has been a suggestion to include knowledge from these scientific fields. W
 
 ## How will knowledge be encapsulated?
 
-**We’re currently accepting proposals.**
+::: tip We’re currently accepting proposals.
+present your proposal in [Reddit](https://www.reddit.com/r/EncapsulatedLanguage/new/)
+:::
 
 ## What is the process to change the language or add new knowledge?
 
