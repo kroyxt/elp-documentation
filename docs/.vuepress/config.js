@@ -36,7 +36,7 @@ module.exports = {
         collapsable: true,
         path: '/faq/',
         children: [
-          '/'
+          '/faq/'
         ]
       }
     ],
