@@ -18,8 +18,7 @@ present your proposal in [Reddit](https://www.reddit.com/r/EncapsulatedLanguage/
 
 ## Aim of the Language
 
-
-The Encapsulated Language Project aims to create a Language that encapsulates as much scientific and mathematical knowledge within the sounds and constructs of the Language itself to facilitate an intuitive understanding of the world around us. A speaker of this language will have instant access to a large pool of knowledge simply through understanding how to unpack their own language and utilise the knowledge cached within it.
+The Encapsulated Language Project aims to create a Language that encapsulates as much scientific and mathematical knowledge within the sounds, syllables, words, patterns, and essence of the Language itself to facilitate an intuitive understanding of the world around us. A speaker of this language will have instant access to a large pool of knowledge simply through understanding how to unpack and parse their own language to utilize the knowledge cached within it.
 
 [Video](https://youtu.be/0VCLTq6epQQ) by Evildea, instigator of the Encapsulated Language Project.
 

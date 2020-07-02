@@ -2,47 +2,38 @@
 
 ## Who is this language for?
 
-This language can be utilised by anyone. However, Richard Delamore (Evildea) stated a specific target audience for the language in his original proposal.
+Although this language can be learned and utilized by anyone, Richard Delamore, the instigator of the project stated a specific target audience for the language in his original proposal.
 
-The end goal of this project is to create a language parents can raise their children speaking natively alongside their other native languages. The children would acquire this language like any other native language. Then, when the child starts their education, the parent would instruct them in how to analyse and parse their own native language to gain access to a wide range of mathematical and scientific knowledge. This will help the child to gain an intuitive understanding of the world around them and lower the amount of rote memorisation required.
+The end goal of this project is to create a language parents can raise their children speaking natively alongside their other native languages. The children would acquire this language like any other native language. Then, when the child starts their education, the parent would instruct them on how to analyze and parse their native language to gain access to a wide range of mathematical and scientific knowledge. This will help the child to gain an intuitive understanding of the world around them and lower the amount of rote memorization required.
 
 ## What knowledge will be encapsulated?
-
-The primary decider will be pertinence of usage (pertinence based for school-age or living day-by-day). We aim to include knowledge that speakers can use on a day to day basis.
-
-The fields of knowledge that will be encapsulated are
 
 ::: tip We’re currently accepting proposals.
 present your proposal in [Reddit](https://www.reddit.com/r/EncapsulatedLanguage/new/)
 :::
 
-**Formal Sciences:**
+The primary disciplines whose fundamentals will be encapsulated within the language are:
 
-- Maths
+**Formal Science**
+- Math
+
+**Natural Science**
 - Physics
 - Chemistry
 - Biology
 - Geology
-  
-**Composite Sciences:**
 
+**Composite Sciences**
 - Technology (Engineering)
 - Medicine
 - Agronomy
 - Geography
 
-**Additional Fields:**
-
-- Music
-  
-**Possible Additional Fields:**
-
-There has been a suggestion to include knowledge from these scientific fields. We aren’t against this but haven’t seen any proposals.
-
+**Social Science**
 - Psychology
 - Sociology
-- Economy
-- Art.
+
+A large array of knowledge from other disciplines will also be encapsulated. The primary decider on what knowledge is encapsulated and isn't will be pertinence of usage for school-age children. The aim is to store the fundamental concepts of each of these disciplines, not the entire discipline itself. 
 
 ## How will knowledge be encapsulated?
 
