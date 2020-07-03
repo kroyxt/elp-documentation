@@ -1,23 +1,56 @@
-// colors
-$accentColor = #33BCFF
-// $textColor = #2c3e50
-// $borderColor = #eaecef
-// $codeBgColor = #282c34
-// $arrowBgColor = #ccc
-// $badgeTipColor = #42b983
-// $badgeWarningColor = darken(#ffe564, 35%)
-// $badgeErrorColor = #DA5961
+// vars colors
+$accentColor = #008B8B
+$accentColorDark = darken($accentColor, 50%)
+$accentColorLight = lighten($accentColor, 50%)
+$borderColor = desaturate($accentColorLight, 80%)
 
-// layout
-$navbarHeight = 3.6rem
-$sidebarWidth = 20rem
-$contentWidth = 740px
-$homePageWidth = 960px
+// vars layout
+$navbarHeight = 3.8rem
 
-// responsive breakpoints
-$MQNarrow = 959px
-$MQMobile = 719px
-$MQMobileNarrow = 419px
+// NavBar
+.navbar
+	border-bottom 3px solid $accentColorDark
 
-.site-name.can-hide
-  color darken($accentColor, 50%)
+.navbar, .navbar .links
+	background-color $accentColor
+
+.navbar, .site-name.can-hide, .navbar .links .icon.outbound
+	color white
+
+// Sidebar
+
+.sidebar
+	background-color lighten($accentColor, 99%)
+	border none
+	box-shadow 1px 0px 4px grey
+
+.sidebar .sidebar-link:hover
+	border-right 3px solid $accentColor
+
+
+
+.sidebar .sidebar-sub-headers .active.sidebar-link
+	// border-right: 3px solid $accentColor
+	// background-color desaturate(lighten($accentColor, 90%), 60%)
+	font-weight bold
+	color $accentColorDark
+
+// Content
+
+.page a
+	font-weight bold
+
+h1, h2, h3
+	color $accentColorDark
+
+// Table 
+
+th, td
+	border-color desaturate($accentColorLight, 80%)
+
+table .icon.outbound
+	display none
+
+	// layout
+$sidebarWidth = 18rem
+
