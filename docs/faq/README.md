@@ -2,7 +2,7 @@
 
 ## Who is this language for?
 
-Although this language can be learned and utilized by anyone, Richard Delamore, the instigator of the project stated a specific target audience for the language in his original proposal.
+Although this language can be learned and utilized by anyone, Richard Delamore (Evildea), stated a specific target audience for the language in his original proposal.
 
 The end goal of this project is to create a language parents can raise their children speaking natively alongside their other native languages. The children would acquire this language like any other native language. Then, when the child starts their education, the parent would instruct them on how to analyze and parse their native language to gain access to a wide range of mathematical and scientific knowledge. This will help the child to gain an intuitive understanding of the world around them and lower the amount of rote memorization required.
 
@@ -14,10 +14,10 @@ present your proposal in [Reddit](https://www.reddit.com/r/EncapsulatedLanguage/
 
 The primary disciplines whose fundamentals will be encapsulated within the language are:
 
-**Formal Science**
+**Formal Sciences**
 - Math
 
-**Natural Science**
+**Natural Sciences**
 - Physics
 - Chemistry
 - Biology
@@ -29,7 +29,7 @@ The primary disciplines whose fundamentals will be encapsulated within the langu
 - Agronomy
 - Geography
 
-**Social Science**
+**Social Sciences**
 - Psychology
 - Sociology
 
