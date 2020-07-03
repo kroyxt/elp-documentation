@@ -22,7 +22,7 @@
 		"body": [
 			"| Proponent | Draft Version | Summary | Link |",
 			"| --- | :---: | --- | --- |",
-			"| $1 | $2 | $3 | $4 |"
+			"| $1 | v$2 | $3 | $4 |"
 		]
 	},
 
@@ -30,7 +30,7 @@
 		"scope": "markdown",
 		"prefix": "draft+",
 		"body": [
-			"| $1 | $2 | $3 | $4 |"
+			"| $1 | v$2 | $3 | $4 |"
 		]
 	},
 
@@ -90,5 +90,11 @@
 			":::"
 		]
 	},
+
+	"Show link to user on Reddit": {
+		"scope": "markdown",
+		"prefix": "user",
+		"body": "[u/$1](https://www.reddit.com/u/$1)$0"
+	}
 
 }
