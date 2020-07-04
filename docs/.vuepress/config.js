@@ -16,7 +16,7 @@ module.exports = {
 
     // Logo kiu estas montrita supran dekstron de la retpaĝo
     // ĉi tiu doziero estas en docs/.vuepress/public/img
-		logo: '/img/logo.jpg',
+		logo: '/img/icon.png',
 
     // Menuo kiu estas montrita supran maldekstron de la retpaĝo
 		 nav: [
@@ -34,7 +34,7 @@ module.exports = {
       {
         title: 'Documentation',
         path: '/',
-        collapsable: false,
+        collapsable: true,
         children: [
           '/'
         ]
@@ -43,7 +43,7 @@ module.exports = {
       // Draft Proposals sekcio
       {
         title: 'Draft Proposals',
-        path: '/proposals/draft',
+				path: '/proposals/draft',
         children: [
           '/proposals/draft/name',
           '/proposals/draft/logo',
