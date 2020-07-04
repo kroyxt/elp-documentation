@@ -35,11 +35,15 @@ The primary disciplines whose fundamentals will be encapsulated within the langu
 
 A large array of knowledge from other disciplines will also be encapsulated. The primary decider on what knowledge is encapsulated and isn't will be pertinence of usage for school-age children. The aim is to store the fundamental concepts of each of these disciplines, not the entire discipline itself. 
 
-## How will knowledge be encapsulated?
+## What is caching and parsing?
+An example of caching can be found in the [Draft Proposal](https://www.reddit.com/r/EncapsulatedLanguage/comments/hfvung/when_encapsulation_is_going_too_far_part_ii/) for the numerals being developed for the language. The numerals have the following information cached within them:
+- 3x multiplication table (Any numeral that consists of three strokes belongs to the 3x multiplication table)
+- 4x multiplication table (Any numeral containing just horizontal bars belongs to the 4x multiplication table)
+- All numerals for a number greater than 4 are built from the numerals 1, 2, 3, or 4. This shows visually addition within the structure of the numerals.  
+The child would be taught to recognise the patterns that exist within every aspect in their language. In the case of the numerals, they would be taught how to recognise the 3x and 4x multiplication tables by finding the pattern in their numerals. They'd also intuitively learn that numbers like 6 are additions of 4 + 2.
 
-::: tip We’re currently accepting proposals.
-present your proposal in [Reddit](https://www.reddit.com/r/EncapsulatedLanguage/new/)
-:::
+## How do you we intend on protecting against knowledge degradation?
+Esperanto is a perfect example of a language whose internal culture protects it against language degradation and haphazard evolution. The internal culture of Esperanto prizes evolution which improves upon the language but doesn't divert from the rules laid out by the founder. This internal culture is so strong that even third-generation native speakers don't dare divert from the rules laid out over a hundred years ago in the "Fundamento de Esperanto". In essence, its the first language with a constitution actively upheld by all members of the speaking community. We intend to implement our own constitution to protect our language against such degradation.
 
 ## What is the process to change the language or add new knowledge?
 
