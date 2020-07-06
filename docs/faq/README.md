@@ -6,6 +6,10 @@ Although this language can be learned and utilized by anyone, Richard Delamore (
 
 The end goal of this project is to create a language parents can raise their children speaking natively alongside their other native languages. The children would acquire this language like any other native language. Then, when the child starts their education, the parent would instruct them on how to analyze and parse their native language to gain access to a wide range of mathematical and scientific knowledge. This will help the child to gain an intuitive understanding of the world around them and lower the amount of rote memorization required.
 
+## What kind of language is the Encapsulated Language Project creating?
+
+The Encapsulated Language Project is creating a language that will store as much scientific and mathematical knowledge as possible. Naturally, this will result in an a priori language whose phonology, grammar and vocabulary will be consciously devised.
+
 ## What knowledge will be encapsulated?
 
 ::: tip We’re currently accepting proposals.
