@@ -36,6 +36,7 @@ The primary disciplines whose fundamentals will be encapsulated within the langu
 A large array of knowledge from other disciplines will also be encapsulated. The primary decider on what knowledge is encapsulated and isn't will be pertinence of usage for school-age children. The aim is to store the fundamental concepts of each of these disciplines, not the entire discipline itself. 
 
 ## What is caching and parsing?
+
 An example of caching can be found in the [Draft Proposal](https://www.reddit.com/r/EncapsulatedLanguage/comments/hfvung/when_encapsulation_is_going_too_far_part_ii/) for the numerals currently being developed for the language. The numerals have the following information cached within them:
 - 3x multiplication table (Any numeral that consists of three strokes belongs to the 3x multiplication table)
 - 4x multiplication table (Any numeral that contains only horizontal bars belongs to the 4x multiplication table)
@@ -44,6 +45,7 @@ An example of caching can be found in the [Draft Proposal](https://www.reddit.co
 A child who speaks this language natively would be taught how to recognise all the patterns that exist within their language. In the case of the numerals, they would be taught how to recognise the 3x and 4x multiplication tables visually. They'd also intuitively learn that numbers like 6 are actually additions consisting of 4 + 2.
 
 ## How do you we intend on protecting against knowledge degradation?
+
 Esperanto is a perfect example of a language whose internal culture protects it against language degradation and haphazard evolution. The internal culture of Esperanto prizes evolution which improves upon the language, but doesn't divert from the rules laid out over a hundred years ago in the "Fundamento de Esperanto". In essence, its the first language with a constitution that's actively upheld by all members of the community. We intend to implement our own constitution to protect our language against such degradation.
 
 ## What is the process to change the language or add new knowledge?
@@ -65,6 +67,14 @@ A language can never be truly finalised, however, we do need an end date to work
 
 History has shown us time and again that language projects fail when they become unstable due to constant reforms and improvements. Therefore, a finalisation date for the core of the language is necessary to ensure its future survival and mass adoption.
 Unfortunately this means the language will never be “perfect”, but it does mean that we’ll feel safe knowing that it won’t suddenly and fundamentally change overnight.
+
+## Why Base 12?
+
+Base 12 was promoted to an Official Proposal on the 30th of June 2020 (Base 12 vs Base 16) and again on the 3rd of July 2020 (Base 12 vs Base 6). We've listed some of the reasons below why Base 12 was preferred by the community at large. For a comprehensive list of reasons for and against Base 12, you'll need to dig through the subreddit history.
+- Base 12 can be cleanly divided by 1, 2, 3, 4, 6, and 12 making it more fraction-friendly than Base 10.
+- Base 12 is already used to describe time.
+- Base 12 requires less rote memorization than Base 10.
+- Base 12 was considered a happy medium between the number of digits required and the resulting number of numerals.
 
 ## Who can update this document?
 
