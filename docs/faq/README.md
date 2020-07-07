@@ -74,11 +74,19 @@ Unfortunately this means the language will never be “perfect”, but it does m
 
 ## Why Base 12?
 
-Base 12 was promoted to an Official Proposal on the 30th of June 2020 (Base 12 vs Base 16) and again on the 3rd of July 2020 (Base 12 vs Base 6). We've listed some of the reasons below why Base 12 was preferred by the community at large. For a comprehensive list of reasons for and against Base 12, you'll need to dig through the subreddit history.
+Base 12 was promoted to an Official Proposal on the 30th of June 2020 (Base 12 vs Base 16) and again on the 3rd of July 2020 (Base 12 vs Base 6). Some of the reasons why Base 12 was preferred by the community at large are listed below. For a comprehensive list of reasons for and against Base 12, you'll need to dig through the subreddit history.
+
 - Base 12 can be cleanly divided by 1, 2, 3, 4, 6, and 12 making it more fraction-friendly than Base 10.
 - Base 12 is already used to describe time.
 - Base 12 requires less rote memorization than Base 10.
 - Base 12 was considered a happy medium between the number of digits required and the resulting number of numerals.
+
+Additionally, mathematical constants such as π can be represented in base-12 (or any base for that matter) as they simply represent ratios.
+
+- π (base-10): 3.141592653...
+- π (base-12): 3.184809493...
+
+Finally, all computers operate on base-2 and constantly perform countless conversions between base-10 and base-2 every clock cycle. This means there would be no additional burden placed upon technology. 
 
 ## Who can update this document?
 
