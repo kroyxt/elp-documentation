@@ -72,14 +72,14 @@ A language can never be truly finalised, however, we do need an end date to work
 History has shown us time and again that language projects fail when they become unstable due to constant reforms and improvements. Therefore, a finalisation date for the core of the language is necessary to ensure its future survival and mass adoption.
 Unfortunately this means the language will never be “perfect”, but it does mean that we’ll feel safe knowing that it won’t suddenly and fundamentally change overnight.
 
-## Why Base 12?
+## Why Base-12?
 
-Base 12 was promoted to an Official Proposal on the 30th of June 2020 (Base 12 vs Base 16) and again on the 3rd of July 2020 (Base 12 vs Base 6). Some of the reasons why Base 12 was preferred by the community at large are listed below. For a comprehensive list of reasons for and against Base 12, you'll need to dig through the subreddit history.
+Base-12 was promoted to an Official Proposal on the 30th of June 2020 (Base-12 vs Base-16) and again on the 3rd of July 2020 (Base-12 vs Base-6). Some of the reasons why Base-12 was preferred by the community at large are listed below. For a comprehensive list of reasons for and against Base-12, you'll need to dig through the subreddit history.
 
-- Base 12 can be cleanly divided by 1, 2, 3, 4, 6, and 12 making it more fraction-friendly than Base 10.
-- Base 12 is already used to describe time.
-- Base 12 requires less rote memorization than Base 10.
-- Base 12 was considered a happy medium between the number of digits required and the resulting number of numerals.
+- Base-12 can be cleanly divided by 1, 2, 3, 4, 6, and 12 making it more fraction-friendly than Base-10.
+- Base-12 is already used to describe time.
+- Base-12 requires less rote memorization than Base-10.
+- Base-12 was considered a happy medium between the number of digits required and the resulting number of numerals.
 
 Additionally, mathematical constants such as π can be represented in base-12 (or any base for that matter) as they simply represent ratios.
 
