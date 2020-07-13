@@ -25,7 +25,7 @@ This Logo represents the Encapsulated Language Project.
 
 ![Logo](/elp-documentation/img/LogoLarge.png)
 
-| Approved Date     || Approved Date     | Vote Summary | Link                                                                                                    |
+| Approved Date     | Vote Summary | Link                                                                                                    |
 | ------------- | :-----------: | ------------------------------------------------------------------------------------------------------- |
 | 04/07/2020    |     14 for / 9 against      | [See](https://www.reddit.com/r/EncapsulatedLanguage/comments/hogy7t/official_proposal_to_replace_the_official_logo/) |
 
