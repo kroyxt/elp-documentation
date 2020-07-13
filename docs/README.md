@@ -10,7 +10,7 @@ present your proposal in [Reddit](https://www.reddit.com/r/EncapsulatedLanguage/
 
 ## Language Logo / Flag
 
-![Logo](/elp-documentation/img/LogoLarge.jpg)
+![Logo](/elp-documentation/img/LogoLarge.png)
 
 ::: tip We’re currently accepting proposals to improve the Logo.
 present your proposal in [Reddit](https://www.reddit.com/r/EncapsulatedLanguage/new/)
