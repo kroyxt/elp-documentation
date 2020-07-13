@@ -51,6 +51,7 @@ module.exports = {
           '/proposals/draft/numberBase',
           '/proposals/draft/numerals',
           '/proposals/draft/phonology',
+          '/proposals/draft/colors',
           '/proposals/draft/countryNames',
           '/proposals/draft/calendar',
         ]
