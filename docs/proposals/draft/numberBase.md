@@ -1,6 +1,10 @@
 # Number Base
 
-| Proponent                                                     | Draft Version | Summary                                          | Link                                                                                                      |
-| ------------------------------------------------------------- | :-----------: | ------------------------------------------------ | --------------------------------------------------------------------------------------------------------- |
-| [u/DemoseDT](https://www.reddit.com/u/DemoseDT)               |     v1.0      | (NO LONGER VALID) Proposal to use Base-6                           | [See](https://www.reddit.com/r/EncapsulatedLanguage/comments/hhbond/draft_proposal_base_six/)             |
+::: danger Invalid Proposals
+  The follows proposals is no longer valid because they are superseded or voted on and failed.
+::: 
+
+| Proponent                                           | Draft Version | Summary                    | Link                                                                                              |
+| --------------------------------------------------- | :-----------: | -------------------------- | ------------------------------------------------------------------------------------------------- |
+| ~~[u/DemoseDT](https://www.reddit.com/u/DemoseDT)~~ |   ~~v1.0~~    | ~~Proposal to use Base-6~~ | ~~[See](https://www.reddit.com/r/EncapsulatedLanguage/comments/hhbond/draft_proposal_base_six/)~~ |
 

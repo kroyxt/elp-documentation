@@ -95,6 +95,16 @@
 		"scope": "markdown",
 		"prefix": "user",
 		"body": "[u/$1](https://www.reddit.com/u/$1)$0"
+	},
+
+	"Add Invalid Proposal Info": {
+		"scope": "markdown",
+		"prefix": "invalid",
+		"body": [
+			"::: danger Invalid Proposals",
+ 			"  The follows proposals is no longer valid because they are superseded or voted on and failed.",
+			":::"
+		]
 	}
 
 }
