@@ -50,7 +50,7 @@ A child who speaks this language natively would be taught how to recognise all t
 
 ## How do you we intend on protecting against knowledge degradation?
 
-Esperanto is a perfect example of a language whose internal culture protects it against language degradation and haphazard evolution. The internal culture of Esperanto prizes evolution which improves upon the language, but doesn't divert from the rules laid out over a hundred years ago in the "Fundamento de Esperanto". In essence, its the first language with a constitution that's actively upheld by all members of the community. We intend to implement our own constitution to protect our language against such degradation.
+Esperanto is a perfect example of a language whose internal culture protects it against language degradation and haphazard evolution. The internal culture of Esperanto prizes evolution which improves upon the language, but doesn't divert from the rules laid out over a hundred years ago in the "Fundamento de Esperanto". In essence, it's the first language with a constitution that's actively upheld by all members of the community. We intend to implement our own constitution to protect our language against such degradation.
 
 ## What is the process to change the language or add new knowledge?
 
