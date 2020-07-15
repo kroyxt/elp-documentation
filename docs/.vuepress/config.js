@@ -1,6 +1,6 @@
 module.exports = {
   // Titolo de la projekto
-  title: 'Encapsulated Language Projects',
+  title: 'Encapsulated Language Project',
 
   // Priskribo de la projekto
 	description: 'Documentation',

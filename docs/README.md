@@ -1,4 +1,4 @@
-# Encapsulated Language Projects
+# Encapsulated Language Project
 
 ## Language Name
 
