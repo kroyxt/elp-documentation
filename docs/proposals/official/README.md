@@ -31,6 +31,7 @@ The Encapsulated Language uses the following phonemes.
 | Trill | | r | | |
 
 | | Front | Back |
+| -------- | -------- | -------- |
 | High | i iː | u uː |
 | Mid | e eː | o o: |
 | Low | | ɑ ɑː |
