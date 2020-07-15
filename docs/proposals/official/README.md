@@ -34,7 +34,7 @@ The Encapsulated Language uses the following phonemes.
 | -------- | -------- | -------- |
 | High | i iː | u uː |
 | Mid | e eː | o o: |
-| Low | | ɑ ɑː |
+| Low | | a aː |
 
 | Approved Date     | Vote Summary | Link                                                                                                    |
 | ------------- | :-----------: | ------------------------------------------------------------------------------------------------------- |
