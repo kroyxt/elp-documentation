@@ -1,5 +1,9 @@
 # Phonology
 
+| Proponent                                                 | Draft Version | Summary                                                                                                                                                                                                                                                                                 | Link                                                                                                                     |
+| --------------------------------------------------------- | :-----------: | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------ |
+| [u/ArmoredFarmer](https://www.reddit.com/u/ArmoredFarmer)             |     v1.0      | Proposal to slightly change the Phonology of the Language.                                                                                                                                                                                           | [See](https://www.reddit.com/r/EncapsulatedLanguage/comments/hrvnmz/minor_changes_to_the_phonology_draft_proposal/)    |
+
 ::: danger Invalid Proposals
   The following proposals are no longer valid because they've been superseded or voted on and failed.
 :::
