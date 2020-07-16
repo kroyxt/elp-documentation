@@ -23,6 +23,7 @@ module.exports = {
       { text: 'Home', link: '/' },
       { text: 'Reddit', link: 'https://www.reddit.com/r/EncapsulatedLanguage/new/' },
 			{ text: 'Youtube', link: 'https://www.youtube.com/channel/UCqqCQngo0EGuFVs6A9UUTUA/' },
+			{ text: 'Discord', link: 'https://discord.gg/8WvgTRF'}
     ],
 
 		displayAllHeaders: true, // Default: false
