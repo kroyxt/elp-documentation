@@ -22,13 +22,13 @@ The Encapsulated Language uses a Base-12 numbering system.
 
 The Encapsulated Language uses the following phonemes.
 
-|           | Bilabial | Alveolar       | Velar | Palatal |
-| --------  | -------- | -------------- | ----- | ------- |
-| Nasal     | m        | n              |       |         |
-| Plosive   | p b      | t d            | k g   |         |
-| Fricative | f v      | s z            | x ɣ   |         |
-| Approximant          | l              |       | j       |
-| Trill     |          | r              |       |         |
+|            | Bilabial | Alveolar       | Velar | Palatal |
+| ---------- | -------- | -------------- | ----- | ------- |
+| Nasal      | m        | n              |       |         |
+| Plosive    | p b      | t d            | k g   |         |
+| Fricative  | f v      | s z            | x ɣ   |         |
+| Approximant|          | l              |       | j       |
+| Trill      |          | r              |       |         |
 
 | | Front | Back |
 | -------- | -------- | -------- |
