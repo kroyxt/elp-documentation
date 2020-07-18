@@ -16,7 +16,7 @@ module.exports = {
 
     // Logo kiu estas montrita supran dekstron de la retpaĝo
     // ĉi tiu doziero estas en docs/.vuepress/public/img
-		logo: '/img/icon.png',
+		logo: '/img/logoHeader.png',
 
     // Menuo kiu estas montrita supran maldekstron de la retpaĝo
 		 nav: [
