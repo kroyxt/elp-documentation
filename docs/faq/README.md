@@ -48,13 +48,13 @@ An example of caching can be found in the [Draft Proposal](https://www.reddit.co
 
 A child who speaks this language natively would be taught how to recognise all the patterns that exist within their language. In the case of the numerals, they would be taught how to recognise the 3x and 4x multiplication tables visually. They'd also intuitively learn that numbers like 6 are actually additions consisting of 4 + 2.
 
-## How do you we intend on protecting against knowledge degradation?
+## How do you we intend on protecting against language degradation?
 
 Esperanto is a perfect example of a language whose internal culture protects it against language degradation and haphazard evolution. The internal culture of Esperanto prizes evolution which improves upon the language, but doesn't divert from the rules laid out over a hundred years ago in the "Fundamento de Esperanto". In essence, it's the first language with a constitution that's actively upheld by all members of the community. 
 
 Icelandic is another perfect example of a language whose prescriptivist culture protects it against unacceptable language evolution. In the early half of the 20th century, Icelandic started to undergo a rapid [/ɪ/-/ɛ/ merger](https://is.wikipedia.org/wiki/Flámæli). People in the West and South of Iceland started dropping their short i's and y's in favor of e's and œ's instead. Within a generation, this "speech error" rapidly spread across the island, and by 1929, 42% of children in Reykjavík spoke improper Icelandic. In the late 1940s, the Icelandic government implemented a campaign to systematically eradicate the speech error through early primary school education. The National Theater also enforced a policy of proper speech only at all times. By the 1960s, this widespread speech error had been eliminated.
 
-We intend to implement our own constitution and foster a prescriptivist culture that actively protects our language from language degradation.
+We intend on implementing our own constitution and foster a prescriptivist culture that actively protects our language from language degradation.
 
 
 
