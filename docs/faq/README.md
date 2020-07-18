@@ -96,7 +96,11 @@ New sections shouldn’t be added to this document unless:
 
 - They have general community support,
 - They are so minor they won’t impact upon anyone else’s work.
-  
+
+## Where Can I Download The Official Logo From?
+
+You can download a ZIP file containing several different versions of the Official logo from [here](/elp-documentation/Elp-logo.zip)
+
 ## What to do with contradictions?
 
 This is an open source project which means errors and contradictions will appear. If you notice two sections that contradict one another then please post them to Reddit for discussion.
