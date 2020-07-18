@@ -22,13 +22,13 @@ The Encapsulated Language uses a Base-12 numbering system.
 
 The Encapsulated Language uses the following phonemes.
 
-| | Bilabial | Alveolar | Post alveolar | Velar |
-| -------- | -------- | -------- | ------------- | ----- |
-| Nasal | m | n | | |
-| Plosive | p b | t d | | k g |
-| Fricative |  | s z | ʃ ʒ | x ɣ |
-| Approximant | | l | | |
-| Trill | | r | | |
+|           | Bilabial | Alveolar       | Velar | Palatal |
+| --------  | -------- | -------------- | ----- | ------- |
+| Nasal     | m        | n              |       |         |
+| Plosive   | p b      | t d            | k g   |         |
+| Fricative | f v      | s z            | x ɣ   |         |
+| Approximant          | l              |       | j       |
+| Trill     |          | r              |       |         |
 
 | | Front | Back |
 | -------- | -------- | -------- |
@@ -38,6 +38,7 @@ The Encapsulated Language uses the following phonemes.
 
 | Approved Date     | Vote Summary | Link                                                                                                    |
 | ------------- | :-----------: | ------------------------------------------------------------------------------------------------------- |
+| 18/07/2020    |     14 for / 5 against      | [See](https://www.reddit.com/r/EncapsulatedLanguage/comments/hs66eh/official_proposal_vote_to_slightly_modify_the/) |
 | 15/07/2020    |     12 for Devono / 11 for ArmoredFarmer      | [See](https://www.reddit.com/r/EncapsulatedLanguage/comments/hqbnuh/official_phonology_proposal_final_round_of_voting/) |
 
 ## Logo
