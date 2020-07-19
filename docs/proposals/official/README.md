@@ -3,10 +3,11 @@
 Following is a list of Official Proposals. A Official Proposal defines an aspect of the language that has community support (it has been voted on and approved by 50% of voting participants). All Draft Proposals must work in accordance with these Official Proposals unless they call to replace an Official Proposal. 
 
 ## Community Administration
-Richard Delamore (Evildea) is the gatekeeper for all votes on Official Proposals. Proponents of Official Proposals must first contact him before posting a vote on an Official Proposal. He is responsible for ensuring that a vote on an Official Proposal doesn't contradict an existing Official Proposal, unless of course it's seeking to replace an Official Proposal. He's also responsible for ensuring that there is enough information in the Proposal and that it's formatted correctly and clearly.
+The Official Proposal Committee is responsible for ensuring that all Draft Proposals are in accordance with the aims and goals of the Language.
 
 | Approved Date     | Vote Summary | Link                                                                                                    |
 | ------------- | :-----------: | ------------------------------------------------------------------------------------------------------- |
+| 19/07/2020 |     11 for / 2 against | [See](https://www.reddit.com/r/EncapsulatedLanguage/comments/hsot1a/official_proposal_implementation_of_an_official/)    |
 | 01/07/2020    |     13 for / 0 against      | [See](https://www.reddit.com/r/EncapsulatedLanguage/comments/hgyh4a/draft_proposal_evildea_act_as_a_gate_keeper_for/) |
 
 ## Number Base
