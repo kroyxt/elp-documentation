@@ -56,18 +56,36 @@ Icelandic is another perfect example of a language whose prescriptivist culture 
 
 We intend on implementing our own constitution and foster a prescriptivist culture that actively protects our language from language degradation.
 
-
-
-## What is the process to change the language or add new knowledge?
+## What is the process to change the language or expand on the language?
 
 In order to make changes to the language, the following process needs to be adhered to.
 
 1. The **Proponent** of the change or addition needs to clearly define what aspect of the language they think needs to be changed or added to.
-2. The **Proponent** then needs to check the “Encapsulated Language Project Documentation” to see whether any of the existing Draft Proposal covers their proposed changes or additions.
+2. The **Proponent** then needs to check the “Encapsulated Language Project Documentation” to see whether any existing Draft Proposal covers their proposed changes or additions.
    - If there’s an existing **Draft Proposal**, then the proponent should throw their support behind that proposal.
    - If there isn’t an existing **Draft Proposal**, then the proponent should post their [Draft Proposal](https://www.reddit.com/r/EncapsulatedLanguage/) for feedback.
 3. The **Proponent** should acknowledge community feedback and update their Draft Proposal accordingly.
-4. If a **Draft Proposal** generates enough community feedback / support, the **Proponent** is to send their finalised Proposal to /u/ActingAustralia (Richard Delamore). Richard will organise a vote asking the community to either accept or reject the proposal. Members of the community will have 3 days to vote in the poll. If the Official Proposal gets 50% or more support, the Proposal will be promoted to an **Official Proposal**.
+4. If a **Draft Proposal** generates enough community feedback / support, the Proponent can send their finalized Proposal to the **Official Proposal Committee**. The Official Proposal Committee will review the Proposal and either accept or reject the Proposal based on their mandate. If the Proposal is accepted /u/ActingAustralia (Richard Delamore) will organise a community vote asking the community to either accept or reject the proposal. Members of the community will have 2 or 3 days to vote in the poll (depending on the severity of the change). If the Official Proposal gets 50% or more support, the Proposal will be promoted to an Official Proposal.
+
+## What is the Official Proposal Committee?
+
+The Official Proposal Committee is responsible for ensuring that all Draft Proposals seeking officialisation through community vote adhere to the aims and goals of the Language.
+
+**Submission of Proposals**
+The Proponent must send their finalized Draft Proposal to any member of the Official Proposal Committee with a request for Officialisation.
+
+**Review of Proposals**
+- The Official Proposal Committee must ensure that all Draft Proposals seeking officialisation through community vote adhere to the aims and goals of the Language.
+- The Official Proposal Committee must provide a proponent of a rejected Draft Proposal with a reason for why the Proposal was rejected.
+- If a vote to accept/reject a Proposal results in a tie, /u/ActingAustralia (Richard Delamore) will act as the tie breaker.
+
+**Membership**
+- The Official Proposal Committee consists of exactly six members.
+- If a member retires from the committee or becomes inactive, the other members of the committee can vote to remove him/her. A vote for removal requires majority support among committee members.
+- The committee can choose to fill a vacant position by any means it desires, however, the new committee member must have a strong record of consistent and active participation in the project to be eligible.
+
+**Current Members**
+To be updated shortly.
 
 ## When will the Language be finalised
 
