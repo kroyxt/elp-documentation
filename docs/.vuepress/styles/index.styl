@@ -1,0 +1,42 @@
+.navbar
+	border-bottom 3px solid $accentColorDark
+
+.navbar, .navbar .links
+	background-color $accentColor !important
+
+.navbar .links
+	background-color red
+
+.navbar, .site-name.can-hide, .navbar .links .icon.outbound
+	color white !important
+
+// Sidebar
+
+.sidebar
+	background-color lighten($accentColor, 99%)
+	border none
+	box-shadow 1px 0px 4px grey
+
+.sidebar .sidebar-link:hover
+	border-right 3px solid $accentColor
+
+.sidebar .sidebar-sub-headers .active.sidebar-link
+	font-weight bold
+	color $accentColorDark
+
+// Content
+
+.page a
+	font-weight bold
+
+h1, h2, h3
+	color $accentColorDark
+
+// Table 
+
+th, td
+	border-color desaturate($accentColorLight, 80%)
+
+table .icon.outbound
+	display none
+

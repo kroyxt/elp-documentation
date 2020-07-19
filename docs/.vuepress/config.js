@@ -16,7 +16,7 @@ module.exports = {
 
     // Logo kiu estas montrita supran dekstron de la retpaĝo
     // ĉi tiu doziero estas en docs/.vuepress/public/img
-		logo: '/img/icon.png',
+		logo: '/img/logoHeader.png',
 
     // Menuo kiu estas montrita supran maldekstron de la retpaĝo
 		 nav: [
@@ -34,10 +34,10 @@ module.exports = {
       // Ĉefa sekcio de la dokumentado
       {
         title: 'Documentation',
-        path: '/',
+        path: '/documentation',
         collapsable: true,
         children: [
-          '/'
+          '/documentation'
         ]
       },
 
@@ -79,9 +79,10 @@ module.exports = {
 
 		repo: 'kroyxlab/elp-documentation',
 		repoLabel: 'Contribute!',
-		DocsRepo: 'kroyxlab/elp-documentation',
-		DocsDir: 'docs',
-		editsLinks: true,
+		docsRepo: 'kroyxlab/elp-documentation',
+		docsDir: 'docs',
+		editLinks: true,
+		editLinkText: 'Help us improve this page!',
     lastUpdated: 'Last Updated',
     smoothScroll: true
 	},
