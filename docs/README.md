@@ -1,16 +1,16 @@
 ---
 home: true
 heroImage: ./logo.png
-heroText: Encapsulate Language Project
+heroText: Encapsulated Language Project
 tagline: Hero subtitle
 actionText: See the Documentation →
 actionLink: /documentation
 features:
 - title: Encapsulation
-  details: The language encapsulate as much scientific and mathematical knowledge within the sounds, syllables, words, patterns, and essence of the Language itself to facilitate an intuitive understanding of the world around us.
-- title: Vue-Powered
-  details: Enjoy the dev experience of Vue + webpack, use Vue components in markdown, and develop custom themes with Vue.
-- title: Performant
-  details: VuePress generates pre-rendered static HTML for each page, and runs as an SPA once a page is loaded.
-footer: MIT Licensed | Copyright 
+  details: We aim to create a language that encapsulates as much scientific and mathematical knowledge.
+- title: Intuitiveness
+  details: We aim to create an intuitive understanding of the world from a mathematical and scientific perspective.
+- title: Evolution
+  details: We aim to raise a generation of speakers to be tomorrow's leaders.
+footer: Encapsulated Language Project 2020-present
 ---
