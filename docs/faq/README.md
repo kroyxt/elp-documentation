@@ -85,12 +85,12 @@ The Proponent must send their finalized Draft Proposal to any member of the Offi
 - The committee can choose to fill a vacant position by any means it desires, however, the new committee member must have a strong record of consistent and active participation in the project to be eligible.
 
 **Current Committee Members**
-[u/ActingAustralia](https://www.reddit.com/u/ActingAustralia)
-[u/ArmoredFarmer](https://www.reddit.com/u/ArmoredFarmer)
-[u/kroyxlab](https://www.reddit.com/u/kroyxlab)
-[u/Flamerate1](https://www.reddit.com/u/Flamerate1)
-[u/Xianhei](https://www.reddit.com/u/Xianhei)
-[u/Zinkobe5](https://www.reddit.com/u/u/Zinkobe5)
+- [u/ActingAustralia](https://www.reddit.com/u/ActingAustralia)
+- [u/ArmoredFarmer](https://www.reddit.com/u/ArmoredFarmer)
+- [u/kroyxlab](https://www.reddit.com/u/kroyxlab)
+- [u/Flamerate1](https://www.reddit.com/u/Flamerate1)
+- [u/Xianhei](https://www.reddit.com/u/Xianhei)
+- [u/Zinkobe5](https://www.reddit.com/u/u/Zinkobe5)
 
 ## When will the Language be finalised
 
