@@ -46,7 +46,7 @@ The Encapsulated Language uses the following phonemes.
 
 This Logo represents the Encapsulated Language Project.
 
-![Logo](/elp-documentation/img/LogoLarge.png)
+![Logo](/elp-documentation/img/logo.png)
 
 | Approved Date     | Vote Summary | Link                                                                                                    |
 | ------------- | :-----------: | ------------------------------------------------------------------------------------------------------- |
