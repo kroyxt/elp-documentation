@@ -2,7 +2,7 @@
 home: true
 heroImage: ./logo.png
 heroText: Encapsulated Language Project
-tagline: Hero subtitle
+tagline: An opensource project to create the language of tomorrow's leaders
 actionText: See the Documentation →
 actionLink: /documentation
 features:
