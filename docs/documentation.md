@@ -16,9 +16,11 @@ present your proposal in [Reddit](https://www.reddit.com/r/EncapsulatedLanguage/
 present your proposal in [Reddit](https://www.reddit.com/r/EncapsulatedLanguage/new/)
 :::
 
-## Aim of the Language
+## Aims and Goals of the Language
 
 The Encapsulated Language Project aims to create a Language that encapsulates as much scientific and mathematical knowledge within the sounds, syllables, words, patterns, and essence of the Language itself to facilitate an intuitive understanding of the world around us. A speaker of this language will have instant access to a large pool of knowledge simply through understanding how to unpack and parse their own language to utilize the knowledge cached within it.
+
+The end goal of this project is to create a language parents can raise their children speaking natively alongside their other native languages. The children would acquire this language like any other native language. Then, when the child starts their education, the parent would instruct them on how to analyze and parse their native language to gain access to a wide range of mathematical and scientific knowledge. This will help the child to gain an intuitive understanding of the world around them and lower the amount of rote memorization required.
 
 [Video](https://youtu.be/0VCLTq6epQQ) by Richard Delamore (Evildea), instigator of the Encapsulated Language Project.
 

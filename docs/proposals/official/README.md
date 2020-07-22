@@ -29,7 +29,7 @@ The Encapsulated Language uses the following phonemes.
 | Plosive    | p b      | t d            | k g   |         |
 | Fricative  | f v      | s z            | x ɣ   |         |
 | Approximant|          | l              |       | j       |
-| Trill      |          | r              |       |         |
+| Tap or Flap |          | ɾ              |       |         |
 
 | | Front | Back |
 | -------- | -------- | -------- |
@@ -39,6 +39,7 @@ The Encapsulated Language uses the following phonemes.
 
 | Approved Date     | Vote Summary | Link                                                                                                    |
 | ------------- | :-----------: | ------------------------------------------------------------------------------------------------------- |
+| 22/07/2020    |     16 for / 10 against      | [See](https://www.reddit.com/r/EncapsulatedLanguage/comments/huihs2/official_proposal_vote_to_replace_the_trilled_r/?utm_source=share&utm_medium=ios_app&utm_name=iossmf) |
 | 18/07/2020    |     14 for / 5 against      | [See](https://www.reddit.com/r/EncapsulatedLanguage/comments/hs66eh/official_proposal_vote_to_slightly_modify_the/) |
 | 15/07/2020    |     12 for Devono / 11 for ArmoredFarmer      | [See](https://www.reddit.com/r/EncapsulatedLanguage/comments/hqbnuh/official_phonology_proposal_final_round_of_voting/) |
 
