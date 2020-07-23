@@ -36,7 +36,7 @@ present your proposal in [Reddit](https://www.reddit.com/r/EncapsulatedLanguage/
 
 **Language Fundamental:** An aspect of the language that can’t be changed by any single individual or groups of individuals.
 
-**The Official Proposal Committee:** is a group of six people responsible for ensuring that all Draft Proposals seeking officialisation through community vote adhere to the aims and goals of the Language.
+**The Official Proposal Committee:** Is a group of six people responsible for ensuring that all Draft Proposals seeking officialisation through community vote adhere to the aims and goals of the Language.
 
 ## History of the Encapsulated Language Project
 
