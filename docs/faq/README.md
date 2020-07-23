@@ -42,7 +42,7 @@ An example of caching can be found in the [Draft Proposal](https://www.reddit.co
 
 A child who speaks this language natively would be taught how to recognise all the patterns that exist within their language. In the case of the numerals, they would be taught how to recognise the 3x and 4x multiplication tables visually. They'd also intuitively learn that numbers like 6 are actually additions consisting of 4 + 2.
 
-## How do you we intend on protecting against language degradation?
+## How do we intend on protecting the language against language degradation?
 
 Esperanto is a perfect example of a language whose internal culture protects it against language degradation and haphazard evolution. The internal culture of Esperanto prizes evolution which improves upon the language, but doesn't divert from the rules laid out over a hundred years ago in the "Fundamento de Esperanto". In essence, it's the first language with a constitution that's actively upheld by all members of the community. 
 
