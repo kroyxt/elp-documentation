@@ -33,9 +33,9 @@ The primary disciplines whose fundamentals will be encapsulated within the langu
 
 A large array of knowledge from other disciplines will also be encapsulated. The primary decider on what knowledge is encapsulated and isn't will be pertinence of usage for school-age children. The aim is to store the fundamental concepts of each of these disciplines, not the entire discipline itself. 
 
-## What is caching and parsing?
+## How is mathematical and scientific information encapsulated?
 
-An example of caching can be found in the [Draft Proposal](https://www.reddit.com/r/EncapsulatedLanguage/comments/hfvung/when_encapsulation_is_going_too_far_part_ii/) for the numerals currently being developed for the language. The numerals have the following information cached within them:
+An example of encapsulation can be found in the [Official Proposal](https://www.reddit.com/r/EncapsulatedLanguage/comments/hvmhsr/official_proposal_vote_to_officialise_the_numeral/) for the numerals. The numerals have the following information cached within them:
 - 3x multiplication table (Any numeral that consists of three strokes belongs to the 3x multiplication table)
 - 4x multiplication table (Any numeral that contains only horizontal bars belongs to the 4x multiplication table)
 - All numerals representing a number greater than 4 are built from the numerals 1, 2, 3, or 4.
