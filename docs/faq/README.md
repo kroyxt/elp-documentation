@@ -139,7 +139,8 @@ You can download a ZIP file containing several different versions of the Officia
 ## Where can I download programs to type the numbers from?
 
 **Windows**
-You can download a ZIP file containing a number typer compatible with newer versions of Windows from [here](/elp-documentation/Elp-number.zip)
+
+You can download a ZIP file containing a number typer compatible with newer versions of Windows from [here](/elp-documentation/Elp-Win-NumberTyper.zip)
 
 ## What to do with contradictions?
 
