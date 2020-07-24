@@ -132,9 +132,14 @@ New sections shouldn’t be added to this document unless:
 - They have general community support,
 - They are so minor they won’t impact upon anyone else’s work.
 
-## Where Can I Download The Official Logo From?
+## Where can I download the Official Logo from?
 
 You can download a ZIP file containing several different versions of the Official logo from [here](/elp-documentation/Elp-logo.zip)
+
+## Where can I download programs to type the numbers from?
+
+**Windows**
+You can download a ZIP file containing a number typer compatible with newer versions of Windows from [here](/elp-documentation/Elp-number.zip)
 
 ## What to do with contradictions?
 
