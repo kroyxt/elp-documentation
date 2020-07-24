@@ -1,9 +1,5 @@
 # Phonology
 
-| Proponent                                                 | Draft Version | Summary                                                                                                                                                                                                                                                                                 | Link                                                                                                                     |
-| --------------------------------------------------------- | :-----------: | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------ |
-| [u/the_gaffer16](https://www.reddit.com/u/the_gaffer16)             |     v1.0      | Proposal to replace the trill with a tapped r.                                                                                                                                                                                           | [See](https://www.reddit.com/r/EncapsulatedLanguage/comments/hu7l6s/draft_proposal_for_the_removal_of_the_trill/)    |
-
 ::: danger Invalid Proposals
   The following proposals are no longer valid because they've been superseded or voted on and failed.
 :::

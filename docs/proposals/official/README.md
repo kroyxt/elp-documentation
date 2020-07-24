@@ -19,6 +19,16 @@ The Encapsulated Language uses a Base-12 numbering system.
 | 03/07/2020    |     18 for Base-12 / 6 for Base-6      | [See](https://www.reddit.com/r/EncapsulatedLanguage/comments/hil5am/official_proposal_base_12_or_base_6/) |
 | 30/06/2020    |     23 for Base-12 / 10 for Base-16      | [See](https://www.reddit.com/r/EncapsulatedLanguage/comments/hg350n/base_12_or_base_16/) |
 
+## Numerals
+
+The Encapsulated Language uses the following numerals.
+
+![Numerals](/elp-documentation/img/Numerals.png)
+
+| Approved Date     | Vote Summary | Link                                                                                                    |
+| ------------- | :-----------: | ------------------------------------------------------------------------------------------------------- |
+| 24/07/2020    |     22 for / 2 against      | [See](https://www.reddit.com/r/EncapsulatedLanguage/comments/hvmhsr/official_proposal_vote_to_officialise_the_numeral/) |
+
 ## Phonology
 
 The Encapsulated Language uses the following phonemes.
@@ -51,6 +61,7 @@ This Logo represents the Encapsulated Language Project.
 
 | Approved Date     | Vote Summary | Link                                                                                                    |
 | ------------- | :-----------: | ------------------------------------------------------------------------------------------------------- |
-| 04/07/2020    |     14 for / 9 against      | [See](https://www.reddit.com/r/EncapsulatedLanguage/comments/hogy7t/official_proposal_to_replace_the_official_logo/) |
+| 10/07/2020    |     14 for / 9 against      | [See](https://www.reddit.com/r/EncapsulatedLanguage/comments/hogy7t/official_proposal_to_replace_the_official_logo/) |
+| 04/07/2020    |     18 for / 8 against      | [See](https://www.reddit.com/r/EncapsulatedLanguage/comments/hizw84/official_proposal_logo/) |
 
 
