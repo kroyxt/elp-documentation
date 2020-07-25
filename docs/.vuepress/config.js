@@ -51,6 +51,7 @@ module.exports = {
           '/proposals/draft/communityAdministration',
           '/proposals/draft/numberBase',
           '/proposals/draft/numerals',
+          '/proposals/draft/numbers',
           '/proposals/draft/script',
           '/proposals/draft/phonology',
           '/proposals/draft/phonotactics',
