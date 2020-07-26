@@ -4,8 +4,8 @@
 
 The language doesn’t currently have a name.
 
-::: tip We’re currently accepting proposals.
-present your proposal in [Reddit](https://www.reddit.com/r/EncapsulatedLanguage/new/)
+::: tip We’re currently not accepting proposals for a name.
+The consensus among the Official Proposal Committee is that a name won't be chosen until the Language is sufficiently developed.
 :::
 
 ## Language Logo / Flag
