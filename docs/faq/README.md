@@ -4,6 +4,20 @@
 
 The Encapsulated Language Project is creating a language that will store as much scientific and mathematical knowledge as possible. Naturally, this will result in an a priori language whose phonology, grammar and vocabulary will be consciously devised.
 
+## Is internationalisation more important than encapsulation?
+
+The aims and goals of the language state:
+
+"The Encapsulated Language Project aims to create a Language that encapsulates as much scientific and mathematical knowledge within the sounds, syllables, words, patterns, and essence of the Language itself to facilitate an intuitive understanding of the world around us."
+
+The aims and goals of the language don't mention internationalization.
+
+On the 18th of July 2020, the [community voted](https://www.reddit.com/r/EncapsulatedLanguage/comments/hle5yj/what_do_we_want_to_encapsulate_in_our_phonologies/) that "phonologies shouldn't focus on being international but on information packing so that we can have more flexibility down the track when developing the language."
+
+On the 24th of July 2020, [u/Flamerate1](https://www.reddit.com/u/Flamerate1) (Official Proposal Committee Member) reinforced the importance of encapsulation by stating, "The goal of this language is encapsulation. We want to figure out systems that will allow us to pack and easily retrieve information from the common words that one would use in daily life, as their current phonemic representations in most languages are usually meaningless."
+
+In summary, proposals should prioritize encapsulation over internationalization.
+
 ## What knowledge will be encapsulated?
 
 ::: tip We’re currently accepting proposals.
