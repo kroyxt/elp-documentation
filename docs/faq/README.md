@@ -4,7 +4,7 @@
 
 The Encapsulated Language Project is creating a language that will store as much scientific and mathematical knowledge as possible. Naturally, this will result in an a priori language whose phonology, grammar and vocabulary will be consciously devised.
 
-## Is internationalisation more important than encapsulation?
+## Is internationalization more important than encapsulation?
 
 The aims and goals of the language state:
 
