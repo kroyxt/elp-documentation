@@ -58,15 +58,15 @@ A child who speaks this language natively would be taught how to recognise all t
 
 ## How do we intend on protecting the language against language degradation?
 
-It's vitally important to the success of the project that the mathematical and scientific knowledge encapsulated isn't lost. This doesn't mean that the language can't evolve, it just means that it must evolve in a way that improves upon the knowledge encapsulated. 
+It's vitally important to the success of the Language that the mathematical and scientific knowledge encapsulated within it doesn't become lost with time. This doesn't mean that we must fight against all language evolution, it just means that we must carefully manage its evolution to avoid knowledge degradation.
 
-So is it actually possible to control language degradation?
+So is it even possible to manage the evolution of a language?
 
-Yes, Esperanto is a perfect example of a language whose internal culture protects it against language degradation and haphazard evolution. The internal culture of Esperanto prizes evolution which improves upon the language, but doesn't divert from the rules laid out over a hundred years ago in the "Fundamento de Esperanto". In essence, it's the first language with a constitution that's actively upheld by all members of the community. 
+Yes, Esperanto is a perfect example of a language whose internal culture protects it against language degradation and haphazard evolution. The internal culture of Esperanto prizes evolution which improves upon the language, but doesn't divert from the rules laid out over a hundred years ago in the "Fundamento de Esperanto". In essence, it's the first language with a constitution that's actively upheld by the majority of the community. 
 
-Icelandic is another perfect example of a language whose prescriptivist culture protects it against unacceptable language evolution. In the early half of the 20th century, Icelandic started to undergo a rapid [/ɪ/-/ɛ/ merger](https://is.wikipedia.org/wiki/Flámæli). People in the West and South of Iceland started dropping their short i's and y's in favor of e's and œ's instead. Within a generation, this "speech error" rapidly spread across the island, and by 1929, 42% of children in Reykjavík spoke improper Icelandic. In the late 1940s, the Icelandic government implemented a campaign to systematically eradicate the speech error through early primary school education. The National Theater also enforced a policy of proper speech at all times. By the 1960s, this widespread speech error had been eliminated.
+Icelandic is another perfect example of a language whose prescriptivist culture protects it against unacceptable language evolution. In the early half of the 20th century, Icelandic started to undergo a rapid [/ɪ/-/ɛ/ merger](https://is.wikipedia.org/wiki/Flámæli). People in the West and South of Iceland started dropping their short i's and y's in favor of e's and œ's instead. Within a generation, this "speech error" rapidly spread across the island, and by 1929, 42% of children in Reykjavík spoke improper Icelandic. In the late 1940s, the Icelandic government implemented a campaign to systematically eradicate this speech error through early primary school education. The National Theater also enforced a policy of proper speech at all times. By the 1960s, this widespread speech error had been eliminated.
 
-We intend on implementing our own constitution and foster a prescriptivist culture that actively protects our language from language degradation to protect the knowledge cached within it.
+We intend on implementing our own constitution and foster a prescriptivist culture that actively protects our language from language degradation in order to protect the knowledge cached within it.
 
 ## What is the process to change the language or expand on the language?
 
