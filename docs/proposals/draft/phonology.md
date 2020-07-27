@@ -1,5 +1,9 @@
 # Phonology
 
+| Proponent                                                 | Draft Version | Summary                                                                                                                                                                                                                                                                                 | Link                                                                                                                     |
+| --------------------------------------------------------- | :-----------: | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------ |
+| [u/Akangka](https://www.reddit.com/u/Akangka)             |     v1.0      | This phonology proposals the removal of /ɣ/ and the restructuring of the Phonology pattern.                   | [See](https://www.reddit.com/r/EncapsulatedLanguage/comments/hylh29/remove_the_phoneme_%C9%A3/)    |
+
 ::: danger Invalid Proposals
   The following proposals are no longer valid because they've been superseded or voted on and failed.
 :::
