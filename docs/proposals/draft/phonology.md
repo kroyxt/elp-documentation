@@ -2,6 +2,7 @@
 
 | Proponent                                                 | Draft Version | Summary                                                                                                                                                                                                                                                                                 | Link                                                                                                                     |
 | --------------------------------------------------------- | :-----------: | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------ |
+| [u/nadelis_ju](https://www.reddit.com/u/nadelis_ju)             |     v1.0      | This phonology proposes to extensively change the phonology.                   | [See](https://www.reddit.com/r/EncapsulatedLanguage/comments/hyr341/3_proposals_on_phonology/)    |
 | [u/Akangka](https://www.reddit.com/u/Akangka)             |     v1.0      | This phonology proposals the removal of /ɣ/ and the restructuring of the Phonology pattern.                   | [See](https://www.reddit.com/r/EncapsulatedLanguage/comments/hylh29/remove_the_phoneme_%C9%A3/)    |
 
 ::: danger Invalid Proposals
