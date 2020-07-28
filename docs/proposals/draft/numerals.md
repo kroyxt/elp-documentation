@@ -1,9 +1,5 @@
 # Numerals
 
-| Proponent                                     | Draft Version | Summary                                                                                                                            | Link                                                                                                              |
-| --------------------------------------------- | :-----------: | ---------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------- |
-| [u/HS1D4ever](https://www.reddit.com/u/HS1D4ever) |     v1.0      | Proposal to allow a small 'o' to be used instead of a dot for the 0 numeral when writing. | [See](https://www.reddit.com/r/EncapsulatedLanguage/comments/hvocw9/numeral_zero_when_handwritting/) |
-
 ::: danger Invalid Proposals
 The following proposals are no longer valid because they've been superseded or voted on and failed.
 ::: 

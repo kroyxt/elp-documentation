@@ -49,9 +49,9 @@ A large array of knowledge from other disciplines will also be encapsulated. The
 
 ## How is mathematical and scientific information encapsulated?
 
-An example of encapsulation can be found in the [Official Proposal](https://www.reddit.com/r/EncapsulatedLanguage/comments/hvmhsr/official_proposal_vote_to_officialise_the_numeral/) for the numerals. The numerals have the following information cached within them:
+An example of encapsulation can be found in the [Official Proposal](https://kroyxlab.github.io/elp-documentation/proposals/official/#numerals) for the numerals. The numerals have the following information cached within them:
 - 3x multiplication table (Any numeral that consists of three strokes belongs to the 3x multiplication table)
-- 4x multiplication table (Any numeral that contains only horizontal bars belongs to the 4x multiplication table)
+- 4x multiplication table (Any numeral that contains only vertical bars belongs to the 4x multiplication table)
 - All numerals representing a number greater than 4 are built from the numerals 1, 2, 3, or 4.
 
 A child who speaks this language natively would be taught how to recognise all the patterns that exist within their language. In the case of the numerals, they would be taught how to recognise the 3x and 4x multiplication tables visually. They'd also intuitively learn that numbers like 6 are actually additions consisting of 4 + 2.
@@ -64,7 +64,7 @@ So is it even possible to manage the evolution of a language?
 
 Yes, Esperanto is a perfect example of a language whose internal culture protects it against language degradation and haphazard evolution. The internal culture of Esperanto prizes evolution which improves upon the language, but doesn't divert from the rules laid out over a hundred years ago in the "Fundamento de Esperanto". In essence, it's the first language with a constitution that's actively upheld by the majority of the community. 
 
-Icelandic is another perfect example of a language whose prescriptivist culture protects it against unacceptable language evolution. In the early half of the 20th century, Icelandic started to undergo a rapid [/ɪ/-/ɛ/ merger](https://is.wikipedia.org/wiki/Flámæli). People in the West and South of Iceland started dropping their short i's and y's in favor of e's and œ's instead. Within a generation, this "speech error" rapidly spread across the island, and by 1929, 42% of children in Reykjavík spoke improper Icelandic. In the late 1940s, the Icelandic government implemented a campaign to systematically eradicate this speech error through early primary school education. The National Theater also enforced a policy of proper speech at all times. By the 1960s, this widespread speech error had been eliminated.
+Icelandic is another example of a language whose prescriptivist culture protects it against unacceptable language evolution. In the early half of the 20th century, Icelandic started to undergo a rapid [/ɪ/-/ɛ/ merger](https://is.wikipedia.org/wiki/Flámæli). People in the West and South of Iceland started dropping their short i's and y's in favor of e's and œ's instead. Within a generation, this "speech error" rapidly spread across the island, and by 1929, 42% of children in Reykjavík spoke improper Icelandic. In the late 1940s, the Icelandic government implemented a campaign to systematically eradicate this speech error through early primary school education. The National Theater also enforced a policy of proper speech at all times. By the 1960s, this widespread speech error had been eliminated.
 
 We intend on implementing our own constitution and foster a prescriptivist culture that actively protects our language from language degradation in order to protect the knowledge cached within it.
 
