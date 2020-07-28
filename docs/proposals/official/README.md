@@ -1,9 +1,14 @@
 # Official Proposals
 
-Following is a list of Official Proposals. A Official Proposal defines an aspect of the language that has community support (it has been voted on and approved by 50% of voting participants). All Draft Proposals must work in accordance with these Official Proposals unless they call to replace an Official Proposal. 
+Following is a list of Official Proposals. A Official Proposal defines an aspect
+of the language that has community support (it has been voted on and approved by
+50% of voting participants). All Draft Proposals must work in accordance with
+these Official Proposals unless they call to replace an Official Proposal.
 
 ## Community Administration
-The Official Proposal Committee is responsible for ensuring that all Draft Proposals are in accordance with the aims and goals of the Language.
+
+The Official Proposal Committee is responsible for ensuring that all Draft
+Proposals are in accordance with the aims and goals of the Language.
 
 | Approved Date     | Vote Summary | Link                                                                                                    |
 | ------------- | :-----------: | ------------------------------------------------------------------------------------------------------- |
@@ -25,7 +30,9 @@ The Encapsulated Language uses the following numerals.
 
 ![Numerals](/elp-documentation/img/Numerals.png)
 
-The numeral '0' can be represented by a little circle such as the symbol for a degree (°), but centred in the middle of the line, like a dot (•) when writing the numeral by **hand only**.
+The numeral '0' can be represented by a little circle such as the symbol for a
+degree (°), but centred in the middle of the line, like a dot (•) when writing
+the numeral by **hand only**.
 
 | Approved Date     | Vote Summary | Link                                                                                                    |
 | ------------- | :-----------: | ------------------------------------------------------------------------------------------------------- |

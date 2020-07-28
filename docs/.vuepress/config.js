@@ -1,37 +1,19 @@
 module.exports = {
-  // Titolo de la projekto
   title: 'Encapsulated Language Project',
-
-  // Priskribo de la projekto
-	description: 'Documentation',
-
-
-	head: [
-    // Favicon
-    // ĉi tiu doziero estas en docs/.vuepress/public/img
-		[ 'link', { rel: 'icon', href: '/img/icon.png' } ]
-	],
-
-	themeConfig: {
-
-    // Logo kiu estas montrita supran dekstron de la retpaĝo
-    // ĉi tiu doziero estas en docs/.vuepress/public/img
-		logo: '/img/logoHeader.png',
-
-    // Menuo kiu estas montrita supran maldekstron de la retpaĝo
-		 nav: [
+  description: 'Documentation',
+  head: [
+    [ 'link', { rel: 'icon', href: '/img/icon.png' } ]
+  ],
+  themeConfig: {
+    logo: '/img/logoHeader.png',
+    nav: [
       { text: 'Home', link: '/' },
       { text: 'Reddit', link: 'https://www.reddit.com/r/EncapsulatedLanguage/new/' },
-			{ text: 'Youtube', link: 'https://www.youtube.com/channel/UCqqCQngo0EGuFVs6A9UUTUA/' },
-			{ text: 'Discord', link: 'https://discord.gg/8WvgTRF'}
+      { text: 'Youtube', link: 'https://www.youtube.com/channel/UCqqCQngo0EGuFVs6A9UUTUA/' },
+      { text: 'Discord', link: 'https://discord.gg/8WvgTRF'}
     ],
-
-		displayAllHeaders: true, // Default: false
-
-    // SideBar
+    displayAllHeaders: true, // Default: false
     sidebar: [
-
-      // Ĉefa sekcio de la dokumentado
       {
         title: 'Documentation',
         path: '/documentation',
@@ -40,11 +22,9 @@ module.exports = {
           '/documentation'
         ]
       },
-
-      // Draft Proposals sekcio
       {
         title: 'Draft Proposals',
-				path: '/proposals/draft',
+        path: '/proposals/draft',
         children: [
           '/proposals/draft/name',
           '/proposals/draft/logo',
@@ -60,8 +40,6 @@ module.exports = {
           '/proposals/draft/calendar',
         ]
       },
-
-      // Official proposals sekcio
       {
         title: 'Official Proposals',
         path: '/proposals/official/',
@@ -69,8 +47,6 @@ module.exports = {
           '/proposals/official/'
         ]
       },
-
-      // FAQ sekcio
       {
         title: 'FAQ',
         path: '/faq/',
@@ -79,16 +55,15 @@ module.exports = {
         ]
       }
     ],
-
-		repo: 'kroyxlab/elp-documentation',
-		repoLabel: 'Contribute!',
-		docsRepo: 'kroyxlab/elp-documentation',
-		docsDir: 'docs',
-		editLinks: true,
-		editLinkText: 'Help us improve this page!',
+    repo: 'kroyxlab/elp-documentation',
+    repoLabel: 'Contribute!',
+    docsRepo: 'kroyxlab/elp-documentation',
+    docsDir: 'docs',
+    editLinks: true,
+    editLinkText: 'Help us improve this page!',
     lastUpdated: 'Last Updated',
     smoothScroll: true
-	},
-	plugins: ['@vuepress/back-to-top'],
-	base: '/elp-documentation/'
+  },
+  plugins: ['@vuepress/back-to-top'],
+  base: '/elp-documentation/'
 }

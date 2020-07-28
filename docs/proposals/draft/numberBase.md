@@ -1,8 +1,9 @@
 # Number Base
 
 ::: danger Invalid Proposals
-  The following proposals are no longer valid because they've been superseded or voted on and failed.
-::: 
+The following proposals are no longer valid because they've been superseded or
+voted on and failed.
+:::
 
 | Proponent                                           | Draft Version | Summary                    | Link                                                                                              |
 | --------------------------------------------------- | :-----------: | -------------------------- | ------------------------------------------------------------------------------------------------- |

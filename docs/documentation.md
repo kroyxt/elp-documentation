@@ -4,8 +4,9 @@
 
 The language doesn’t currently have a name.
 
-::: tip We’re currently not accepting proposals for a name.
-The consensus among the Official Proposal Committee is that a name won't be chosen until the Language is sufficiently developed.
+::: danger We’re currently not accepting proposals for a name.
+The consensus among the Official Proposal Committee is that a name won't be
+chosen until the Language is sufficiently developed.
 :::
 
 ## Language Logo / Flag
@@ -18,11 +19,24 @@ present your proposal in [Reddit](https://www.reddit.com/r/EncapsulatedLanguage/
 
 ## Aims and Goals of the Language
 
-The Encapsulated Language Project aims to create a Language that encapsulates as much scientific and mathematical knowledge within the sounds, syllables, words, patterns, and essence of the Language itself to facilitate an intuitive understanding of the world around us. A speaker of this language will have instant access to a large pool of knowledge simply through understanding how to unpack and parse their own language to utilize the knowledge cached within it.
+The Encapsulated Language Project aims to create a Language that encapsulates as
+much scientific and mathematical knowledge within the sounds, syllables, words,
+patterns, and essence of the Language itself to facilitate an intuitive
+understanding of the world around us. A speaker of this language will have
+instant access to a large pool of knowledge simply through understanding how to
+unpack and parse their own language to utilize the knowledge cached within it.
 
-The end goal of this project is to create a language parents can raise their children speaking natively alongside their other native languages. The children would acquire this language like any other native language. Then, when the child starts their education, the parent would instruct them on how to analyze and parse their native language to gain access to a wide range of mathematical and scientific knowledge. This will help the child to gain an intuitive understanding of the world around them and lower the amount of rote memorization required.
+The end goal of this project is to create a language parents can raise their
+children speaking natively alongside their other native languages. The children
+would acquire this language like any other native language. Then, when the child
+starts their education, the parent would instruct them on how to analyze and
+parse their native language to gain access to a wide range of mathematical and
+scientific knowledge. This will help the child to gain an intuitive
+understanding of the world around them and lower the amount of rote memorization
+required.
 
-[Video](https://youtu.be/0VCLTq6epQQ) by Richard Delamore (Evildea), instigator of the Encapsulated Language Project.
+[Video](https://youtu.be/0VCLTq6epQQ) by Richard Delamore (Evildea), instigator
+of the Encapsulated Language Project.
 
 ::: tip We’re currently accepting improvements of the wording to the stated aim of the language. If you wish to change the wording, please present your proposal in Reddit first.
 present your proposal in [Reddit](https://www.reddit.com/r/EncapsulatedLanguage/new/)
@@ -30,17 +44,27 @@ present your proposal in [Reddit](https://www.reddit.com/r/EncapsulatedLanguage/
 
 ## Encapsulated Language Project Definitions
 
-**Draft Proposal:** A Proposal to change an Official Proposal or add to the language. An addition to the language must be in accordance with all current Official Proposals. Essentially, this is an idea for a change or an addition seeking community feedback.
+**Draft Proposal:** A Proposal to change an Official Proposal or add to the
+language. An addition to the language must be in accordance with all current
+Official Proposals. Essentially, this is an idea for a change or an addition
+seeking community feedback.
 
-**Official Proposal:** A Proposal that defines an aspect of the language and has community support (it has been voted on and approved by 50% of voting participants). All Draft Proposals must work in accordance with all existing Official Proposals.
+**Official Proposal:** A Proposal that defines an aspect of the language and has
+community support (it has been voted on and approved by 50% of voting
+participants). All Draft Proposals must work in accordance with all existing
+Official Proposals.
 
-**Language Fundamental:** An aspect of the language that can’t be changed by any single individual or groups of individuals.
+**Language Fundamental:** An aspect of the language that can’t be changed by any
+single individual or groups of individuals.
 
-**The Official Proposal Committee:** Is a group of six people responsible for ensuring that all Draft Proposals seeking officialisation through community vote adhere to the aims and goals of the Language.
+**The Official Proposal Committee:** Is a group of six people responsible for
+ensuring that all Draft Proposals seeking officialisation through community vote
+adhere to the aims and goals of the Language.
 
 ## History of the Encapsulated Language Project
 
-The project was founded by Richard Delamore (Evildea) on 18th June 2020. The original proposal for the language can be found [here](https://www.youtube.com/watch?v=0VCLTq6epQQ)
+The project was founded by Richard Delamore (Evildea) on 18th June 2020. The
+original proposal for the language can be found [here](https://www.youtube.com/watch?v=0VCLTq6epQQ)
 
 Shortly afterwards, Richard started the [subreddit](https://www.reddit.com/r/EncapsulatedLanguage/)
 
