@@ -51,6 +51,7 @@ module.exports = {
           '/proposals/draft/communityAdministration',
           '/proposals/draft/countryNames',
           '/proposals/draft/logo',
+          '/proposals/draft/meteorology',
           '/proposals/draft/name',
           '/proposals/draft/numberBase',
           '/proposals/draft/numbers',
