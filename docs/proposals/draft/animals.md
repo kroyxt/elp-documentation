@@ -1,0 +1,5 @@
+# Animals
+
+| Proponent                                     | Draft Version | Summary                                                                                                                            | Link                                                                                                              |
+| --------------------------------------------- | :-----------: | ---------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------- |
+| [u/Anjeez929](https://www.reddit.com/u/Anjeez929) |     v1.0      | This Proposal intends to build animal names through a taxonomic tree | [See](https://www.reddit.com/r/EncapsulatedLanguage/comments/hzy4kh/animal_word_system/) |
