@@ -5,7 +5,7 @@
 You can download a ZIP file containing several different versions of the Official
 logo from [here](/elp-documentation/Elp-logo.zip)
 
-## Download graphics for de numerals
+## Download graphics for the numerals
 
 You can download a ZIP file containing several different versions of the
 Official logo from [here](/elp-documentation/Elp-number-pics.zip)

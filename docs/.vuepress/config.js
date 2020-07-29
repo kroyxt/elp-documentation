@@ -42,6 +42,7 @@ module.exports = {
           '/proposals/draft/phonotactics',
           '/proposals/draft/script',
           '/proposals/draft/shapes',
+          '/proposals/draft/touch-alphabet',
         ]
       },
       {
