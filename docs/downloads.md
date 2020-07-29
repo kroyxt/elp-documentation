@@ -1,11 +1,16 @@
 # Downloads
 
-## Download the Official Logo?
+## Download the Official Logo
 
 You can download a ZIP file containing several different versions of the Official
 logo from [here](/elp-documentation/Elp-logo.zip)
 
-## Download programs to type the numbers?
+## Download graphics for de numerals
+
+You can download a ZIP file containing several different versions of the
+Official logo from [here](/elp-documentation/Elp-number-pics.zip)
+
+## Download programs to type the numbers
 
 **Windows**
 
