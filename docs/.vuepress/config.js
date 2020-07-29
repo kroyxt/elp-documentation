@@ -53,9 +53,32 @@ module.exports = {
         title: 'FAQ',
         path: '/faq/',
         children: [
-          '/faq/'
+          '/faq/',
         ]
-      }
+      },
+      {
+        title: 'History',
+        path: '/history',
+        children: [
+          '/history',
+        ]
+      },
+      {
+        title: 'Encapsulation',
+        path: '/encapsulation',
+        children: [
+          '/encapsulation',
+        ]
+      },
+      {
+        title: 'Downloads',
+        path: '/downloads',
+        children: [
+          '/downloads',
+        ]
+      },
+
+
     ],
     repo: 'kroyxlab/elp-documentation',
     repoLabel: 'Contribute!',
