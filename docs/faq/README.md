@@ -309,10 +309,14 @@ New sections shouldn’t be added to this document unless:
 - They have general community support,
 - They are so minor they won’t impact upon anyone else’s work.
 
-## Where can I download the Official Logo from?
+## Where can I download the Official Logo?
 
 You can download a ZIP file containing several different versions of the Official
 logo from [here](/elp-documentation/Elp-logo.zip)
+
+## Where can I download graphics for the numerals?
+
+You can download a ZIP file containing the numerals from here [here](/elp-documentation/Elp-number-pics.zip)
 
 ## Where can I download programs to type the numbers from?
 
