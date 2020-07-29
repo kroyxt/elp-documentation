@@ -316,7 +316,7 @@ logo from [here](/elp-documentation/Elp-logo.zip)
 
 ## Where can I download graphics for the numerals?
 
-You can download a ZIP file containing the numerals from here [here](/elp-documentation/Elp-number-pics.zip)
+You can download a ZIP file containing the numerals from [here](/elp-documentation/Elp-number-pics.zip)
 
 ## Where can I download programs to type the numbers from?
 
