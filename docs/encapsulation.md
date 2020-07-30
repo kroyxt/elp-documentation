@@ -2,6 +2,8 @@
 
 ## What are the benefits of the Encapsulated Language numerals?
 
+![Numerals](/elp-documentation/img/Numerals.png)
+
 ### Base-12
 
 The numerals have been designed with a Base-12 system in mind. Latin numerals
