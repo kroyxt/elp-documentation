@@ -28,6 +28,7 @@ module.exports = {
         children: [
           '/proposals/draft/animals',
           '/proposals/draft/calendar',
+          '/proposals/draft/Chemistry',
           '/proposals/draft/colors',
           '/proposals/draft/communityAdministration',
           '/proposals/draft/countryNames',
