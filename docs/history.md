@@ -42,5 +42,7 @@ introduced to extend the phonology further and due to its prevalence in world la
 On the 22nd of July 2020, the /r/ was replaced with /ɾ/ because the trill was
 considered notoriously difficult and provided no advantage over the alveolar tap.
 
+On the 2nd of August 2020, the proto-number word system introduced the following consonants /ʃ/, /ʒ/, /t͡s/, /d͡z/, /t͡ʃ/, /d͡ʒ/, /w/, the following vowels /y/ and /yː/, along with the following diphthongs /ai̯/, /ei̯/, /oi̯/, /au̯/, /eu̯/ and /ou̯/. This large change to the phonology was required to build the underlying patterns of the new number word system.
+
 The phonology is still considered highly unstable and further changes are expected.
 
