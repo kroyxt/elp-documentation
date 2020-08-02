@@ -123,11 +123,11 @@ For example, **(605).475.6968** can be expressed as **ʒiːn vin son - zen ʃuː
 | ------------- | :-----------: | ------------------------------------------------------------------------------------------------------- |
 | 02/08/2020    |     24 for / 3 against      | [See](https://www.reddit.com/r/EncapsulatedLanguage/comments/i12ryt/official_proposal_vote_to_officialize_a/) |
 
-### Number Words (10 - EEE)
+### Trinumeral Number Words (10 - EEE)
 
-The number words (10 - EEE) are built by adding specific constants and vowels together to form whole numbers. The consonants and vowels each have a numerical value assigned to them which, when combined, give whole digit numbers.
+The number words (10 - EEE) are called trinumeral number words. They are built by adding specific constants and vowels together to form whole numbers. The consonants and vowels each have a numerical value assigned to them which, when combined, give whole digit numbers.
 
-They are built using the following rules:
+Trinumerals are built using the following rules:
 - Phonemes in numbers are organized in a CVC fashion.
 - The first number in the gross* place will receive a consonant.
 - The second number in the dozens* place will receive a vowel.
@@ -139,7 +139,7 @@ Number 0-E (0 - 11 in base-10) are left out of this list because single-digit nu
 
 Examples:
 
-| Numbers (base-12) | Numeric Prefix   |
+| Numbers (base-12) | Trinumeral       |
 | ----------------- | ---------------- |
 | 10                | vuv              |
 | 11                | vuf              |
@@ -184,7 +184,7 @@ Examples of numeric prefix use with single-digit number words:
 | 1,000          | **eu̯**fun        |
 | 1,000,000      | **je**fun        |
 
-Examples of numeric prefix use with number words:
+Examples of numeric prefix use with trinumerals:
 
 | Numbers        | Numeric Prefix                        | Breakdown                           |
 | -------------- | ------------------------------------- | ----------------------------------- |
