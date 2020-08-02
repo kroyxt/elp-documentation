@@ -127,6 +127,36 @@ The phonological values encapsulate the following mathematical knowledge:
 | X (10) | d͡ʒ        | Post-alveolar affricate | 6th ⅙  |
 | E (11) | t͡ʃ        | Post-alveolar affricate | 6th ⅙  |
 
+## Numeric Prefixes
 
+| Numbers        | Numeric Prefix   |
+| -------------- | ---------------- |
+| 0              | ei̯-              |
+| 1              | wa-              |
+| 2              | jo-              |
+| 3              | eu̯-              |
+| 4              | ai̯-              |
+| 5              | wo-              |
+| 6              | je-              |
+| 7              | au̯-              |
+| 8              | oi̯-              |
+| 9              | we-              |
+| X (10)         | ja-              |
+| E (11)         | ou̯-              |
 
+The numeric prefixes encapsulate the following mathematical knowledge:
 
+### Evenness
+Numeric prefixes that contain /j/ represent **even numbers**.
+Numeric prefixes that contain /w/ represent **odd numbers**.
+
+### 3x Multiplication
+Numeric prefixes that contain /e/ are part of the 3x multiplication table. This matches with the Official Numerals which also shows the 3x multiplication table through the number of strokes.
+
+### 4x Multiplication
+Numeric prefixes that end with /i̯/ are part of the 4x multiplication table.
+
+### Arithmetic
+Swapping the position of the vowel within a numeric prefix either adds or removes 6 from the total value. For example:
+Swapping the position of the vowel in /ei̯/ (0) will create /je/ (6).
+Swapping the position of the vowel in /ja/ (10) will create /ai̯/ (4).
