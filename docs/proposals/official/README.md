@@ -34,7 +34,7 @@ The Encapsulated Language uses the following phonemes.
 | Mid | e eː | o o: |
 | Low | a aː | |
 
-| Diphthongs ----------------- |
+| Diphthongs     |      |      |
 | -------------- | ---- | ---- |
 | ai̯             | ei̯   | oi̯   |
 | au̯             | eu̯   | ou̯   |
@@ -85,6 +85,8 @@ The Encapsulated Language uses the following numerals.
 The numeral '0' can be represented by a little circle such as the symbol for a
 degree (°), but centred in the middle of the line, like a dot (•) when writing
 the numeral by **hand only**.
+
+[What do the numerals encapsulate?](https://kroyxlab.github.io/elp-documentation/encapsulation.html#numerals)
 
 | Approved Date     | Vote Summary | Link                                                                                                    |
 | ------------- | :-----------: | ------------------------------------------------------------------------------------------------------- |
