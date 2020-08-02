@@ -34,7 +34,7 @@ The Encapsulated Language uses the following phonemes.
 | Mid | e eː | o o: |
 | Low | a aː | |
 
-| Diphthongs     |      |      |
+| Diphthongs ----------------- |
 | -------------- | ---- | ---- |
 | ai̯             | ei̯   | oi̯   |
 | au̯             | eu̯   | ou̯   |
