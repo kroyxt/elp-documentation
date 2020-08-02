@@ -30,8 +30,8 @@ The Encapsulated Language uses the following phonemes.
 
 | | Front | Back |
 | -------- | -------- | -------- |
-| High | i iː y y: | u uː |
-| Mid | e eː | o o: |
+| High | i iː y yː | u uː |
+| Mid | e eː | o oː |
 | Low | a aː | |
 
 | Diphthongs     |      |      |
@@ -69,8 +69,8 @@ The following phonemes have inherent numerical values in the Encapsulated Langua
 | -------------- | ---- | ---- | ---- |
 | 0 - 3          | i    | u    | y    |
 | 3 - 5          | a    | e    | o    |
-| 6 - 8          | i:   | u:   | y:   |
-| 9 - E          | a:   | e:   | o:   |
+| 6 - 8          | iː   | uː   | yː   |
+| 9 - E          | aː   | eː   | oː   |
 
 [What do the phonological values encapsulate?](https://kroyxlab.github.io/elp-documentation/encapsulation.html#phonological-values)
 

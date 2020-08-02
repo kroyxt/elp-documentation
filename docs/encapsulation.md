@@ -86,12 +86,12 @@ The phonological values encapsulate the following mathematical knowledge:
 | 3      | a         | Short   | 1st half  |
 | 4      | e         | Short   | 1st half  |
 | 5      | o         | Short   | 1st half  |
-| 6      | i:        | Long    | 2nd half  |
-| 7      | u:        | Long    | 2nd half  |
-| 8      | y:        | Long    | 2nd half  |
-| 9      | a:        | Long    | 2nd half  |
-| X (10) | e:        | Long    | 2nd half  |
-| E (11) | o:        | Long    | 2nd half  |
+| 6      | iː        | Long    | 2nd half  |
+| 7      | uː        | Long    | 2nd half  |
+| 8      | yː        | Long    | 2nd half  |
+| 9      | aː        | Long    | 2nd half  |
+| X (10) | eː        | Long    | 2nd half  |
+| E (11) | oː        | Long    | 2nd half  |
 
 ### Vowel Division by Quarters
 
@@ -103,12 +103,12 @@ The phonological values encapsulate the following mathematical knowledge:
 | 3      | a         | aeo       | 2nd ¼     |
 | 4      | e         | aeo       | 2nd ¼     |
 | 5      | o         | aeo       | 2nd ¼     |
-| 6      | i:        | iuy       | 3rd ¼     |
-| 7      | u:        | iuy       | 3rd ¼     |
-| 8      | y:        | iuy       | 3rd ¼     |
-| 9      | a:        | aeo       | 4th ¼     |
-| X (10) | e:        | aeo       | 4th ¼     |
-| E (11) | o:        | aeo       | 4th ¼     |
+| 6      | iː        | iuy       | 3rd ¼     |
+| 7      | uː        | iuy       | 3rd ¼     |
+| 8      | yː        | iuy       | 3rd ¼     |
+| 9      | aː        | aeo       | 4th ¼     |
+| X (10) | eː        | aeo       | 4th ¼     |
+| E (11) | oː        | aeo       | 4th ¼     |
 
 ### Consonant Division by Sixths
 
