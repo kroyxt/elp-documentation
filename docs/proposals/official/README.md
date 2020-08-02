@@ -72,6 +72,8 @@ The following phonemes have inherent numerical values in the Encapsulated Langua
 | 6 - 8          | i:   | u:   | y:   |
 | 9 - E          | a:   | e:   | o:   |
 
+[What do the phonological values encapsulate?](https://kroyxlab.github.io/elp-documentation/encapsulation.html#phonological-values)
+
 | Approved Date     | Vote Summary | Link                                                                                                    |
 | ------------- | :-----------: | ------------------------------------------------------------------------------------------------------- |
 | 02/08/2020    |     24 for / 3 against      | [See](https://www.reddit.com/r/EncapsulatedLanguage/comments/i12ryt/official_proposal_vote_to_officialize_a/) |
@@ -93,7 +95,9 @@ the numeral by **hand only**.
 | 26/07/2020    |     19 for / 3 against      | [See](https://www.reddit.com/r/EncapsulatedLanguage/comments/hwyxdw/official_proposal_vote_to_modify_numeral_0_for/) |
 | 24/07/2020    |     22 for / 2 against      | [See](https://www.reddit.com/r/EncapsulatedLanguage/comments/hvmhsr/official_proposal_vote_to_officialise_the_numeral/) |
 
-## Single-Digit Number Words
+## Number Words
+
+### Single-Digit Number Words
 
 Single-digit numbers are built from both the consonant and vowel that represents their phonological value plus the consonant /n/. 
 
@@ -119,7 +123,7 @@ For example, **(605).475.6968** can be expressed as **ʒiːn vin son - zen ʃuː
 | ------------- | :-----------: | ------------------------------------------------------------------------------------------------------- |
 | 02/08/2020    |     24 for / 3 against      | [See](https://www.reddit.com/r/EncapsulatedLanguage/comments/i12ryt/official_proposal_vote_to_officialize_a/) |
 
-## Number Words (10 - EEE)
+### Number Words (10 - EEE)
 
 The number words (10 - EEE) are built by adding specific constants and vowels together to form whole numbers. The consonants and vowels each have a numerical value assigned to them which, when combined, give whole digit numbers.
 
@@ -149,7 +153,7 @@ Examples:
 | ------------- | :-----------: | ------------------------------------------------------------------------------------------------------- |
 | 02/08/2020    |     24 for / 3 against      | [See](https://www.reddit.com/r/EncapsulatedLanguage/comments/i12ryt/official_proposal_vote_to_officialize_a/) |
 
-## Numeric Prefixes
+### Numeric Prefixes
 
 The Encapsulated Language uses the following numeric prefixes.
 
