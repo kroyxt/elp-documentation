@@ -6,9 +6,20 @@
        maxlength="12"
        :class="{'NumberToIpa__input--error': error, 'NumberToIpa__input': !error}"
        v-model="numberInput"
-       @keyup="numberToWord">
+       @keyup="numbersToWord">
    </div>
    <p :class="{'NumberToIpa__text--error': error, 'NumberToIpa__text': !error}">{{ numberOutput }}</p>
+   <ul class="NumberToIpa__listImg">
+     <li
+       class="NumberToIpa__itemImg"
+       v-for="img in imgArray_"
+       :key="img.id">
+       <img
+         class="NumberToIpa__img"
+         :src="'/elp-documentation/numbers/' + img + '.png'"
+         :alt="img">
+     </li>
+   </ul>
  </section>
 </template>
 
@@ -17,83 +28,144 @@
     data() {
       return {
         numberInput: "",
+
         numberOutput: "",
+
         error: false,
+
+        numbers_: {
+          '0': {
+            consonant: 'v',
+            vowel: 'i',
+          },
+
+          '1': {
+            consonant: 'f',
+            vowel: 'u',
+          },
+
+          '2': {
+            consonant: 'ɣ',
+            vowel: 'y',
+          },
+
+          '3': {
+            consonant: 'x',
+            vowel: 'a',
+          },
+
+          '4': {
+            consonant: 'z',
+            vowel: 'e',
+          },
+
+          '5': {
+            consonant: 's',
+            vowel: 'o',
+          },
+
+          '6': {
+            consonant: 'ʒ',
+            vowel: 'iː',
+          },
+
+          '7': {
+            consonant: 'ʃ',
+            vowel: 'uː',
+          },
+
+          '8': {
+            consonant: 'd͡z' ,
+            vowel: 'yː',
+          },
+
+          '9': {
+            consonant: 't͡s' ,
+            vowel: 'aː',
+          },
+
+          'X': {
+            consonant: 'd͡ʒ' ,
+            vowel: 'e:',
+          },
+
+          'E': {
+            consonant: 't͡ʃ' ,
+            vowel: 'oː',
+          }
+        },
+
+        magnitudeVowel_: ["ei̯", "wa", "jo", "eu̯", "ai̯", "wo", "je", "au̯", "oi̯", "we", "ja", "ou̯"],
+
+        digitMarker_: "n",
+
+        fillerMarker_: "v",
+
+        imgArray_: [],
       }
     },
 
     methods: {
-      $_digitToInt(digit) {
-        let num = 0
-
-        switch (digit) {
-          case "X":
-            num = 10
-            break;
-          case "E":
-            num = 11
-            break;
-          default:
-            num = parseInt(digit)
-
-        }
-
-        return num
-      },
-
-      numberToWord() {
-        let str = this.numberInput;
-        let number_consonant = ["v", "f", "ɣ", "x", "z", "s", "ʒ", "ʃ", "d͡z", "t͡s", "d͡ʒ", "t͡ʃ"]
-        let number_vowel = ["i", "u", "y", "a", "e", "o", "iː", "uː", "yː", "aː", "e:", "oː"]
-        let magnitude_vowel = ["ei̯", "wa", "jo", "eu̯", "ai̯", "wo", "je", "au̯", "oi̯", "we", "ja", "ou̯"]
-        let digit_marker = "n"
-        let filler_marker = "v"
-
-        let number_unchecked = str.toUpperCase()
-        if (/[^0-9XE,. ]/.test(number_unchecked)) {
-              this.numberOutput = "Error number"
-              this.error = true
-              return -1
+      $_checkErrors(numbers) {
+        if (/[^0-9XE,. ]/.test(numbers)) {
+              this.error = true;
+              return -1;
 
         } else {
-          this.error = false
+          this.error = false;
         }
-        let number = number_unchecked.replace(/[^0-9EX]/g, '').split(/(?=(?:...)*$)/)
-        let complete_word = ""
+      },
 
-        for (let i = 0; i < number.length; i++) {
-          let number_part = number[i]
-          let word = ""
+      $_splitNumbers(numbers) {
+        return numbers.replace(/[^0-9EX]/g, '').split(/(?=(?:...)*$)/);
+      },
+
+      $_numbersToIpa(numberArray) {
+        let complete_word = "";
+
+        for (let i = 0; i < numberArray.length; i++) {
+          let number_part = numberArray[i];
+          let word = "";
           switch (number_part.length) {
             case 1:
-              let num = this.$_digitToInt(number_part[0])
-              word = number_consonant[num] + number_vowel[num] + digit_marker
+              let num = number_part[0];
+              word = this.numbers_[num].consonant + this.numbers_[num].vowel + this.digitMarker_;
               break;
             case 2:
               if (number_part[0]=="0") {
-                word = number_consonant[number_part[1]] + number_vowel[number_part[1]] + digit_marker
-
+                word = this.numbers_[number_part[1]].consonant + this.numbers_[number_part[1]].vowel + this.$_digitMarker;
               } else {
-                word = filler_marker + number_vowel[this.$_digitToInt(number_part[0])] + number_consonant[this.$_digitToInt(number_part[1])]
-
+                word = this.fillerMarker_ + this.numbers_[number_part[0]].vowel + this.numbers_[number_part[1]].consonant;
               }
               break;
             default:
               if (number_part[0] == "0" && number_part[1] == "0") {
-                word = number_consonant[number_part[2]] + number_vowel[number_part[2]] + digit_marker
-
+                word = this.numbers_[number_part[2]].consonant + this.numbers_[number_part[2]].vowel + this.$_digitMarker;
               } else {
-                word = number_consonant[this.$_digitToInt(number_part[0])] + number_vowel[this.$_digitToInt(number_part[1])] + number_consonant[this.$_digitToInt(number_part[2])]
-
+                word = this.numbers_[number_part[0]].consonant + this.numbers_[number_part[1]].vowel + this.numbers_[number_part[2]].consonant;
               }
-
           }
           let magnitude = ""
-          if (number.length > 1)
-            magnitude = magnitude_vowel[(number.length - i - 1)*3]
+          if (numberArray.length > 1){
+            magnitude = this.magnitudeVowel_[(numberArray.length - i - 1)*3];
+          }
           complete_word += " " + magnitude + word
         }
-        this.numberOutput = complete_word
+       return complete_word;
+      },
+
+      numbersToWord() {
+        let input = this.numberInput,
+            inputUpper = input.toUpperCase(),
+            inputSplit = this.$_splitNumbers(inputUpper);
+        this.$_checkErrors(inputUpper);
+        if (this.error) {
+          this.numberOutput = 'Error Number';
+          this.imgArray_ = [];
+        } else {
+          this.numberOutput = this.$_numbersToIpa(inputSplit);
+          this.imgArray_ = inputUpper.split('');
+        }
       }
     }
   }
@@ -103,13 +175,16 @@
 .NumberToIpa {
   margin: 20px 0;
 }
+
 .NumberToIpa * {
   box-sizing: border-box;
 }
+
 .NumberToIpa__container {
   width: 300px;
   margin: auto;
 }
+
 [class*="NumberToIpa__input"] {
   width: 100%;
   height: 35px;
@@ -118,23 +193,44 @@
   border-radius: 15px;
   text-align: center;
 }
+
 [class*="NumberToIpa__input"]:focus {
   outline-width: 0;
 }
+
 .NumberToIpa__input {
   border-color: #25b6da;
 }
+
 .NumberToIpa__input--error {
   border-color: red;
 }
+
 [class*="NumberToIpa__text"] {
   font-size: 1.5rem;
   text-align: center;
 }
+
 .NumberToIpa__text {
   color: #25b6da;
 }
+
 .NumberToIpa__text--error {
   color: red;
 }
+
+.NumberToIpa__listImg {
+  display: flex;
+  justify-content: center;
+}
+
+.NumberToIpa__itemImg {
+  list-style: none;
+}
+
+.NumberToIpa__img {
+  display: block;
+  max-height: 80px;
+}
+
 </style>
