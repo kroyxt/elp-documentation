@@ -1,4 +1,4 @@
-# Downloads
+# Programs
 
 ## Download the Official Logo
 
@@ -11,8 +11,14 @@ You can download a ZIP file containing pictures of all the numerals from [here](
 
 ## Download programs to type the numbers
 
-**Windows**
+### Windows
 
 You can download a ZIP file containing a number typer compatible with newer versions
 of Windows from [here](/elp-documentation/Elp-Win-NumberTyper.zip)
 
+## Base-12 Number to IPA number converter
+
+This app quickly converts base-12 numbers to their Encapsulated Language word equivalents. 
+Just type the number you want converted, and the app will generate the appropriate words!
+
+<NumberToIpa/>

@@ -75,10 +75,10 @@ module.exports = {
         ]
       },
       {
-        title: 'Downloads',
-        path: '/downloads',
+        title: 'Programs',
+        path: '/programs',
         children: [
-          '/downloads',
+          '/programs',
         ]
       },
 
