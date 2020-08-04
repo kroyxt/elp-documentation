@@ -194,6 +194,56 @@ active participation in the project to be eligible.
 - [u/Xianhei](https://www.reddit.com/u/Xianhei)
 - [u/Zinkobe5](https://www.reddit.com/u/u/Zinkobe5)
 
+## How to write a good draft proposal
+
+To make sure your proposal as well understood as possible and to get both the maximum support and maximum effect, here are some best practices on how to draft a good proposal. But bear in mind: none of this is a formal requirement. A project like this has so many aspects and dimensions; your proposal might have a new approach that requires it’s own style of proposal or it might concern an area of the project that no one has yet consciously thought of. So: Write what you think is right.
+
+But still, read through the following paragraphs. Either the tips and guidelines presented here can be used directly for your proposal, or they at least outline a “spirit”, a way of thinking that are worth considering.
+
+### Research
+
+Before posting, try to familiarize yourself with the discussion in the community regarding your topic. Has it already been discussed? Is it still being discussed? Are there active related proposals out there, at the moment?
+
+That way you’ll not only be able to formulate a more thoroughly thought through proposal, but you also might find people who are interested in the same or similar topics to exchange ideas and collaborate with.
+
+### Is it already a proposal? Or still just an idea?
+
+Even if a draft proposal is essentially a call for feedback, it’s still a proposal. That means, you have something concrete to propose that people can agree or disagree with.
+
+Otherwise it’s probably an idea or a call for feedback or collaboration, the start of a discussion etc. In that latter case, no special structure is required.
+
+[Click here for a good example](https://www.reddit.com/r/EncapsulatedLanguage/comments/hxofaz/ideas_on_continental_division/) for a well written idea that is not a proposal.
+
+If it is a proposal, continue on…
+
+### Is it one proposal? Or several?
+
+If there are several issues to your proposal that people might want to (dis)agree with seperately, split it up into separate proposals. If they relate to one another, don’t hesitate to describe those relations. But only pack them into one proposal if they don’t make any sense on their own and only function together.
+
+### Write your proposal
+
+The following aspects are key features of a good proposal:
+
+1. Summary: Briefly summarize your proposal. What is it concerned with?
+2. Intention of Proposal: What problem are you trying to solve?
+3. Context: If there are other proposals or discussions out there that might help a reader to better understand your proposal to its full extent, provide links and maybe a bit of info.
+4. Proposed change: Describe as exactly as possible the changes or new features you propose.
+5. Effect: How will the Proposal help achieve the goals of the language?
+- Especially if it is a proposal that implements some encapsulation, describe which information is encapsulated and how.
+- Does your change affects the accessibility of the language?
+6. Scope: Which new elements will be introduced into the language (if any)? Which existing parts of the language will need to change or be rescinded?
+7. Examples: Practical examples of the change
+
+Good examples for proposals who show several or all of these features: [1](https://www.reddit.com/r/EncapsulatedLanguage/comments/hyfrop/the_encapsulated_verbal_number_system/), [2](https://www.reddit.com/r/EncapsulatedLanguage/comments/hxk1xn/phonotactics_proposal/)
+
+Bonus: Open questions, possible extensions. If applicable, give an idea on how your proposal could be extended and used to further develop the language.
+
+[Click here for a good example](https://www.reddit.com/r/EncapsulatedLanguage/comments/hs30jj/advanced_form_of_numeral_system_part_v_arithmetic/) for this bonus aspect of extendability.
+
+### Post it to the subreddit
+
+When your proposal is finally done, post it to the [subreddit](https://www.reddit.com/r/EncapsulatedLanguage/) and don’t forget to add the “Draft Proposal”-flair to it. That way, people will know that it actually is a proposal and also the Members of the [Official Proposals Committee](https://kroyxlab.github.io/elp-documentation/faq/#what-is-the-official-proposal-committee) will know what needs to be looked at and updated on the website.
+
 ## When will the Language be finalised
 
 A language can never be truly finalised, however, we do need an end date to work
