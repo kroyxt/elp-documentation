@@ -16,7 +16,7 @@
        :key="img.id">
        <img
          class="NumberToIpa__img"
-         :src="'/elp-documentation/numbers/' + img + '.png'"
+         :src="'/elp-documentation/numbers/_' + img + '.png'"
          :alt="img">
      </li>
    </ul>
@@ -140,7 +140,7 @@
               break;
             default:
               if (number_part[0] == "0" && number_part[1] == "0") {
-                word = this.numbers_[number_part[2]].consonant + this.numbers_[number_part[2]].vowel + this.$_digitMarker;
+                word = this.numbers_[number_part[2]].consonant + this.numbers_[number_part[2]].vowel + this.digitMarker_;
               } else {
                 word = this.numbers_[number_part[0]].consonant + this.numbers_[number_part[1]].vowel + this.numbers_[number_part[2]].consonant;
               }
