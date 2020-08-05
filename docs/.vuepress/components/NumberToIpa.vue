@@ -16,7 +16,7 @@
        :key="img.id">
        <img
          class="NumberToIpa__img"
-         :src="'/elp-documentation/numbers/' + img + '.png'"
+         :src="'/elp-documentation/numbers/_' + img + '.png'"
          :alt="img">
      </li>
    </ul>
@@ -99,36 +99,41 @@
         return numbers.replace(/[^0-9EX]/g, '').split(/(?=(?:...)*$)/);
       },
       $_numbersToIpa(numberArray) {
-        let complete_word = "";
+        let completeWord = "";
         for (let i = 0; i < numberArray.length; i++) {
-          let number_part = numberArray[i];
+          let numberPart = numberArray[i];
           let word = "";
-          switch (number_part.length) {
+          switch (numberPart.length) {
             case 1:
-              let num = number_part[0];
+              let num = numberPart[0];
               word = this.numbers_[num].consonant + this.numbers_[num].vowel + this.digitMarker_;
               break;
             case 2:
-              if (number_part[0]=="0") {
-                word = this.numbers_[number_part[1]].consonant + this.numbers_[number_part[1]].vowel + this.$_digitMarker;
+              if (numberPart[0]=="0") {
+                word = this.numbers_[numberPart[1]].consonant + this.numbers_[numberPart[1]].vowel + this.digitMarker_;
               } else {
-                word = this.fillerMarker_ + this.numbers_[number_part[0]].vowel + this.numbers_[number_part[1]].consonant;
+                word = this.fillerMarker_ + this.numbers_[numberPart[0]].vowel + this.numbers_[numberPart[1]].consonant;
               }
               break;
             default:
-              if (number_part[0] == "0" && number_part[1] == "0") {
-                word = this.numbers_[number_part[2]].consonant + this.numbers_[number_part[2]].vowel + this.$_digitMarker;
+              if (numberPart[0] == "0" && numberPart[1] == "0") {
+                if (numberPart[2] == "0" && number.length > 1 && i != 0) {
+                  word = '';
+                } else {
+                  word = this.numbers_[numberPart[2]].consonant + this.numbers_[numberPart[2]].vowel + this.digitMarker_;
+                }
               } else {
-                word = this.numbers_[number_part[0]].consonant + this.numbers_[number_part[1]].vowel + this.numbers_[number_part[2]].consonant;
+                word = this.numbers_[numberPart[0]].consonant + this.numbers_[numberPart[1]].vowel + this.numbers_[numberPart[2]].consonant;
               }
           }
           let magnitude = ""
           if (numberArray.length > 1){
-            magnitude = this.magnitudeVowel_[(numberArray.length - i - 1)*3];
+            magnitude = this.magnitudeVowel_[(numberArray.length - i - 1)];
           }
-          complete_word += " " + magnitude + word
+            completeWord += " " + magnitude + word
+
         }
-       return complete_word;
+       return completeWord;
       },
       numbersToWord() {
         let input = this.numberInput,
