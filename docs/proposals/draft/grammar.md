@@ -1,0 +1,5 @@
+# Grammar
+
+| Proponent                                     | Draft Version | Summary                                                                                                                            | Link                                                                                                              |
+| --------------------------------------------- | :-----------: | ---------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------- |
+| [u/ActingAustralia](https://www.reddit.com/u/ActingAustralia) |     v1.0      | Proposal to make the word order harmonic. | [See](https://www.reddit.com/r/EncapsulatedLanguage/comments/i3jhqw/draft_proposal_the_encapsulated_language_be_a/) |

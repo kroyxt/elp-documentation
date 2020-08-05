@@ -159,30 +159,29 @@ The Encapsulated Language uses the following numeric prefixes.
 
 The numeric prefixes are used as an extension to the base number word system to represent the magnitude of a value. They form number words similar to “million” and “billion” in English, but allow a greater level of precision that scientific notation is normally capable of expressing.
 
-| Numbers        | Numeric Prefix   |
-| -------------- | ---------------- |
-| 0              | ei̯-              |
-| 1              | wa-              |
-| 2              | jo-              |
-| 3              | eu̯-              |
-| 4              | ai̯-              |
-| 5              | wo-              |
-| 6              | je-              |
-| 7              | au̯-              |
-| 8              | oi̯-              |
-| 9              | we-              |
-| X (10)         | ja-              |
-| E (11)         | ou̯-              |
+| Numeric Prefix   | Value          |
+| ---------------- | -------------- |
+| ei̯-              | 1000^0         |
+| wa-              | 1000^1         |
+| jo-              | 1000^2         |
+| eu̯-              | 1000^3         |
+| ai̯-              | 1000^4         |
+| wo-              | 1000^5         |
+| je-              | 1000^6         |
+| au̯-              | 1000^7         |
+| oi̯-              | 1000^8         |
+| we-              | 1000^9         |
+| ja-              | 1000^10        |
+| ou̯-              | 1000^11        |
 
 Examples of numeric prefix use with single-digit number words:
 
 | Numbers        | Numeric Prefix   |
 | -------------- | ---------------- |
 | 1              | **ei̯**fun        |
-| 10             | **wa**fun        |
-| 100            | **jo**fun        |
-| 1,000          | **eu̯**fun        |
-| 1,000,000      | **je**fun        |
+| 1,000          | **wa**fun        |
+| 1,000,000      | **jo**fun        |
+| 1,000,000,000  | **eu̯**fun        |
 
 Examples of numeric prefix use with trinumerals:
 
@@ -192,14 +191,15 @@ Examples of numeric prefix use with trinumerals:
 | X1             | **ei̯**veːf                            | X1 * 10^0                           |
 | 190            | **ei̯**faːv                            | 190 * 10^0                          |
 | 3EX            | **ei̯**xoːd͡ʒ                           | 3EX * 10^0                          |
-| 496,476        | **eu̯**zaːʒ **ei̯**zuːʒ                 | 496 * 10^3 + 476 * 10^0             |
-| E0,145,355     | **je**voːv **eu̯**fes **ei̯**xos        | E0 * 10^6 + 145 * 10^3 + 355 * 10^0 |
-| 1,157,23E      | **je**fun **eu̯**foʃ **ei̯**ɣat͡ʃ        | 1 * 10^6 + 157 * 10^3 + 23E * 10^0  |
-| 5,649,67E      | **je**son **eu̯**ʒet͡s **ei̯**ʒuːt͡ʃ      | 5 * 10^6 + 649 * 10^3 + 67E * 10^0  |
-| E,44X,236      | **je**t͡ʃoːn **eu̯**zed͡ʒ **ei̯**ɣaʒ      | E * 10^6 + 44X * 10^3 + 236 * 10^0  |
+| 496,476        | **wa**zaːʒ **ei̯**zuːʒ                 | 496 * 10^3 + 476 * 10^0             |
+| E0,145,355     | **jo**voːv **wa**fes **ei̯**xos        | E0 * 10^6 + 145 * 10^3 + 355 * 10^0 |
+| 1,157,23E      | **jo**fun **wa**foʃ **ei̯**ɣat͡ʃ        | 1 * 10^6 + 157 * 10^3 + 23E * 10^0  |
+| 5,649,67E      | **jo**son **wa**ʒet͡s **ei̯**ʒuːt͡ʃ      | 5 * 10^6 + 649 * 10^3 + 67E * 10^0  |
+| E,44X,236      | **jo**t͡ʃoːn **wa**zed͡ʒ **ei̯**ɣaʒ      | E * 10^6 + 44X * 10^3 + 236 * 10^0  |
 
 | Approved Date     | Vote Summary | Link                                                                                                    |
 | ------------- | :-----------: | ------------------------------------------------------------------------------------------------------- |
+| 05/08/2020    |     15 for / 4 against      | [See](https://www.reddit.com/r/EncapsulatedLanguage/comments/i2ttzh/official_proposal_vote_to_change_the_numeric/) |
 | 02/08/2020    |     24 for / 3 against      | [See](https://www.reddit.com/r/EncapsulatedLanguage/comments/i12ryt/official_proposal_vote_to_officialize_a/) |
 
 ## Logo
