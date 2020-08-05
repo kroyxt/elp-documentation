@@ -147,7 +147,7 @@
           }
           let magnitude = ""
           if (numberArray.length > 1){
-            magnitude = this.magnitudeVowel_[(numberArray.length - i - 1)];
+            magnitude = this.magnitudeVowel_[(numberArray.length - i - 1)*3];
           }
           complete_word += " " + magnitude + word
         }
