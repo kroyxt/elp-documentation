@@ -5,6 +5,14 @@ of the language that has community support (it has been voted on and approved by
 50% of voting participants). All Draft Proposals must work in accordance with
 these Official Proposals unless they call to replace an Official Proposal.
 
+## Aims and Goals
+
+The Aims and Goals of the Language can be read [here](https://kroyxlab.github.io/elp-documentation/documentation.html).
+
+| Approved Date     | Vote Summary | Link                                                                                                    |
+| ------------- | :-----------: | ------------------------------------------------------------------------------------------------------- |
+| 06/08/2020 |     19 for / 1 against | [See](https://www.reddit.com/r/EncapsulatedLanguage/comments/hsot1a/official_proposal_implementation_of_an_official/)    |
+
 ## Community Administration
 
 The Official Proposal Committee is responsible for ensuring that all Draft
