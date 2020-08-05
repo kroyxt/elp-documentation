@@ -3,7 +3,7 @@
    <div class="NumberToIpa__container">
      <input
        type="text"
-       maxlength="36"
+       maxlength="12"
        :class="{'NumberToIpa__input--error': error, 'NumberToIpa__input': !error}"
        v-model="numberInput"
        @keyup="numbersToWord">
