@@ -3,7 +3,7 @@
    <div class="NumberToIpa__container">
      <input
        type="text"
-       maxlength="36"
+       maxlength="12"
        :class="{'NumberToIpa__input--error': error, 'NumberToIpa__input': !error}"
        v-model="numberInput"
        @keyup="numbersToWord">
@@ -140,11 +140,7 @@
               break;
             default:
               if (number_part[0] == "0" && number_part[1] == "0") {
-		if (number_part[2] == "0" && number.length > 1 && i != 0) {
-		  word = ""
-		} else {
-                  word = this.numbers_[number_part[2]].consonant + this.numbers_[number_part[2]].vowel + this.digitMarker_;
-		}
+                word = this.numbers_[number_part[2]].consonant + this.numbers_[number_part[2]].vowel + this.digitMarker_;
               } else {
                 word = this.numbers_[number_part[0]].consonant + this.numbers_[number_part[1]].vowel + this.numbers_[number_part[2]].consonant;
               }
@@ -153,9 +149,7 @@
           if (numberArray.length > 1){
             magnitude = this.magnitudeVowel_[(numberArray.length - i - 1)];
           }
-	  if (word != ""){
-            complete_word += " " + magnitude + word
-	  }
+          complete_word += " " + magnitude + word
         }
        return complete_word;
       },
