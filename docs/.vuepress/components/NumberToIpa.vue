@@ -3,7 +3,7 @@
    <div class="NumberToIpa__container">
      <input
        type="text"
-       maxlength="12"
+       maxlength="36"
        :class="{'NumberToIpa__input--error': error, 'NumberToIpa__input': !error}"
        v-model="numberInput"
        @keyup="numbersToWord">
@@ -147,7 +147,7 @@
           }
           let magnitude = ""
           if (numberArray.length > 1){
-            magnitude = this.magnitudeVowel_[(numberArray.length - i - 1)*3];
+            magnitude = this.magnitudeVowel_[(numberArray.length - i - 1)];
           }
           complete_word += " " + magnitude + word
         }
