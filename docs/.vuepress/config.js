@@ -27,6 +27,7 @@ module.exports = {
         path: '/proposals/draft',
         children: [
           '/proposals/draft/animals',
+          '/proposals/draft/arthimatic',
           '/proposals/draft/calendar',
           '/proposals/draft/chemistry',
           '/proposals/draft/colors',
