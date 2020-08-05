@@ -3,12 +3,12 @@
    <div class="NumberToIpa__container">
      <input
        type="text"
-       maxlength="12"
+       maxlength="36"
        :class="{'NumberToIpa__input--error': error, 'NumberToIpa__input': !error}"
        v-model="numberInput"
        @keyup="numbersToWord">
    </div>
-   <p :class="{'NumberToIpa__text--error': error, 'NumberToIpa__text': !error}">{{ numberOutput }}</p>
+   <p :class="{'NumberToIpa__output--error': error, 'NumberToIpa__output': !error}">{{ numberOutput }}</p>
    <ul class="NumberToIpa__listImg">
      <li
        class="NumberToIpa__itemImg"
@@ -180,19 +180,22 @@
 .NumberToIpa__input--error {
   border-color: red;
 }
-[class*="NumberToIpa__text"] {
+[class*="NumberToIpa__output"] {
+  min-height: 2rem;
+  border-bottom: 2px solid #25b6da;
+  padding-bottom: 10px;
   font-size: 1.5rem;
   text-align: center;
 }
-.NumberToIpa__text {
+.NumberToIpa__output {
   color: #25b6da;
 }
-.NumberToIpa__text--error {
+.NumberToIpa__output--error {
   color: red;
 }
 .NumberToIpa__listImg {
-  display: flex;
-  justify-content: center;
+  display: grid;
+  grid-template-columns: repeat(12, 1fr);
 }
 .NumberToIpa__itemImg {
   list-style: none;
