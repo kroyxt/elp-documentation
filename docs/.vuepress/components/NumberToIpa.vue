@@ -16,7 +16,7 @@
        :key="img.id">
        <img
          class="NumberToIpa__img"
-         :src="'/elp-documentation/numbers/_' + img + '.png'"
+         :src="'/elp-documentation/numbers/number' + img + '.png'"
          :alt="img">
      </li>
    </ul>
