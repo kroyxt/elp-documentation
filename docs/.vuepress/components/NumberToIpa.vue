@@ -28,101 +28,78 @@
     data() {
       return {
         numberInput: "",
-
         numberOutput: "",
-
         error: false,
-
         numbers_: {
           '0': {
             consonant: 'v',
             vowel: 'i',
           },
-
           '1': {
             consonant: 'f',
             vowel: 'u',
           },
-
           '2': {
             consonant: 'ɣ',
             vowel: 'y',
           },
-
           '3': {
             consonant: 'x',
             vowel: 'a',
           },
-
           '4': {
             consonant: 'z',
             vowel: 'e',
           },
-
           '5': {
             consonant: 's',
             vowel: 'o',
           },
-
           '6': {
             consonant: 'ʒ',
             vowel: 'iː',
           },
-
           '7': {
             consonant: 'ʃ',
             vowel: 'uː',
           },
-
           '8': {
             consonant: 'd͡z' ,
             vowel: 'yː',
           },
-
           '9': {
             consonant: 't͡s' ,
             vowel: 'aː',
           },
-
           'X': {
             consonant: 'd͡ʒ' ,
             vowel: 'e:',
           },
-
           'E': {
             consonant: 't͡ʃ' ,
             vowel: 'oː',
           }
         },
-
         magnitudeVowel_: ["ei̯", "wa", "jo", "eu̯", "ai̯", "wo", "je", "au̯", "oi̯", "we", "ja", "ou̯"],
-
         digitMarker_: "n",
-
         fillerMarker_: "v",
-
         imgArray_: [],
       }
     },
-
     methods: {
       $_checkErrors(numbers) {
         if (/[^0-9XE,. ]/.test(numbers)) {
               this.error = true;
               return -1;
-
         } else {
           this.error = false;
         }
       },
-
       $_splitNumbers(numbers) {
         return numbers.replace(/[^0-9EX]/g, '').split(/(?=(?:...)*$)/);
       },
-
       $_numbersToIpa(numberArray) {
         let complete_word = "";
-
         for (let i = 0; i < numberArray.length; i++) {
           let number_part = numberArray[i];
           let word = "";
@@ -147,13 +124,12 @@
           }
           let magnitude = ""
           if (numberArray.length > 1){
-            magnitude = this.magnitudeVowel_[(numberArray.length - i - 1)];
+            magnitude = this.magnitudeVowel_[(numberArray.length - i - 1)*3];
           }
           complete_word += " " + magnitude + word
         }
        return complete_word;
       },
-
       numbersToWord() {
         let input = this.numberInput,
             inputUpper = input.toUpperCase(),
@@ -175,16 +151,13 @@
 .NumberToIpa {
   margin: 20px 0;
 }
-
 .NumberToIpa * {
   box-sizing: border-box;
 }
-
 .NumberToIpa__container {
   width: 300px;
   margin: auto;
 }
-
 [class*="NumberToIpa__input"] {
   width: 100%;
   height: 35px;
@@ -193,44 +166,34 @@
   border-radius: 15px;
   text-align: center;
 }
-
 [class*="NumberToIpa__input"]:focus {
   outline-width: 0;
 }
-
 .NumberToIpa__input {
   border-color: #25b6da;
 }
-
 .NumberToIpa__input--error {
   border-color: red;
 }
-
 [class*="NumberToIpa__text"] {
   font-size: 1.5rem;
   text-align: center;
 }
-
 .NumberToIpa__text {
   color: #25b6da;
 }
-
 .NumberToIpa__text--error {
   color: red;
 }
-
 .NumberToIpa__listImg {
   display: flex;
   justify-content: center;
 }
-
 .NumberToIpa__itemImg {
   list-style: none;
 }
-
 .NumberToIpa__img {
   display: block;
   max-height: 80px;
 }
-
 </style>
