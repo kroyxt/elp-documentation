@@ -32,7 +32,7 @@
 h1, h2, h3
 	color $accentColorDark
 
-// Table 
+// Table
 
 th, td
 	border-color desaturate($accentColorLight, 80%)
@@ -40,3 +40,44 @@ th, td
 table .icon.outbound
 	display none
 
+.Audio{
+	box-sizing: border-box;
+}
+
+.Audio__table{
+	min-width: 100%;
+	display: table;
+	border-radius: 20px;
+	overflow: hidden;
+	border: 1px solid;
+	box-shadow: 0px 0px 0px 1px #b6c5c9;
+}
+
+.Audio__wrap {
+	padding: 0;
+	display: flex;
+	justify-content: space-evenly;
+}
+
+.Audio__td {
+	padding: 0 !important;
+}
+
+.Audio__head {
+	background-color: #25b6da;
+	border: 1px solid white;
+	color: white;
+}
+
+.Audio__item {
+	display: inline-block;
+	height: 100%;
+	margin: 0 2px;
+	font-weight: bold;
+	color: #25b6da;
+	cursor: pointer;
+}
+
+.Audio__item:hover {
+	text-decoration: underline;
+}

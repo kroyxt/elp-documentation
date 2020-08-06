@@ -19,25 +19,11 @@ Proposals are in accordance with the aims and goals of the Language.
 
 The Encapsulated Language uses the following phonemes.
 
-|            | Bilabial | Alveolar       | Post-Alveolar  | Palatal | Velar |
-| ---------- | -------- | -------------- | -------------- | ------- | ----- |
-| Nasal      | m        | n              |                |         |       |
-| Plosive    | p b      | t d            |                |         | k g   |
-| Fricative  | f v      | s z            | ʃ ʒ            |         | x ɣ   |
-| Affricate  |          | t͡s d͡z          | t͡ʃ d͡ʒ          |         |       |
-| Approximant|          | l              |                | j       | w     |
-| Tap or Flap |          | ɾ             |                |         |       |
+<AudioConsonants/>
 
-| | Front | Back |
-| -------- | -------- | -------- |
-| High | i iː y yː | u uː |
-| Mid | e eː | o oː |
-| Low | a aː | |
+<AudioVowels/>
 
-| Diphthongs     |      |      |
-| -------------- | ---- | ---- |
-| ai̯             | ei̯   | oi̯   |
-| au̯             | eu̯   | ou̯   |
+<AudioDiphthongs/>
 
 | Approved Date     | Vote Summary | Link                                                                                                    |
 | ------------- | :-----------: | ------------------------------------------------------------------------------------------------------- |
@@ -99,7 +85,7 @@ the numeral by **hand only**.
 
 ### Single-Digit Number Words
 
-Single-digit numbers are built from both the consonant and vowel that represents their phonological value plus the consonant /n/. 
+Single-digit numbers are built from both the consonant and vowel that represents their phonological value plus the consonant /n/.
 
 | Numbers        | Number Word      |
 | -------------- | ---------------- |
