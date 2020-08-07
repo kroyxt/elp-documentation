@@ -99,12 +99,12 @@
         return numbers.replace(/[^0-9EX]/g, '').split(/(?=(?:...)*$)/);
       },
       $_wordFormation(initialConsonant, vowel, finalConsonant, position) {
-        let word = ""
-        if (initialConsonant != 0) {
+        let word = "";
+        if (initialConsonant != "0") {
           word = this.numbers_[initialConsonant].consonant + this.numbers_[vowel].vowel + this.numbers_[finalConsonant].consonant;
-        } else if (vowel != 0) {
+        } else if (vowel != "0") {
           word = this.fillerMarker_ + this.numbers_[vowel].vowel + this.numbers_[finalConsonant].consonant;
-        } else if (finalConsonant = 0 && position != 0) {
+        } else if (finalConsonant = "0" && position != 0) {
           word = "";
         } else {
           word = this.numbers_[finalConsonant].consonant + this.numbers_[finalConsonant].vowel + this.digitMarker_;
