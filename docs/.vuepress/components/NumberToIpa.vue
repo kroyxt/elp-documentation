@@ -98,6 +98,19 @@
       $_splitNumbers(numbers) {
         return numbers.replace(/[^0-9EX]/g, '').split(/(?=(?:...)*$)/);
       },
+      $_wordFormation(initialConsonant, vowel, finalConsonant, position) {
+        let word = ""
+        if (initialConsonant != 0) {
+          word = this.numbers_[initialConsonant].consonant + this.numbers_[vowel].vowel + this.numbers_[finalConsonant].consonant;
+        } else if (vowel != 0) {
+          word = this.fillerMarker_ + this.numbers_[vowel].vowel + this.numbers_[finalConsonant].consonant;
+        } else if (finalConsonant = 0 && position != 0) {
+          word = "";
+        } else {
+          word = this.numbers_[finalConsonant].consonant + this.numbers_[finalConsonant].vowel + this.digitMarker_;
+        }
+        return word;
+      },
       $_numbersToIpa(numberArray) {
         let completeWord = "";
         for (let i = 0; i < numberArray.length; i++) {
@@ -105,32 +118,17 @@
           let word = "";
           switch (numberPart.length) {
             case 1:
-              let num = numberPart[0];
-              word = this.numbers_[num].consonant + this.numbers_[num].vowel + this.digitMarker_;
-              break;
+              numberPart = "0" + numberPart;
             case 2:
-              if (numberPart[0]=="0") {
-                word = this.numbers_[numberPart[1]].consonant + this.numbers_[numberPart[1]].vowel + this.digitMarker_;
-              } else {
-                word = this.fillerMarker_ + this.numbers_[numberPart[0]].vowel + this.numbers_[numberPart[1]].consonant;
-              }
-              break;
+              numberPart = "0" + numberPart;
             default:
-              if (numberPart[0] == "0" && numberPart[1] == "0") {
-                if (numberPart[2] == "0" && number.length > 1 && i != 0) {
-                  word = '';
-                } else {
-                  word = this.numbers_[numberPart[2]].consonant + this.numbers_[numberPart[2]].vowel + this.digitMarker_;
-                }
-              } else {
-                word = this.numbers_[numberPart[0]].consonant + this.numbers_[numberPart[1]].vowel + this.numbers_[numberPart[2]].consonant;
-              }
+              word = this.$_wordFormation(numberPart[0], numberPart[1], numberPart[2], i);
           }
-          let magnitude = ""
-          if (numberArray.length > 1){
+          let magnitude = "";
+          if (numberArray.length > 1 && word != "") {
             magnitude = this.magnitudeVowel_[(numberArray.length - i - 1)];
           }
-            completeWord += " " + magnitude + word
+            completeWord += " " + magnitude + word;
 
         }
        return completeWord;
