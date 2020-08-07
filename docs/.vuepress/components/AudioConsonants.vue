@@ -1,6 +1,5 @@
 <template>
   <section class="Audio">
-		<h2>Phonology</h2>
 		<table class="Audio__table">
 			<thead class="Audio__head">
 				<tr>
