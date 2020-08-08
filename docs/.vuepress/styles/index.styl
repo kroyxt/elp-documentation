@@ -46,7 +46,7 @@ table .icon.outbound
 	overflow: hidden;
 	border: .5px solid #b6c5c9;
 	padding: 0;
-	margin-bottom: 20px;
+	margin: 20px 0 0;
 }
 
 .Audio__table{
@@ -86,4 +86,56 @@ table .icon.outbound
 
 .Audio__item:hover {
 	text-decoration: underline;
+}
+
+.NumberToIpa {
+  margin: 20px 0;
+}
+.NumberToIpa * {
+  box-sizing: border-box;
+}
+.NumberToIpa__container {
+  width: 300px;
+  margin: auto;
+}
+[class*="NumberToIpa__input"] {
+  width: 100%;
+  height: 35px;
+  padding: 0 15px;
+  border: 2px solid;
+  border-radius: 15px;
+  text-align: center;
+}
+[class*="NumberToIpa__input"]:focus {
+  outline-width: 0;
+}
+.NumberToIpa__input {
+  border-color: #25b6da;
+}
+.NumberToIpa__input--error {
+  border-color: red;
+}
+[class*="NumberToIpa__output"] {
+  min-height: 2rem;
+  border-bottom: 2px solid #25b6da;
+  padding-bottom: 10px;
+  font-size: 1.5rem;
+  text-align: center;
+}
+.NumberToIpa__output {
+  color: #25b6da;
+}
+.NumberToIpa__output--error {
+  color: red;
+}
+.NumberToIpa__listImg {
+  display: grid;
+  grid-template-columns: repeat(12, 1fr);
+}
+.NumberToIpa__itemImg {
+  list-style: none;
+}
+.NumberToIpa__img {
+  display: block;
+  max-height: 80px;
 }

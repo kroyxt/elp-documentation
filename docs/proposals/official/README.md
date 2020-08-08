@@ -10,59 +10,65 @@ these Official Proposals unless they call to replace an Official Proposal.
 The Official Proposal Committee is responsible for ensuring that all Draft
 Proposals are in accordance with the aims and goals of the Language.
 
-| Approved Date     | Vote Summary | Link                                                                                                    |
-| ------------- | :-----------: | ------------------------------------------------------------------------------------------------------- |
-| 19/07/2020 |     11 for / 2 against | [See](https://www.reddit.com/r/EncapsulatedLanguage/comments/hsot1a/official_proposal_implementation_of_an_official/)    |
-| 01/07/2020    |     13 for / 0 against      | [See](https://www.reddit.com/r/EncapsulatedLanguage/comments/hgyh4a/draft_proposal_evildea_act_as_a_gate_keeper_for/) |
+| Approved Date | Vote Summary       | Link                                                                                                                  |
+|---------------|:------------------:|-----------------------------------------------------------------------------------------------------------------------|
+| 19/07/2020    | 11 for / 2 against | [See](https://www.reddit.com/r/EncapsulatedLanguage/comments/hsot1a/official_proposal_implementation_of_an_official/) |
+| 01/07/2020    | 13 for / 0 against | [See](https://www.reddit.com/r/EncapsulatedLanguage/comments/hgyh4a/draft_proposal_evildea_act_as_a_gate_keeper_for/) |
 
 ## Phonology
 
 The Encapsulated Language uses the following phonemes.
 
+### Consonants
+
 <AudioConsonants/>
+
+### Vocals
 
 <AudioVowels/>
 
+### Diphthongs
+
 <AudioDiphthongs/>
 
-| Approved Date     | Vote Summary | Link                                                                                                    |
-| ------------- | :-----------: | ------------------------------------------------------------------------------------------------------- |
-| 02/08/2020    |     24 for / 3 against      | [See](https://www.reddit.com/r/EncapsulatedLanguage/comments/i12ryt/official_proposal_vote_to_officialize_a/) |
-| 22/07/2020    |     16 for / 10 against      | [See](https://www.reddit.com/r/EncapsulatedLanguage/comments/huihs2/official_proposal_vote_to_replace_the_trilled_r/?utm_source=share&utm_medium=ios_app&utm_name=iossmf) |
-| 18/07/2020    |     14 for / 5 against      | [See](https://www.reddit.com/r/EncapsulatedLanguage/comments/hs66eh/official_proposal_vote_to_slightly_modify_the/) |
-| 15/07/2020    |     12 for Devono / 11 for ArmoredFarmer      | [See](https://www.reddit.com/r/EncapsulatedLanguage/comments/hqbnuh/official_phonology_proposal_final_round_of_voting/) |
+| Approved Date | Vote Summary                         | Link                                                                                                                                                                      |
+|---------------|:------------------------------------:|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 02/08/2020    | 24 for / 3 against                   | [See](https://www.reddit.com/r/EncapsulatedLanguage/comments/i12ryt/official_proposal_vote_to_officialize_a/)                                                             |
+| 22/07/2020    | 16 for / 10 against                  | [See](https://www.reddit.com/r/EncapsulatedLanguage/comments/huihs2/official_proposal_vote_to_replace_the_trilled_r/?utm_source=share&utm_medium=ios_app&utm_name=iossmf) |
+| 18/07/2020    | 14 for / 5 against                   | [See](https://www.reddit.com/r/EncapsulatedLanguage/comments/hs66eh/official_proposal_vote_to_slightly_modify_the/)                                                       |
+| 15/07/2020    | 12 for Devono / 11 for ArmoredFarmer | [See](https://www.reddit.com/r/EncapsulatedLanguage/comments/hqbnuh/official_phonology_proposal_final_round_of_voting/)                                                   |
 
 ## Number Base
 
 The Encapsulated Language uses a Base-12 numbering system.
 
-| Approved Date     | Vote Summary | Link                                                                                                    |
-| ------------- | :-----------: | ------------------------------------------------------------------------------------------------------- |
-| 03/07/2020    |     18 for Base-12 / 6 for Base-6      | [See](https://www.reddit.com/r/EncapsulatedLanguage/comments/hil5am/official_proposal_base_12_or_base_6/) |
-| 30/06/2020    |     23 for Base-12 / 10 for Base-16      | [See](https://www.reddit.com/r/EncapsulatedLanguage/comments/hg350n/base_12_or_base_16/) |
+| Approved Date | Vote Summary                    | Link                                                                                                      |
+|---------------|:-------------------------------:|-----------------------------------------------------------------------------------------------------------|
+| 03/07/2020    | 18 for Base-12 / 6 for Base-6   | [See](https://www.reddit.com/r/EncapsulatedLanguage/comments/hil5am/official_proposal_base_12_or_base_6/) |
+| 30/06/2020    | 23 for Base-12 / 10 for Base-16 | [See](https://www.reddit.com/r/EncapsulatedLanguage/comments/hg350n/base_12_or_base_16/)                  |
 
 ## Phonological Values
 
 The following phonemes have inherent numerical values in the Encapsulated Language:
 
-| Numbers        |      |      |      |      |
-| -------------- | ---- | ---- | ---- | ---- |
-| 0 - 3          | v    | f    | ɣ    | x    |
-| 4 - 7          | z    | s    | ʒ    | ʃ    |
-| 8 - E          | d͡z   | t͡s   | d͡ʒ   | t͡ʃ   |
+| Numbers |    |    |    |    |
+|---------|----|----|----|----|
+| 0 - 3   | v  | f  | ɣ  | x  |
+| 4 - 7   | z  | s  | ʒ  | ʃ  |
+| 8 - E   | d͡z | t͡s | d͡ʒ | t͡ʃ |
 
-| Numbers        |      |      |      |
-| -------------- | ---- | ---- | ---- |
-| 0 - 3          | i    | u    | y    |
-| 3 - 5          | a    | e    | o    |
-| 6 - 8          | iː   | uː   | yː   |
-| 9 - E          | aː   | eː   | oː   |
+| Numbers |    |    |    |
+|---------|----|----|----|
+| 0 - 3   | i  | u  | y  |
+| 3 - 5   | a  | e  | o  |
+| 6 - 8   | iː | uː | yː |
+| 9 - E   | aː | eː | oː |
 
 [What do the phonological values encapsulate?](https://kroyxlab.github.io/elp-documentation/encapsulation.html#phonological-values)
 
-| Approved Date     | Vote Summary | Link                                                                                                    |
-| ------------- | :-----------: | ------------------------------------------------------------------------------------------------------- |
-| 02/08/2020    |     24 for / 3 against      | [See](https://www.reddit.com/r/EncapsulatedLanguage/comments/i12ryt/official_proposal_vote_to_officialize_a/) |
+| Approved Date | Vote Summary       | Link                                                                                                          |
+|---------------|:------------------:|---------------------------------------------------------------------------------------------------------------|
+| 02/08/2020    | 24 for / 3 against | [See](https://www.reddit.com/r/EncapsulatedLanguage/comments/i12ryt/official_proposal_vote_to_officialize_a/) |
 
 ## Numerals
 
@@ -76,10 +82,10 @@ the numeral by **hand only**.
 
 [What do the numerals encapsulate?](https://kroyxlab.github.io/elp-documentation/encapsulation.html#numerals)
 
-| Approved Date     | Vote Summary | Link                                                                                                    |
-| ------------- | :-----------: | ------------------------------------------------------------------------------------------------------- |
-| 26/07/2020    |     19 for / 3 against      | [See](https://www.reddit.com/r/EncapsulatedLanguage/comments/hwyxdw/official_proposal_vote_to_modify_numeral_0_for/) |
-| 24/07/2020    |     22 for / 2 against      | [See](https://www.reddit.com/r/EncapsulatedLanguage/comments/hvmhsr/official_proposal_vote_to_officialise_the_numeral/) |
+| Approved Date | Vote Summary       | Link                                                                                                                    |
+|---------------|:------------------:|-------------------------------------------------------------------------------------------------------------------------|
+| 26/07/2020    | 19 for / 3 against | [See](https://www.reddit.com/r/EncapsulatedLanguage/comments/hwyxdw/official_proposal_vote_to_modify_numeral_0_for/)    |
+| 24/07/2020    | 22 for / 2 against | [See](https://www.reddit.com/r/EncapsulatedLanguage/comments/hvmhsr/official_proposal_vote_to_officialise_the_numeral/) |
 
 ## Number Words
 
@@ -87,27 +93,14 @@ the numeral by **hand only**.
 
 Single-digit numbers are built from both the consonant and vowel that represents their phonological value plus the consonant /n/.
 
-| Numbers        | Number Word      |
-| -------------- | ---------------- |
-| 0              | vin              |
-| 1              | fun              |
-| 2              | ɣyn              |
-| 3              | xan              |
-| 4              | zen              |
-| 5              | son              |
-| 6              | ʒiːn             |
-| 7              | ʃuːn             |
-| 8              | d͡zyːn            |
-| 9              | t͡saːn            |
-| X (10)         | d͡ʒeːn            |
-| E (11)         | t͡ʃoːn            |
+<AudioNumbers/>
 
 The single-digit number system can also be used to express a string of digits such as a phone number
 For example, **(605).475.6968** can be expressed as **ʒiːn vin son - zen ʃuːn son - ʒiːn t͡saːn ʒiːn d͡zyːn**
 
-| Approved Date     | Vote Summary | Link                                                                                                    |
-| ------------- | :-----------: | ------------------------------------------------------------------------------------------------------- |
-| 02/08/2020    |     24 for / 3 against      | [See](https://www.reddit.com/r/EncapsulatedLanguage/comments/i12ryt/official_proposal_vote_to_officialize_a/) |
+| Approved Date | Vote Summary       | Link                                                                                                          |
+|---------------|:------------------:|---------------------------------------------------------------------------------------------------------------|
+| 02/08/2020    | 24 for / 3 against | [See](https://www.reddit.com/r/EncapsulatedLanguage/comments/i12ryt/official_proposal_vote_to_officialize_a/) |
 
 ### Trinumeral Number Words (10 - EEE)
 
@@ -125,15 +118,15 @@ Number 0-E (0 - 11 in base-10) are left out of this list because single-digit nu
 
 Examples:
 
-| Numbers (base-12) | Trinumeral       |
-| ----------------- | ---------------- |
-| 10                | vuv              |
-| 11                | vuf              |
-| 12                | vuɣ              |
-| 13                | vux              |
-| 14                | vuz              |
-| 15                | vus              |
-| 16                | vuʒ              |
+| Numbers (base-12) | Trinumeral |
+|-------------------|------------|
+| 10                | vuv        |
+| 11                | vuf        |
+| 12                | vuɣ        |
+| 13                | vux        |
+| 14                | vuz        |
+| 15                | vus        |
+| 16                | vuʒ        |
 
 | Approved Date     | Vote Summary | Link                                                                                                    |
 | ------------- | :-----------: | ------------------------------------------------------------------------------------------------------- |
@@ -145,48 +138,48 @@ The Encapsulated Language uses the following numeric prefixes.
 
 The numeric prefixes are used as an extension to the base number word system to represent the magnitude of a value. They form number words similar to “million” and “billion” in English, but allow a greater level of precision that scientific notation is normally capable of expressing.
 
-| Numeric Prefix   | Value          |
-| ---------------- | -------------- |
-| ei̯-              | 1000^0         |
-| wa-              | 1000^1         |
-| jo-              | 1000^2         |
-| eu̯-              | 1000^3         |
-| ai̯-              | 1000^4         |
-| wo-              | 1000^5         |
-| je-              | 1000^6         |
-| au̯-              | 1000^7         |
-| oi̯-              | 1000^8         |
-| we-              | 1000^9         |
-| ja-              | 1000^10        |
-| ou̯-              | 1000^11        |
+| Numeric Prefix | Value   |
+|----------------|---------|
+| ei̯-            | 1000^0  |
+| wa-            | 1000^1  |
+| jo-            | 1000^2  |
+| eu̯-            | 1000^3  |
+| ai̯-            | 1000^4  |
+| wo-            | 1000^5  |
+| je-            | 1000^6  |
+| au̯-            | 1000^7  |
+| oi̯-            | 1000^8  |
+| we-            | 1000^9  |
+| ja-            | 1000^10 |
+| ou̯-            | 1000^11 |
 
 Examples of numeric prefix use with single-digit number words:
 
-| Numbers        | Numeric Prefix   |
-| -------------- | ---------------- |
-| 1              | **ei̯**fun        |
-| 1,000          | **wa**fun        |
-| 1,000,000      | **jo**fun        |
-| 1,000,000,000  | **eu̯**fun        |
+| Numbers       | Numeric Prefix |
+|---------------|----------------|
+| 1             | **ei̯**fun      |
+| 1,000         | **wa**fun      |
+| 1,000,000     | **jo**fun      |
+| 1,000,000,000 | **eu̯**fun      |
 
 Examples of numeric prefix use with trinumerals:
 
-| Numbers        | Numeric Prefix                        | Breakdown                           |
-| -------------- | ------------------------------------- | ----------------------------------- |
-| 37             | **ei̯**vaʃ                             | 37 * 10^0                           |
-| X1             | **ei̯**veːf                            | X1 * 10^0                           |
-| 190            | **ei̯**faːv                            | 190 * 10^0                          |
-| 3EX            | **ei̯**xoːd͡ʒ                           | 3EX * 10^0                          |
-| 496,476        | **wa**zaːʒ **ei̯**zuːʒ                 | 496 * 10^3 + 476 * 10^0             |
-| E0,145,355     | **jo**voːv **wa**fes **ei̯**xos        | E0 * 10^6 + 145 * 10^3 + 355 * 10^0 |
-| 1,157,23E      | **jo**fun **wa**foʃ **ei̯**ɣat͡ʃ        | 1 * 10^6 + 157 * 10^3 + 23E * 10^0  |
-| 5,649,67E      | **jo**son **wa**ʒet͡s **ei̯**ʒuːt͡ʃ      | 5 * 10^6 + 649 * 10^3 + 67E * 10^0  |
-| E,44X,236      | **jo**t͡ʃoːn **wa**zed͡ʒ **ei̯**ɣaʒ      | E * 10^6 + 44X * 10^3 + 236 * 10^0  |
+| Numbers    | Numeric Prefix                   | Breakdown                           |
+|------------|----------------------------------|-------------------------------------|
+| 37         | **ei̯**vaʃ                        | 37 * 10^0                           |
+| X1         | **ei̯**veːf                       | X1 * 10^0                           |
+| 190        | **ei̯**faːv                       | 190 * 10^0                          |
+| 3EX        | **ei̯**xoːd͡ʒ                      | 3EX * 10^0                          |
+| 496,476    | **wa**zaːʒ **ei̯**zuːʒ            | 496 * 10^3 + 476 * 10^0             |
+| E0,145,355 | **jo**voːv **wa**fes **ei̯**xos   | E0 * 10^6 + 145 * 10^3 + 355 * 10^0 |
+| 1,157,23E  | **jo**fun **wa**foʃ **ei̯**ɣat͡ʃ   | 1 * 10^6 + 157 * 10^3 + 23E * 10^0  |
+| 5,649,67E  | **jo**son **wa**ʒet͡s **ei̯**ʒuːt͡ʃ | 5 * 10^6 + 649 * 10^3 + 67E * 10^0  |
+| E,44X,236  | **jo**t͡ʃoːn **wa**zed͡ʒ **ei̯**ɣaʒ | E * 10^6 + 44X * 10^3 + 236 * 10^0  |
 
-| Approved Date     | Vote Summary | Link                                                                                                    |
-| ------------- | :-----------: | ------------------------------------------------------------------------------------------------------- |
-| 05/08/2020    |     15 for / 4 against      | [See](https://www.reddit.com/r/EncapsulatedLanguage/comments/i2ttzh/official_proposal_vote_to_change_the_numeric/) |
-| 02/08/2020    |     24 for / 3 against      | [See](https://www.reddit.com/r/EncapsulatedLanguage/comments/i12ryt/official_proposal_vote_to_officialize_a/) |
+| Approved Date | Vote Summary       | Link                                                                                                               |
+|---------------|:------------------:|--------------------------------------------------------------------------------------------------------------------|
+| 05/08/2020    | 15 for / 4 against | [See](https://www.reddit.com/r/EncapsulatedLanguage/comments/i2ttzh/official_proposal_vote_to_change_the_numeric/) |
+| 02/08/2020    | 24 for / 3 against | [See](https://www.reddit.com/r/EncapsulatedLanguage/comments/i12ryt/official_proposal_vote_to_officialize_a/)      |
 
 ## Logo
 
@@ -194,9 +187,9 @@ This Logo represents the Encapsulated Language Project.
 
 ![Logo](/elp-documentation/img/logo.png)
 
-| Approved Date     | Vote Summary | Link                                                                                                    |
-| ------------- | :-----------: | ------------------------------------------------------------------------------------------------------- |
-| 10/07/2020    |     14 for / 9 against      | [See](https://www.reddit.com/r/EncapsulatedLanguage/comments/hogy7t/official_proposal_to_replace_the_official_logo/) |
-| 04/07/2020    |     18 for / 8 against      | [See](https://www.reddit.com/r/EncapsulatedLanguage/comments/hizw84/official_proposal_logo/) |
+| Approved Date | Vote Summary       | Link                                                                                                                 |
+|---------------|:------------------:|----------------------------------------------------------------------------------------------------------------------|
+| 10/07/2020    | 14 for / 9 against | [See](https://www.reddit.com/r/EncapsulatedLanguage/comments/hogy7t/official_proposal_to_replace_the_official_logo/) |
+| 04/07/2020    | 18 for / 8 against | [See](https://www.reddit.com/r/EncapsulatedLanguage/comments/hizw84/official_proposal_logo/)                         |
 
 
