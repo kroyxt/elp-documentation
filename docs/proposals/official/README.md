@@ -210,6 +210,14 @@ Examples of numeric prefix use with trinumerals:
 | 05/08/2020    |     15 for / 4 against      | [See](https://www.reddit.com/r/EncapsulatedLanguage/comments/i2ttzh/official_proposal_vote_to_change_the_numeric/) |
 | 02/08/2020    |     24 for / 3 against      | [See](https://www.reddit.com/r/EncapsulatedLanguage/comments/i12ryt/official_proposal_vote_to_officialize_a/) |
 
+## Word Order
+
+The Encapsulated Language is a word order harmonic language.
+
+| Approved Date     | Vote Summary | Link                                                                                                    |
+| ------------- | :-----------: | ------------------------------------------------------------------------------------------------------- |
+| 09/08/2020    |     22 for / 2 against      | [See](https://www.reddit.com/r/EncapsulatedLanguage/comments/i59je6/official_proposal_vote_to_make_the_encapsulated/) |
+
 ## Logo
 
 This Logo represents the Encapsulated Language Project.
