@@ -2,4 +2,5 @@
 
 | Proponent                                                   | Draft Version | Summary                                                                      | Link                                                                                                        |
 | ----------------------------------------------------------- | :-----------: | ---------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------- |
+| [u/atrawa](https://www.reddit.com/u/atrawa)         |   v1.0    | Proposal for a flag.                                 | [see](https://www.reddit.com/r/EncapsulatedLanguage/comments/i6vr71/a_flag_proposal_based_on_the_logo_and_uses/)  |
 | [u/Ingvaeone](https://www.reddit.com/u/Ingvaeone)         |   v1.0    | Proposal for a flag.                                 | [see](https://www.reddit.com/r/EncapsulatedLanguage/comments/hzsl92/updated_flag_proposal/)  |
