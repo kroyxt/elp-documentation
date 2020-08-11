@@ -43,21 +43,25 @@ The primary disciplines whose fundamentals will be encapsulated within the
 language are:
 
 **Formal Sciences**
+
 - Math
 
 **Natural Sciences**
+
 - Physics
 - Chemistry
 - Biology
 - Geology
 
 **Composite Sciences**
+
 - Technology (Engineering)
 - Medicine
 - Agronomy
 - Geography
 
 **Social Sciences**
+
 - Psychology
 - Sociology
 
@@ -73,13 +77,13 @@ An example of encapsulation can be found in the
 for the numerals. The numerals have the following information cached within them:
 
 - 3x multiplication table (Any numeral that consists of three strokes belongs to
-the 3x multiplication table)
+  the 3x multiplication table)
 
 - 4x multiplication table (Any numeral that contains only horizontal bars
-belongs to the 4x multiplication table)
+  belongs to the 4x multiplication table)
 
 - All numerals representing a number greater than 4 are built from the numerals
-1, 2, 3, or 4.
+  1, 2, 3, or 4.
 
 A child who speaks this language natively would be taught how to recognise all
 the patterns that exist within their language. In the case of the numerals, they
@@ -125,31 +129,31 @@ In order to make changes to the language, the following process needs to be
 adhered to.
 
 1. The **Proponent** of the change or addition needs to clearly define what
-aspect of the language they think needs to be changed or added to.
+   aspect of the language they think needs to be changed or added to.
 
 2. The **Proponent** then needs to check the “Encapsulated Language Project
-Documentation” to see whether any existing Draft Proposal covers their proposed
-changes or additions.
+   Documentation” to see whether any existing Draft Proposal covers their proposed
+   changes or additions.
 
    - If there’s an existing **Draft Proposal**, then the proponent should throw
-   their support behind that proposal.
+     their support behind that proposal.
 
    - If there isn’t an existing **Draft Proposal**, then the proponent should
-   post their [Draft Proposal](https://www.reddit.com/r/EncapsulatedLanguage/)
-   for feedback.
+     post their [Draft Proposal](https://www.reddit.com/r/EncapsulatedLanguage/)
+     for feedback.
 
 3. The **Proponent** should acknowledge community feedback and update their
-Draft Proposal accordingly.
+   Draft Proposal accordingly.
 
 4. If a **Draft Proposal** generates enough community feedback / support, the
-Proponent can send their finalized Proposal to the
-**Official Proposal Committee**. The Official Proposal Committee will review
-the Proposal and either accept or reject the Proposal based on their mandate.
-If the Proposal is accepted /u/ActingAustralia (Richard Delamore) will organise
-a community vote asking the community to either accept or reject the proposal.
-Members of the community will have 2 or 3 days to vote in the poll (depending
-on the severity of the change). If the Official Proposal gets 50% or more
-support, the Proposal will be promoted to an Official Proposal.
+   Proponent can send their finalized Proposal to the
+   **Official Proposal Committee**. The Official Proposal Committee will review
+   the Proposal and either accept or reject the Proposal based on their mandate.
+   If the Proposal is accepted /u/ActingAustralia (Richard Delamore) will organise
+   a community vote asking the community to either accept or reject the proposal.
+   Members of the community will have 2 or 3 days to vote in the poll (depending
+   on the severity of the change). If the Official Proposal gets 50% or more
+   support, the Proposal will be promoted to an Official Proposal.
 
 ## What is the Official Proposal Committee?
 
@@ -165,25 +169,25 @@ Official Proposal Committee with a request for Officialisation.
 **Review of Proposals**
 
 - The Official Proposal Committee must ensure that all Draft Proposals seeking
-officialisation through community vote adhere to the aims and goals of the Language.
+  officialisation through community vote adhere to the aims and goals of the Language.
 
 - The Official Proposal Committee must provide a proponent of a rejected Draft
-Proposal with a reason for why the Proposal was rejected.
+  Proposal with a reason for why the Proposal was rejected.
 
 - If a vote to accept/reject a Proposal results in a tie, /u/ActingAustralia
-(Richard Delamore) will act as the tie breaker.
+  (Richard Delamore) will act as the tie breaker.
 
 **Membership**
 
 - The Official Proposal Committee consists of exactly six members.
 
 - If a member retires from the committee or becomes inactive, the other members
-of the committee can vote to remove him/her. A vote for removal requires
-majority support among committee members.
+  of the committee can vote to remove him/her. A vote for removal requires
+  majority support among committee members.
 
 - The committee can choose to fill a vacant position by any means it desires,
-however, the new committee member must have a strong record of consistent and
-active participation in the project to be eligible.
+  however, the new committee member must have a strong record of consistent and
+  active participation in the project to be eligible.
 
 **Current Committee Members**
 
@@ -196,29 +200,50 @@ active participation in the project to be eligible.
 
 ## How to write a good draft proposal
 
-To make sure your proposal as well understood as possible and to get both the maximum support and maximum effect, here are some best practices on how to draft a good proposal. But bear in mind: none of this is a formal requirement. A project like this has so many aspects and dimensions; your proposal might have a new approach that requires it’s own style of proposal or it might concern an area of the project that no one has yet consciously thought of. So: Write what you think is right.
+To make sure your proposal as well understood as possible and to get both the
+maximum support and maximum effect, here are some best practices on how to
+draft a good proposal. But bear in mind: none of this is a formal requirement.
+A project like this has so many aspects and dimensions; your proposal might
+have a new approach that requires it’s own style of proposal or it might
+concern an area of the project that no one has yet consciously thought of. So:
+Write what you think is right.
 
-But still, read through the following paragraphs. Either the tips and guidelines presented here can be used directly for your proposal, or they at least outline a “spirit”, a way of thinking that are worth considering.
+But still, read through the following paragraphs. Either the tips and
+guidelines presented here can be used directly for your proposal, or they at
+least outline a “spirit”, a way of thinking that are worth considering.
 
 ### Research
 
-Before posting, try to familiarize yourself with the discussion in the community regarding your topic. Has it already been discussed? Is it still being discussed? Are there active related proposals out there, at the moment?
+Before posting, try to familiarize yourself with the discussion in the
+community regarding your topic. Has it already been discussed? Is it still
+being discussed? Are there active related proposals out there, at the moment?
 
-That way you’ll not only be able to formulate a more thoroughly thought through proposal, but you also might find people who are interested in the same or similar topics to exchange ideas and collaborate with.
+That way you’ll not only be able to formulate a more thoroughly thought through
+proposal, but you also might find people who are interested in the same or
+similar topics to exchange ideas and collaborate with.
 
 ### Is it already a proposal? Or still just an idea?
 
-Even if a draft proposal is essentially a call for feedback, it’s still a proposal. That means, you have something concrete to propose that people can agree or disagree with.
+Even if a draft proposal is essentially a call for feedback, it’s still a
+proposal. That means, you have something concrete to propose that people can
+agree or disagree with.
 
-Otherwise it’s probably an idea or a call for feedback or collaboration, the start of a discussion etc. In that latter case, no special structure is required.
+Otherwise it’s probably an idea or a call for feedback or collaboration, the
+start of a discussion etc. In that latter case, no special structure is
+required.
 
-[Click here for a good example](https://www.reddit.com/r/EncapsulatedLanguage/comments/hxofaz/ideas_on_continental_division/) for a well written idea that is not a proposal.
+[Click here for a good example](https://www.reddit.com/r/EncapsulatedLanguage/comments/hxofaz/ideas_on_continental_division/)
+for a well written idea that is not a proposal.
 
 If it is a proposal, continue on…
 
 ### Is it one proposal? Or several?
 
-If there are several issues to your proposal that people might want to (dis)agree with seperately, split it up into separate proposals. If they relate to one another, don’t hesitate to describe those relations. But only pack them into one proposal if they don’t make any sense on their own and only function together.
+If there are several issues to your proposal that people might want to
+(dis)agree with seperately, split it up into separate proposals. If they relate
+to one another, don’t hesitate to describe those relations. But only pack them
+into one proposal if they don’t make any sense on their own and only function
+together.
 
 ### Write your proposal
 
@@ -226,23 +251,36 @@ The following aspects are key features of a good proposal:
 
 1. Summary: Briefly summarize your proposal. What is it concerned with?
 2. Intention of Proposal: What problem are you trying to solve?
-3. Context: If there are other proposals or discussions out there that might help a reader to better understand your proposal to its full extent, provide links and maybe a bit of info.
+3. Context: If there are other proposals or discussions out there that might
+	 help a reader to better understand your proposal to its full extent, provide
+	 links and maybe a bit of info.
 4. Proposed change: Describe as exactly as possible the changes or new features you propose.
 5. Effect: How will the Proposal help achieve the goals of the language?
+
 - Especially if it is a proposal that implements some encapsulation, describe which information is encapsulated and how.
 - Does your change affects the accessibility of the language?
-6. Scope: Which new elements will be introduced into the language (if any)? Which existing parts of the language will need to change or be rescinded?
+
+6. Scope: Which new elements will be introduced into the language (if any)?
+	 Which existing parts of the language will need to change or be rescinded?
 7. Examples: Practical examples of the change
 
-Good examples for proposals who show several or all of these features: [1](https://www.reddit.com/r/EncapsulatedLanguage/comments/hyfrop/the_encapsulated_verbal_number_system/), [2](https://www.reddit.com/r/EncapsulatedLanguage/comments/hxk1xn/phonotactics_proposal/)
+Good examples for proposals who show several or all of these features:
+[1](https://www.reddit.com/r/EncapsulatedLanguage/comments/hyfrop/the_encapsulated_verbal_number_system/),
+[2](https://www.reddit.com/r/EncapsulatedLanguage/comments/hxk1xn/phonotactics_proposal/)
 
-Bonus: Open questions, possible extensions. If applicable, give an idea on how your proposal could be extended and used to further develop the language.
+Bonus: Open questions, possible extensions. If applicable, give an idea on how
+your proposal could be extended and used to further develop the language.
 
 [Click here for a good example](https://www.reddit.com/r/EncapsulatedLanguage/comments/hs30jj/advanced_form_of_numeral_system_part_v_arithmetic/) for this bonus aspect of extendability.
 
 ### Post it to the subreddit
 
-When your proposal is finally done, post it to the [subreddit](https://www.reddit.com/r/EncapsulatedLanguage/) and don’t forget to add the “Draft Proposal”-flair to it. That way, people will know that it actually is a proposal and also the Members of the [Official Proposals Committee](https://kroyxlab.github.io/elp-documentation/faq/#what-is-the-official-proposal-committee) will know what needs to be looked at and updated on the website.
+When your proposal is finally done, post it to the
+[subreddit](https://www.reddit.com/r/EncapsulatedLanguage/) and don’t forget to
+add the “Draft Proposal”-flair to it. That way, people will know that it
+actually is a proposal and also the Members of the [Official Proposals
+Committee](https://kroyxlab.github.io/elp-documentation/faq/#what-is-the-official-proposal-committee)
+will know what needs to be looked at and updated on the website.
 
 ## When will the Language be finalised
 
@@ -280,3 +318,4 @@ New sections shouldn’t be added to this document unless:
 This is an open source project which means errors and contradictions will appear.
 If you notice two sections that contradict one another then please post them to
 Reddit for discussion.
+

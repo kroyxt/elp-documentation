@@ -9,12 +9,12 @@ For a comprehensive list of reasons for and against Base-12, you'll need to dig
 through the subreddit history.
 
 - Base-12 can be cleanly divided by 1, 2, 3, 4, 6, and 12 making it more
-fraction-friendly than Base-10.
+  fraction-friendly than Base-10.
 
 - Base-12 is already used to describe time.
 - Base-12 requires less rote memorization than Base-10.
 - Base-12 was considered a happy medium between the number of digits required
-and the resulting number of numerals.
+  and the resulting number of numerals.
 
 Additionally, mathematical constants such as π can be represented in base-12
 (or any base for that matter) as they simply represent ratios.
@@ -37,12 +37,17 @@ The phonology then underwent rapid development as the community improved upon it
 
 On the 18th of July 2020, the phonemes /ʃ/ and /ʒ/ were replaced with /f/ and
 /v/ to improve the plosive and fricative pattern. The phoneme /j/ was also
-introduced to extend the phonology further and due to its prevalence in world languages.
+introduced to extend the phonology further and due to its prevalence in world
+languages.
 
 On the 22nd of July 2020, the /r/ was replaced with /ɾ/ because the trill was
 considered notoriously difficult and provided no advantage over the alveolar tap.
 
-On the 2nd of August 2020, the proto-number word system introduced the following consonants /ʃ/, /ʒ/, /t͡s/, /d͡z/, /t͡ʃ/, /d͡ʒ/, /w/, the following vowels /y/ and /yː/, along with the following diphthongs /ai̯/, /ei̯/, /oi̯/, /au̯/, /eu̯/ and /ou̯/. This large change to the phonology was required to build the underlying patterns of the new number word system.
+On the 2nd of August 2020, the proto-number word system introduced the
+following consonants /ʃ/, /ʒ/, /t͡s/, /d͡z/, /t͡ʃ/, /d͡ʒ/, /w/, the following
+vowels /y/ and /yː/, along with the following diphthongs /ai̯/, /ei̯/, /oi̯/,
+/au̯/, /eu̯/ and /ou̯/. This large change to the phonology was required to build
+the underlying patterns of the new number word system.
 
-The phonology is still considered highly unstable and further changes are expected.
-
+The phonology is still considered highly unstable and further changes are
+expected.
