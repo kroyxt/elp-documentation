@@ -54,6 +54,40 @@ The Encapsulated Language uses the following phonemes.
 | 18/07/2020    |          14 for / 5 against          | [See](https://www.reddit.com/r/EncapsulatedLanguage/comments/hs66eh/official_proposal_vote_to_slightly_modify_the/)                                                       |
 | 15/07/2020    | 12 for Devono / 11 for ArmoredFarmer | [See](https://www.reddit.com/r/EncapsulatedLanguage/comments/hqbnuh/official_phonology_proposal_final_round_of_voting/)                                                   |
 
+## Romanization
+
+The Encapsulated Language uses the following romanization for consonants and diphthongs:
+
+| IPA          | ʃ  | ʒ  | t͡s | d͡z | t͡ʃ  | d͡ʒ  | ɾ | x  | ɣ  |
+| ------------ | -- | -- | -- | -- | --- | --- | - | -- | -- |
+| Romanization | sh | zh | ts | dz | tsh | dzh | r | kh | gh |
+
+| IPA          | ai̯ | ei̯ | oi̯ | au̯ | eu̯ | ou̯ |
+| ------------ | -- | -- | -- | -- | -- | -- |
+| Romanization | ai | ei | oi | au | eu | ou |
+
+The Encapsulated Language uses the following two systems of romanization for the vowels:
+
+### The primary system:
+
+This system must be used by all Official Proposals and training materials.
+
+| IPA          | i | iː | y | yː | u | uː | e | eː | o | oː | a | aː |
+| ------------ | - | -- | - | -- | - | -- | - | -- | - | -- | - | -- |
+| Romanization | i | ī  | y | ȳ  | u | ū  | e | ē  | o | ō  | a | ā  |
+
+### The alternative system:
+
+This system must can be used in informal settings when the primary means proves too difficult to type.
+
+| IPA          | i | iː | y | yː | u | uː | e | eː | o | oː | a | aː |
+| ------------ | - | -- | - | -- | - | -- | - | -- | - | -- | - | -- |
+| Romanization | i | i: | y | y: | u | u: | e | e: | o | o: | a | a: |
+
+| Approved Date |             Vote Summary             | Link                                                                                                                                                                      |
+| ------------- | :----------------------------------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 12/08/2020    |          21 for / 6 against          | [See](https://www.reddit.com/r/EncapsulatedLanguage/comments/i74ttc/official_proposal_vote_to_establish_an_official/)                                                             |
+
 ## Number Base
 
 The Encapsulated Language uses a Base-12 numbering system.
@@ -69,16 +103,16 @@ The following phonemes have inherent numerical values in the Encapsulated Langua
 
 | Numbers |     |     |     |     |
 | ------- | --- | --- | --- | --- |
-| 0 - 3   | v   | f   | ɣ   | x   |
-| 4 - 7   | z   | s   | ʒ   | ʃ   |
-| 8 - E   | d͡z  | t͡s  | d͡ʒ  | t͡ʃ  |
+| 0 - 3   | v   | f   | gh  | kh  |
+| 4 - 7   | z   | s   | zh  | sh  |
+| 8 - E   | dz  | ts  | dzh | tsh |
 
 | Numbers |     |     |     |
 | ------- | --- | --- | --- |
 | 0 - 3   | i   | u   | y   |
 | 3 - 5   | a   | e   | o   |
-| 6 - 8   | iː  | uː  | yː  |
-| 9 - E   | aː  | eː  | oː  |
+| 6 - 8   | ī   | ū   | ȳ   |
+| 9 - E   | ā   | ē   | ō   |
 
 [What do the phonological values encapsulate?](https://kroyxlab.github.io/elp-documentation/encapsulation.html#phonological-values)
 
@@ -114,21 +148,21 @@ represents their phonological value plus the consonant /n/.
 | ------- | ----------- |
 | 0       | vin         |
 | 1       | fun         |
-| 2       | ɣyn         |
-| 3       | xan         |
+| 2       | ghyn        |
+| 3       | khan        |
 | 4       | zen         |
 | 5       | son         |
-| 6       | ʒiːn        |
-| 7       | ʃuːn        |
-| 8       | d͡zyːn       |
-| 9       | t͡saːn       |
-| X (10)  | d͡ʒeːn       |
-| E (11)  | t͡ʃoːn       |
+| 6       | zhīn        |
+| 7       | shūn        |
+| 8       | dzȳn        |
+| 9       | tsān        |
+| X (10)  | dzhēn       |
+| E (11)  | tshōn       |
 
 The single-digit number system can also be used to express a string of digits
 such as a phone number
-For example, **(605).475.6968** can be expressed as **ʒiːn vin son - zen ʃuːn
-son - ʒiːn t͡saːn ʒiːn d͡zyːn**
+For example, **(605).475.6968** can be expressed as **zhīn vin son - zen shūn
+son - zhīn tsān zhīn dzȳn**
 
 | Approved Date |    Vote Summary    | Link                                                                                                          |
 | ------------- | :----------------: | ------------------------------------------------------------------------------------------------------------- |
@@ -160,11 +194,11 @@ Examples:
 | ----------------- | ---------- |
 | 10                | vuv        |
 | 11                | vuf        |
-| 12                | vuɣ        |
-| 13                | vux        |
+| 12                | vugh       |
+| 13                | vukh       |
 | 14                | vuz        |
 | 15                | vus        |
-| 16                | vuʒ        |
+| 16                | vuzh       |
 
 | Approved Date |    Vote Summary    | Link                                                                                                          |
 | ------------- | :----------------: | ------------------------------------------------------------------------------------------------------------- |
@@ -181,41 +215,41 @@ scientific notation is normally capable of expressing.
 
 | Numeric Prefix | Value   |
 | -------------- | ------- |
-| ei̯-            | 1000^0  |
+| ei-            | 1000^0  |
 | wa-            | 1000^1  |
 | jo-            | 1000^2  |
-| eu̯-            | 1000^3  |
-| ai̯-            | 1000^4  |
+| eu-            | 1000^3  |
+| ai-            | 1000^4  |
 | wo-            | 1000^5  |
 | je-            | 1000^6  |
-| au̯-            | 1000^7  |
-| oi̯-            | 1000^8  |
+| au-            | 1000^7  |
+| oi-            | 1000^8  |
 | we-            | 1000^9  |
 | ja-            | 1000^10 |
-| ou̯-            | 1000^11 |
+| ou-            | 1000^11 |
 
 Examples of numeric prefix use with single-digit number words:
 
 | Numbers       | Numeric Prefix |
 | ------------- | -------------- |
-| 1             | **ei̯**fun      |
+| 1             | **ei**fun      |
 | 1,000         | **wa**fun      |
 | 1,000,000     | **jo**fun      |
-| 1,000,000,000 | **eu̯**fun      |
+| 1,000,000,000 | **eu**fun      |
 
 Examples of numeric prefix use with trinumerals:
 
-| Numbers    | Numeric Prefix                   | Breakdown                            |
-| ---------- | -------------------------------- | ------------------------------------ |
-| 37         | **ei̯**vaʃ                        | 37 \* 10^0                           |
-| X1         | **ei̯**veːf                       | X1 \* 10^0                           |
-| 190        | **ei̯**faːv                       | 190 \* 10^0                          |
-| 3EX        | **ei̯**xoːd͡ʒ                      | 3EX \* 10^0                          |
-| 496,476    | **wa**zaːʒ **ei̯**zuːʒ            | 496 _ 10^3 + 476 _ 10^0              |
-| E0,145,355 | **jo**voːv **wa**fes **ei̯**xos   | E0 _ 10^6 + 145 _ 10^3 + 355 \* 10^0 |
-| 1,157,23E  | **jo**fun **wa**foʃ **ei̯**ɣat͡ʃ   | 1 _ 10^6 + 157 _ 10^3 + 23E \* 10^0  |
-| 5,649,67E  | **jo**son **wa**ʒet͡s **ei̯**ʒuːt͡ʃ | 5 _ 10^6 + 649 _ 10^3 + 67E \* 10^0  |
-| E,44X,236  | **jo**t͡ʃoːn **wa**zed͡ʒ **ei̯**ɣaʒ | E _ 10^6 + 44X _ 10^3 + 236 \* 10^0  |
+| Numbers    | Numeric Prefix                      | Breakdown                            |
+| ---------- | ----------------------------------- | ------------------------------------ |
+| 37         | **ei**vash                          | 37 \* 10^0                           |
+| X1         | **ei**vēf                           | X1 \* 10^0                           |
+| 190        | **ei**fāv                           | 190 \* 10^0                          |
+| 3EX        | **ei**khōdzh                        | 3EX \* 10^0                          |
+| 496,476    | **wa**zāzh **ei̯**zūzh               | 496 _ 10^3 + 476 _ 10^0              |
+| E0,145,355 | **jo**vōv **wa**fes **ei̯**khos      | E0 _ 10^6 + 145 _ 10^3 + 355 \* 10^0 |
+| 1,157,23E  | **jo**fun **wa**fosh **ei̯**ghaysh   | 1 _ 10^6 + 157 _ 10^3 + 23E \* 10^0  |
+| 5,649,67E  | **jo**son **wa**zhets **ei̯**zhūtsh  | 5 _ 10^6 + 649 _ 10^3 + 67E \* 10^0  |
+| E,44X,236  | **jo**tshōn **wa**zedzh **ei̯**ghazh | E _ 10^6 + 44X _ 10^3 + 236 \* 10^0  |
 
 | Approved Date |    Vote Summary    | Link                                                                                                               |
 | ------------- | :----------------: | ------------------------------------------------------------------------------------------------------------------ |

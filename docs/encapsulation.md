@@ -66,16 +66,16 @@ The phonological values encapsulate the following mathematical knowledge:
 | ------ | --------- | -------- | -------- | ----------------- |
 | 0      | v         | Voiced   | Even     | Yes               |
 | 1      | f         | Unvoiced | Odd      | No                |
-| 2      | ɣ         | Voiced   | Even     | Yes               |
-| 3      | x         | Unvoiced | Odd      | No                |
+| 2      | gh        | Voiced   | Even     | Yes               |
+| 3      | kh        | Unvoiced | Odd      | No                |
 | 4      | z         | Voiced   | Even     | Yes               |
 | 5      | s         | Unvoiced | Odd      | No                |
-| 6      | ʒ         | Voiced   | Even     | Yes               |
-| 7      | ʃ         | Unvoiced | Odd      | No                |
-| 8      | d͡z        | Voiced   | Even     | Yes               |
-| 9      | t͡s        | Unvoiced | Odd      | No                |
-| X (10) | d͡ʒ        | Voiced   | Even     | Yes               |
-| E (11) | t͡ʃ        | Unvoiced | Odd      | No                |
+| 6      | zh        | Voiced   | Even     | Yes               |
+| 7      | sh        | Unvoiced | Odd      | No                |
+| 8      | dz        | Voiced   | Even     | Yes               |
+| 9      | ts        | Unvoiced | Odd      | No                |
+| X (10) | dzh       | Voiced   | Even     | Yes               |
+| E (11) | tsh       | Unvoiced | Odd      | No                |
 
 ### Vowel Division by Halves
 
@@ -87,12 +87,12 @@ The phonological values encapsulate the following mathematical knowledge:
 | 3      | a      | Short  | 1st half |
 | 4      | e      | Short  | 1st half |
 | 5      | o      | Short  | 1st half |
-| 6      | iː     | Long   | 2nd half |
-| 7      | uː     | Long   | 2nd half |
-| 8      | yː     | Long   | 2nd half |
-| 9      | aː     | Long   | 2nd half |
-| X (10) | eː     | Long   | 2nd half |
-| E (11) | oː     | Long   | 2nd half |
+| 6      | ī      | Long   | 2nd half |
+| 7      | ū      | Long   | 2nd half |
+| 8      | ȳ      | Long   | 2nd half |
+| 9      | ā      | Long   | 2nd half |
+| X (10) | ē      | Long   | 2nd half |
+| E (11) | ō      | Long   | 2nd half |
 
 ### Vowel Division by Quarters
 
@@ -104,12 +104,12 @@ The phonological values encapsulate the following mathematical knowledge:
 | 3      | a      | aeo   | 2nd ¼    |
 | 4      | e      | aeo   | 2nd ¼    |
 | 5      | o      | aeo   | 2nd ¼    |
-| 6      | iː     | iuy   | 3rd ¼    |
-| 7      | uː     | iuy   | 3rd ¼    |
-| 8      | yː     | iuy   | 3rd ¼    |
-| 9      | aː     | aeo   | 4th ¼    |
-| X (10) | eː     | aeo   | 4th ¼    |
-| E (11) | oː     | aeo   | 4th ¼    |
+| 6      | ī      | iuy   | 3rd ¼    |
+| 7      | ū      | iuy   | 3rd ¼    |
+| 8      | ȳ      | iuy   | 3rd ¼    |
+| 9      | ā      | aeo   | 4th ¼    |
+| X (10) | ē      | aeo   | 4th ¼    |
+| E (11) | ō      | aeo   | 4th ¼    |
 
 ### Consonant Division by Sixths
 
@@ -117,33 +117,33 @@ The phonological values encapsulate the following mathematical knowledge:
 | ------ | --------- | ----------------------- | ------ |
 | 0      | v         | Labial                  | 1st ⅙  |
 | 1      | f         | Labial                  | 1st ⅙  |
-| 2      | ɣ         | Velar                   | 2nd ⅙  |
-| 3      | x         | Velar                   | 2nd ⅙  |
+| 2      | gh        | Velar                   | 2nd ⅙  |
+| 3      | kh        | Velar                   | 2nd ⅙  |
 | 4      | z         | Alveolar fricative      | 3rd ⅙  |
 | 5      | s         | Alveolar fricative      | 3rd ⅙  |
-| 6      | ʒ         | Post-alveolar fricative | 4th ⅙  |
-| 7      | ʃ         | Post-alveolar fricative | 4th ⅙  |
-| 8      | d͡z        | Alveolar affricate      | 5th ⅙  |
-| 9      | t͡s        | Alveolar affricate      | 5th ⅙  |
-| X (10) | d͡ʒ        | Post-alveolar affricate | 6th ⅙  |
-| E (11) | t͡ʃ        | Post-alveolar affricate | 6th ⅙  |
+| 6      | zh        | Post-alveolar fricative | 4th ⅙  |
+| 7      | sh        | Post-alveolar fricative | 4th ⅙  |
+| 8      | dz        | Alveolar affricate      | 5th ⅙  |
+| 9      | tsh       | Alveolar affricate      | 5th ⅙  |
+| X (10) | dzh       | Post-alveolar affricate | 6th ⅙  |
+| E (11) | tsh       | Post-alveolar affricate | 6th ⅙  |
 
 ## Numeric Prefixes
 
 | Numbers | Numeric Prefix |
 | ------- | -------------- |
-| 0       | ei̯-            |
+| 0       | ei-            |
 | 1       | wa-            |
 | 2       | jo-            |
-| 3       | eu̯-            |
-| 4       | ai̯-            |
+| 3       | eu-            |
+| 4       | ai-            |
 | 5       | wo-            |
 | 6       | je-            |
-| 7       | au̯-            |
-| 8       | oi̯-            |
+| 7       | au-            |
+| 8       | oi-            |
 | 9       | we-            |
 | X (10)  | ja-            |
-| E (11)  | ou̯-            |
+| E (11)  | ou-            |
 
 The numeric prefixes encapsulate the following mathematical knowledge:
 
@@ -160,13 +160,13 @@ through the number of strokes.
 
 ### 4x Multiplication
 
-Numeric prefixes that end with /i̯/ are part of the 4x multiplication table.
+Numeric prefixes that end with /i/ are part of the 4x multiplication table.
 
 ### Arithmetic
 
 Swapping the position of the vowel within a numeric prefix either adds or
 removes 6 from the total value. For example:
 
-Swapping the position of the vowel in /ei̯/ (0) will create /je/ (6).
-Swapping the position of the vowel in /ja/ (10) will create /ai̯/ (4).
+Swapping the position of the vowel in /ei/ (0) will create /je/ (6).
+Swapping the position of the vowel in /ja/ (10) will create /ai/ (4).
 
