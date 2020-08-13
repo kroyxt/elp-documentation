@@ -2,6 +2,7 @@
 
 | Proponent                                                 | Draft Version | Summary                                                                      | Link                                                                                                      |
 | --------------------------------------------------------- | :-----------: | ---------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------- |
+| [u/gxabbo](https://www.reddit.com/u/gxabbo)       |     v1.0      | Proposal to make the Encapsulated Language a low ambiguity, high word count, low symonym count language. | [See](https://www.reddit.com/r/EncapsulatedLanguage/comments/i8aelk/draft_proposal_low_ambiguity_high_word_count_low/) |
 | [u/markrocks-](https://www.reddit.com/u/markrocks-)       |     v1.0      | Proposal to make certain modifiers indicate a certain quantity of something. | [See](https://www.reddit.com/r/EncapsulatedLanguage/comments/i4yoi2/draft_proposal_separating_modifiers/) |
 | [u/ArmoredFarmer](https://www.reddit.com/u/ArmoredFarmer) |     v1.0      | Proposal to make roots triconsonantal roots.                                 | [See](https://www.reddit.com/r/EncapsulatedLanguage/comments/i4jjca/triconsonantal_roots/)                |
 
