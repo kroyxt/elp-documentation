@@ -17,11 +17,11 @@ You can download a ZIP file containing pictures of all the numerals from
 You can download a ZIP file containing a number typer compatible with newer versions
 of Windows from [here](/elp-documentation/Elp-Win-NumberTyper.zip)
 
-## Base-12 Number to IPA number and numeral converter
+## Base-12 Number to number word and numeral converter
 
-This app quickly converts base-12 numbers to their Encapsulated Language word
+This app quickly converts base-12 numbers to their Encapsulated Language number word
 and numeral equivalents. 
 Just type the number you want converted, and the app will generate the
-appropriate words and numerals!
+appropriate number words and numerals!
 
 <NumberToIpa/>
