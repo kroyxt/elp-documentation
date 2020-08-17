@@ -33,6 +33,14 @@ representations in most languages are usually meaningless."
 
 In summary, proposals should prioritize encapsulation over internationalization.
 
+## How is the Encapsulated Language different from Lojban or Ithkuil?
+
+Lojban aims to be logical, grammatically unambiguous, and test the Sapir–Whorf hypothesis.
+
+Ithkuil aims to minimize the ambiguities and semantic vagueness found in natural human languages. In essence, it aims to be as semantically dense as possible.
+
+The Encapsulated language aims to encapsulate as much scientific and mathematical knowledge as possible to facilitate an intuitive understanding of the world around us.
+
 ## What knowledge will be encapsulated?
 
 ::: tip We’re currently accepting proposals.
