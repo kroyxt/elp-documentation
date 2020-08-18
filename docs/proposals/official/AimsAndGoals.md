@@ -4,11 +4,11 @@ The Encapsulated Language Project aims to create a Language that encapsulates as
 
 The end goal of this project is to create a language parents can raise their children speaking natively alongside their other native languages. The children would acquire this language like any other native language. Then, when the child starts their education, the parent would instruct them on how to analyze and parse their native language to gain access to a wide range of mathematical and scientific knowledge. This will help the child to gain an intuitive understanding of the world around them and lower the amount of rote memorization required.
 
-## Priorities
+# Priorities
 
 The order of priority is encapsulation, followed by accessibility, followed by acquisition.
 
-## Definitions and Clarification
+# Definitions and Clarification
 
 "**Encapsulation**" means that the language does more than provide a formalized system of signs and symbols to communicate meaning. It means that all parts of the system – the structure of the language – follows a logic that contains not only the relationship between signifier and signified, but additional information. Like a side channel containing metadata.
 
@@ -18,7 +18,7 @@ The order of priority is encapsulation, followed by accessibility, followed by a
 
 "**Language Accessibility**" refers to language acquisition in a diverse range of perception (as hearing, movement, sight, and cognitive ability). It’s not a question of easy acquisition. Accessibility is concerned with whether it is at all possible, not with how much effort it takes.
 
-## Consequences
+# Consequences
 
 This project does not aim to create an easy language. If it happens to be easy, that's fine, but we will neither sacrifice encapsulation capacity or accessibility just for easy acquisition of the language. We assume that adults who want to learn this language in order to raise their children with it, will be prepared to put effort into learning it.
 

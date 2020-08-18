@@ -1,4 +1,4 @@
-# Romanization
+# Consonants and Diphthongs
 
 The Encapsulated Language uses the following romanization for consonants and diphthongs:
 
@@ -12,7 +12,7 @@ The Encapsulated Language uses the following romanization for consonants and dip
 
 The Encapsulated Language uses the following two systems of romanization for the vowels:
 
-## The primary system:
+# Vowels (Primary System)
 
 This system must be used by all Official Proposals and training materials.
 
@@ -20,7 +20,7 @@ This system must be used by all Official Proposals and training materials.
 | ------------ | - | -- | - | -- | - | -- | - | -- | - | -- | - | -- |
 | Romanization | i | ī  | y | ȳ  | u | ū  | e | ē  | o | ō  | a | ā  |
 
-## The alternative system:
+# Vowels (Alternative System)
 
 This system must can be used in informal settings when the primary means proves too difficult to type.
 

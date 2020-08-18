@@ -1,6 +1,8 @@
 # Number Words
 
-## Single-Digit Number Words
+The Encapsulated Language constructs number words in the following ways:
+
+# Single-Digit Number Words
 
 Single-digit numbers are built from both the consonant and vowel that
 represents their phonological value plus the consonant /n/.
@@ -29,7 +31,7 @@ son - zhīn tsān zhīn dzȳn**
 | ------------- | :----------------: | ------------------------------------------------------------------------------------------------------------- |
 | 02/08/2020    | 24 for / 3 against | [See](https://www.reddit.com/r/EncapsulatedLanguage/comments/i12ryt/official_proposal_vote_to_officialize_a/) |
 
-## Trinumeral Number Words (10 - EEE)
+# Trinumeral Number Words (10 - EEE)
 
 The number words (10 - EEE) are called trinumeral number words. They are built
 by adding specific constants and vowels together to form whole numbers. The
@@ -65,7 +67,7 @@ Examples:
 | ------------- | :----------------: | ------------------------------------------------------------------------------------------------------------- |
 | 02/08/2020    | 24 for / 3 against | [See](https://www.reddit.com/r/EncapsulatedLanguage/comments/i12ryt/official_proposal_vote_to_officialize_a/) |
 
-## Numeric Prefixes
+# Numeric Prefixes
 
 The Encapsulated Language uses the following numeric prefixes.
 
