@@ -55,7 +55,18 @@ module.exports = {
       {
         title: "Official Proposals",
         path: "/proposals/official/",
-        children: ["/proposals/official/"],
+        children: [
+          "/proposals/official/AimsAndGoals"
+          "/proposals/official/CommunityAdministration"
+          "/proposals/official/Phonology"
+          "/proposals/official/Romanization"
+          "/proposals/official/NumberBase"
+          "/proposals/official/PhonologicalValues"
+          "/proposals/official/Numerals"
+          "/proposals/official/NumberWords"
+          "/proposals/official/WordOrder"
+          "/proposals/official/Logo"
+        ],
       },
       {
         title: "FAQ",

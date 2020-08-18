@@ -1,0 +1,33 @@
+## Romanization
+
+The Encapsulated Language uses the following romanization for consonants and diphthongs:
+
+| IPA          | ʃ  | ʒ  | t͡s | d͡z | t͡ʃ  | d͡ʒ  | ɾ | x  | ɣ  |
+| ------------ | -- | -- | -- | -- | --- | --- | - | -- | -- |
+| Romanization | sh | zh | ts | dz | tsh | dzh | r | kh | gh |
+
+| IPA          | ai̯ | ei̯ | oi̯ | au̯ | eu̯ | ou̯ |
+| ------------ | -- | -- | -- | -- | -- | -- |
+| Romanization | ai | ei | oi | au | eu | ou |
+
+The Encapsulated Language uses the following two systems of romanization for the vowels:
+
+### The primary system:
+
+This system must be used by all Official Proposals and training materials.
+
+| IPA          | i | iː | y | yː | u | uː | e | eː | o | oː | a | aː |
+| ------------ | - | -- | - | -- | - | -- | - | -- | - | -- | - | -- |
+| Romanization | i | ī  | y | ȳ  | u | ū  | e | ē  | o | ō  | a | ā  |
+
+### The alternative system:
+
+This system must can be used in informal settings when the primary means proves too difficult to type.
+
+| IPA          | i | iː | y | yː | u | uː | e | eː | o | oː | a | aː |
+| ------------ | - | -- | - | -- | - | -- | - | -- | - | -- | - | -- |
+| Romanization | i | i: | y | y: | u | u: | e | e: | o | o: | a | a: |
+
+| Approved Date |             Vote Summary             | Link                                                                                                                                                                      |
+| ------------- | :----------------------------------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 12/08/2020    |          21 for / 6 against          | [See](https://www.reddit.com/r/EncapsulatedLanguage/comments/i74ttc/official_proposal_vote_to_establish_an_official/)                                                             |
