@@ -1,3 +1,7 @@
+# Romanization
+
+The Encapsulated Language uses the following systems of romanization.
+
 # Consonants and Diphthongs
 
 The Encapsulated Language uses the following romanization for consonants and diphthongs:
