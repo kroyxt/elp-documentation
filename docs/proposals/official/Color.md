@@ -61,27 +61,29 @@ The numbers used for the **lightness**, **hue**, and **chroma** can be scaled do
 
 The below picture represents one lightness slice of the CIELCh color space. 
 
-- The rotation of the small squares clockwise represents the hue. 
+- The rotation of the small squares counter-clockwise represents the hue. 
 - The outward radiating of the small squares represents the chroma. 
 - The areas of the color circle that aren’t visible represent those colors that can’t be displayed by a monitor but (mostly) are visible to the human eye.
+
+![Logo](/elp-documentation/img/Colors.png)
 
 # Examples
 
 The Encapsulated Language color words are actually more precise than their English color word equivalents.
 These examples use **head initial** ordering. If **head final** is Officialize then these examples will change.
 
-| Color                                       | Color Word            | Breakdown | English Equivalent |
-| ------------------------------------------- | --------------------- | --------- | ------------------ |
-| ![Logo](/elp-documentation/img/Black.png)   | **vin** wil           | 0 Color   | Black              |
-| ![Logo](/elp-documentation/img/Grey.png)    | wil                   | Color     | Grey               |
-| ![Logo](/elp-documentation/img/White.png)   | **tshōn** wil         | E color   | White              |
-| ![Logo](/elp-documentation/img/Red.png)     | wil **fun**           | Color 1   | Red                |
-| ![Logo](/elp-documentation/img/Brown.png)   | wil **khan**          | Color 3   | Brown              |
-| ![Logo](/elp-documentation/img/Green.png)   | wil **son**           | Color 5   | Green              |
-| ![Logo](/elp-documentation/img/Blue.png)    | wil **tsān**          | Color 9   | Blue               |
-| ![Logo](/elp-documentation/img/Magenta.png) | wil **tshōn**         | Color E   | Purple / Magenta   |
-| ![Logo](/elp-documentation/img/Yellow.png)  | **tsān** wil **khan** | 9 Color 2 | Yellow             |
-| ![Logo](/elp-documentation/img/Pink.png)    | **tsān** wil **vin**  | 9 Color 0 | Pink               |
+| Color                                          | Color Word            | Breakdown | English Equivalent |
+| ---------------------------------------------- | --------------------- | --------- | ------------------ |
+| ![Black](/elp-documentation/img/Black.png)     | **vin** wil           | 0 Color   | Black              |
+| ![Grey](/elp-documentation/img/Grey.png)       | wil                   | Color     | Grey               |
+| ![White](/elp-documentation/img/White.png)     | **tshōn** wil         | E color   | White              |
+| ![Red](/elp-documentation/img/Red.png)         | wil **fun**           | Color 1   | Red                |
+| ![Brown](/elp-documentation/img/Brown.png)     | wil **khan**          | Color 3   | Brown              |
+| ![Green](/elp-documentation/img/Green.png)     | wil **son**           | Color 5   | Green              |
+| ![Blue](/elp-documentation/img/Blue.png)       | wil **tsān**          | Color 9   | Blue               |
+| ![Magenta](/elp-documentation/img/Magenta.png) | wil **tshōn**         | Color E   | Purple / Magenta   |
+| ![Yellow](/elp-documentation/img/Yellow.png)   | **tsān** wil **khan** | 9 Color 2 | Yellow             |
+| ![Pink](/elp-documentation/img/Pink.png)       | **tsān** wil **vin**  | 9 Color 0 | Pink               |
 
 | Approved Date |          Vote Summary               | Link                                                                                                      |
 | ------------- | :---------------------------------: | --------------------------------------------------------------------------------------------------------- |

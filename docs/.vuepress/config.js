@@ -65,6 +65,7 @@ module.exports = {
           "/proposals/official/Numerals",
           "/proposals/official/NumberWords",
           "/proposals/official/WordOrder",
+          "/proposals/official/Color",
           "/proposals/official/Logo",
         ],
       },
