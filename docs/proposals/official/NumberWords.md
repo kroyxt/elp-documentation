@@ -2,7 +2,7 @@
 
 The Encapsulated Language constructs number words in the following ways:
 
-# Single-Digit Number Words
+## Single-Digit Number Words
 
 Single-digit numbers are built from both the consonant and vowel that
 represents their phonological value plus the consonant /n/.
@@ -31,7 +31,7 @@ son - zhīn tsān zhīn dzȳn**
 | ------------- | :----------------: | ------------------------------------------------------------------------------------------------------------- |
 | 02/08/2020    | 24 for / 3 against | [See](https://www.reddit.com/r/EncapsulatedLanguage/comments/i12ryt/official_proposal_vote_to_officialize_a/) |
 
-# Trinumeral Number Words (10 - EEE)
+## Trinumeral Number Words (10 - EEE)
 
 The number words (10 - EEE) are called trinumeral number words. They are built
 by adding specific constants and vowels together to form whole numbers. The
@@ -45,7 +45,9 @@ Trinumerals are built using the following rules:
 - The second number in the dozens\* place will receive a vowel.
 - The last number in the one's place will receive a consonant.
 
-* Gross is 144 in base-10 which is the base-12 equivalent of the hundreds place. Dozen is 12 in base-10 which is the base-12 equivalent of the tens place.
+* Gross is 144 in base-10 which is the base-12 equivalent of the hundreds
+place. Dozen is 12 in base-10 which is the base-12 equivalent of the tens
+place.
 
 Number 0-E (0 - 11 in base-10) are left out of this list because single-digit
 numbers have a special dual purpose as being the first countable numbers in the
@@ -67,7 +69,7 @@ Examples:
 | ------------- | :----------------: | ------------------------------------------------------------------------------------------------------------- |
 | 02/08/2020    | 24 for / 3 against | [See](https://www.reddit.com/r/EncapsulatedLanguage/comments/i12ryt/official_proposal_vote_to_officialize_a/) |
 
-# Numeric Prefixes
+## Numeric Prefixes
 
 The Encapsulated Language uses the following numeric prefixes.
 

@@ -55,6 +55,7 @@ module.exports = {
       {
         title: "Official Proposals",
         path: "/proposals/official/",
+				sidebarDepth: 0,
         children: [
           "/proposals/official/AimsAndGoals",
           "/proposals/official/CommunityAdministration",
