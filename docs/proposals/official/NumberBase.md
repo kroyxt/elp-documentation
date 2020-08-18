@@ -1,4 +1,4 @@
-## Number Base
+# Number Base
 
 The Encapsulated Language uses a Base-12 numbering system.
 

@@ -1,4 +1,4 @@
-## Phonology
+# Phonology
 
 The Encapsulated Language uses the following phonemes.
 

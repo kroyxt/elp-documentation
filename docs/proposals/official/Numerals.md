@@ -1,4 +1,4 @@
-## Numerals
+# Numerals
 
 The Encapsulated Language uses the following numerals.
 

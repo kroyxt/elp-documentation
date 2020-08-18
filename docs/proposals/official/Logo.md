@@ -1,4 +1,4 @@
-## Logo
+# Logo
 
 This Logo represents the Encapsulated Language Project.
 

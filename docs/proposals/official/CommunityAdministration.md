@@ -1,4 +1,4 @@
-## Community Administration
+# Community Administration
 
 The Official Proposal Committee is responsible for ensuring that all Draft
 Proposals are in accordance with the aims and goals of the Language.

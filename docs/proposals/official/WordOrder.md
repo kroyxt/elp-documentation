@@ -1,4 +1,4 @@
-## Word Order
+# Word Order
 
 The Encapsulated Language is a word order harmonic language.
 

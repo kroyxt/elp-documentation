@@ -1,4 +1,4 @@
-## Phonological Values
+# Phonological Values
 
 The following phonemes have inherent numerical values in the Encapsulated Language:
 
