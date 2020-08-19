@@ -33,9 +33,10 @@ too difficult to type.
 
 | IPA          | i | iː | y | yː | u | uː | e | eː | o | oː | a | aː |
 | ------------ | - | -- | - | -- | - | -- | - | -- | - | -- | - | -- |
-| Romanization | i | i: | y | y: | u | u: | e | e: | o | o: | a | a: |
+| Romanization | i | ih | y | yh | u | uh | e | eh | o | oh | a | ah |
 
 | Approved Date |             Vote Summary             | Link                                                                                                                                                                      |
 | ------------- | :----------------------------------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 19/08/2020    |          18 for / 7 against          | [See](https://www.reddit.com/r/EncapsulatedLanguage/comments/ib7uqe/official_proposal_vote_to_change_the_alternative/)                                                             |
 | 12/08/2020    |          21 for / 6 against          | [See](https://www.reddit.com/r/EncapsulatedLanguage/comments/i74ttc/official_proposal_vote_to_establish_an_official/)                                                             |
 
