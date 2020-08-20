@@ -9,24 +9,24 @@
 	</div>
 <script>
 
-defaltMagnitude=100
-ReferenceX=95.047
-ReferenceY=100
-ReferenceZ=108.883
+let defaltMagnitude=100;
+let ReferenceX=95.047;
+let ReferenceY=100;
+let ReferenceZ=108.883;
 function hexify(d) {
     return ('00'+Math.round(d).toString(16)).slice(-2);
 }
-var meanings = {"vin":"0","fun":"1","ghyn":"2","khan":"3","zen":"4","son":"5","ʒihn":"6","ʃuhn":"7","dzyhn":"8","tsahn":"9","dʒehn":"A","tʃohn":"B","wil":"C", "ei":0, "wa":1, "jo":2, "eu":3, "ai":4, "wo":5, "je":6, "au":7, "oi":8, "we":9, "ja":10, "ou":11};
-c=["v","f","gh","kh","z","s","ʒ","ʃ","dz","ts","dʒ","tʃ"]
-v=["i","u","y","a","e","o","ih","uh","yh","ah","eh","oh"]
-for(c1 in c){
-	for(v1 in v){
-		for(c2 in c){
+let meanings = {"vin":"0","fun":"1","ghyn":"2","khan":"3","zen":"4","son":"5","ʒihn":"6","ʃuhn":"7","dzyhn":"8","tsahn":"9","dʒehn":"A","tʃohn":"B","wil":"C", "ei":0, "wa":1, "jo":2, "eu":3, "ai":4, "wo":5, "je":6, "au":7, "oi":8, "we":9, "ja":10, "ou":11};
+let c=["v","f","gh","kh","z","s","ʒ","ʃ","dz","ts","dʒ","tʃ"];
+let v=["i","u","y","a","e","o","ih","uh","yh","ah","eh","oh"];
+for(let c1 in c){
+	for(let v1 in v){
+		for(let c2 in c){
 			meanings[c[c1]+v[v1]+c[c2]]=parseInt(c1,10).toString(12)+parseInt(v1,10).toString(12)+parseInt(c2,10).toString(12)
 		}
 	}
 }
-var macrons={	"\u0101":"ah",
+let macrons={	"\u0101":"ah",
 				"\u0113":"eh",
 				"\u012B":"ih",
 				"\u014D":"oh",
@@ -38,14 +38,14 @@ function add12(num1,num2){
 	num1=num1.padStart(Math.max(num1.length,num2.length),"0")
 	num2=num2.padStart(Math.max(num1.length,num2.length),"0")
 	out=""
-	for(place in num1){
+	for(let place in num1){
 		out=Math.max(parseInt(num1.charAt(num1.length-place-1),12),parseInt(num2.charAt(num2.length-place-1),12)).toString(12)+out
 	}
 	return(out)
 }
 function toL(num){
 	value=0
-	for(place in num){
+	for(let place in num){
 		value=value+parseInt(num.charAt(place),12)/Math.pow(12,place+1)
 	}
 	value=value*Math.pow(12,num.length)/(Math.pow(12,num.length)-1)*100
@@ -53,7 +53,7 @@ function toL(num){
 }
 function toC(num){
 	value=0
-	for(place in num){
+	for(let place in num){
 		value=value+parseInt(num.charAt(place),12)/Math.pow(12,place+1)
 	}
 	value=(value+1/Math.pow(12,num.length))*2*defaltMagnitude
@@ -61,7 +61,7 @@ function toC(num){
 }
 function toh(num){
 	value=0
-	for(place in num){
+	for(let place in num){
 		value=value+parseInt(num.charAt(place),12)/Math.pow(12,place+1)
 	}
 	value=value*2*Math.PI
@@ -82,7 +82,7 @@ function convert()
 	while (input.indexOf("zh")>-1){
 		input=input.replace("zh","ʒ")
 	}
-	for(m in macrons){
+	for(let m in macrons){
 		while (input.indexOf(m)>-1){
 			input=input.replace(m,macrons[m])
 		}
@@ -251,6 +251,7 @@ function convert()
 	//generate hex code and display it
 	var hex = "#" + hexify(color[0]) + hexify(color[1]) + hexify(color[2]);
 	document.getElementById("result").style.backgroundColor = hex;
+	document.getElementById("aprox").innerText = 'Aproximation';
 }
 
 </script>
@@ -290,8 +291,8 @@ function convert()
 }
 
 .Color__result {
-	height: 20px;
-	width: 400px;
+	height: 40px;
+	width: 100%;
 	margin: 20px auto;
 }
 </style>
