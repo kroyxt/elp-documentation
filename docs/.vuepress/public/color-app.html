@@ -1,0 +1,301 @@
+<html>
+	<div class="Color">
+		<div class="Color__container">
+			<input class="Color__input" type="text" id = "in" name="in" size="20" onKeyDown="if(event.keyCode==13) convert();"/> &nbsp;
+			<br>
+			<button class="Color__button" onclick = "convert()">Convert</button>
+			<div class="Color__result" id="result">&nbsp;</div>
+		</div>
+	</div>
+<script>
+
+defaltMagnitude=100
+ReferenceX=95.047
+ReferenceY=100
+ReferenceZ=108.883
+function hexify(d) {
+    return ('00'+Math.round(d).toString(16)).slice(-2);
+}
+var meanings = {"vin":"0","fun":"1","ghyn":"2","khan":"3","zen":"4","son":"5","ʒihn":"6","ʃuhn":"7","dzyhn":"8","tsahn":"9","dʒehn":"A","tʃohn":"B","wil":"C", "ei":0, "wa":1, "jo":2, "eu":3, "ai":4, "wo":5, "je":6, "au":7, "oi":8, "we":9, "ja":10, "ou":11};
+c=["v","f","gh","kh","z","s","ʒ","ʃ","dz","ts","dʒ","tʃ"]
+v=["i","u","y","a","e","o","ih","uh","yh","ah","eh","oh"]
+for(c1 in c){
+	for(v1 in v){
+		for(c2 in c){
+			meanings[c[c1]+v[v1]+c[c2]]=parseInt(c1,10).toString(12)+parseInt(v1,10).toString(12)+parseInt(c2,10).toString(12)
+		}
+	}
+}
+var macrons={	"\u0101":"ah",
+				"\u0113":"eh",
+				"\u012B":"ih",
+				"\u014D":"oh",
+				"\u016B":"uh",
+				"\u0233":"yh",
+				"\u0304":"h",
+				}
+function add12(num1,num2){
+	num1=num1.padStart(Math.max(num1.length,num2.length),"0")
+	num2=num2.padStart(Math.max(num1.length,num2.length),"0")
+	out=""
+	for(place in num1){
+		out=Math.max(parseInt(num1.charAt(num1.length-place-1),12),parseInt(num2.charAt(num2.length-place-1),12)).toString(12)+out
+	}
+	return(out)
+}
+function toL(num){
+	value=0
+	for(place in num){
+		value=value+parseInt(num.charAt(place),12)/Math.pow(12,place+1)
+	}
+	value=value*Math.pow(12,num.length)/(Math.pow(12,num.length)-1)*100
+	return(value)
+}
+function toC(num){
+	value=0
+	for(place in num){
+		value=value+parseInt(num.charAt(place),12)/Math.pow(12,place+1)
+	}
+	value=(value+1/Math.pow(12,num.length))*2*defaltMagnitude
+	return(value)
+}
+function toh(num){
+	value=0
+	for(place in num){
+		value=value+parseInt(num.charAt(place),12)/Math.pow(12,place+1)
+	}
+	value=value*2*Math.PI
+	return(value)
+	
+}
+function convert()
+{
+	outsideRGB=false
+	//get and clean input text
+	var input = document.getElementById("in").value.toLowerCase();
+	while (input.indexOf(" ")>-1){
+		input=input.replace(" ","")
+	}
+	while (input.indexOf("sh")>-1){
+		input=input.replace("sh","ʃ")
+	}
+	while (input.indexOf("zh")>-1){
+		input=input.replace("zh","ʒ")
+	}
+	for(m in macrons){
+		while (input.indexOf(m)>-1){
+			input=input.replace(m,macrons[m])
+		}
+	}
+
+	//set default output text and set up vars
+	var output = "INVALID INPUT";
+	color=[0,0,0]
+	i=0
+	array=[]
+
+	//check each length of characters to see if its in the meanings dictionaty if it is add it to the array if not give up
+	while (input.length>0){
+		if(i>input.length){
+			i=0
+			input=input.substr(1);
+		}
+		i++
+		if (input.slice(0,i) in meanings){
+			array.push(meanings[input.slice(0,i)])
+			input=input.substr(i);
+			i=0
+		}
+	}
+
+	//make sure "color" is in the input and only once
+	if (array.filter(function(x){ return x === "C"; }).length==1){
+
+		ram=array
+		array=[]
+		mult=0
+		for(R in ram){
+			if(typeof(ram[R])==="number"){
+				mult=mult+ram[R]
+			}else{
+				if(ram[R]!=="C"){
+					array.push(ram[R]+"".padEnd(mult*3,"0"))
+					mult=0
+				}else{
+					array.push("C")
+				}
+			}
+		}
+		array.push("C")
+
+		ram=array
+		array=[]
+		total="0"
+		unchanged=true
+		len=999999999999
+		for(R in ram){
+			if(ram[R]!=="C"){
+				unchanged=false
+				if(Math.ceil(ram[R].length/3)>=len){
+					array.push(total)//.padStart(longest*3, '0')
+					total="0"
+				}
+				len=Math.ceil(ram[R].length/3)
+				total=add12(total,ram[R])
+			}else{
+				if(!unchanged&&len<999999999999){
+					array.push(total)
+					total="0"
+					len=999999999999
+				}
+				array.push("C")
+
+			}
+		}
+		array.pop()
+
+		//add padding to the end
+		array.push(100)
+		array.push(0)
+		//add padding to the begining if needed
+		if (array[0]=="C"){
+			array.unshift(50)
+		}
+
+		//make sure theres only one number at the begining
+		if (typeof(array[1])!=="number"){
+			//CIELCh from inputs
+
+			if(typeof(array[0])!=="number"){
+				L=toL(array[0]) //convets from a 0/12-11/12 scale t0 a 0-1 scale
+			}else{
+				L=array[0]
+			}
+			if(typeof(array[3])!=="number"){
+				C=toC(array[3]) //convets from a 0/12-11/12 scale t0 a 1/12-1 scale
+			}else{
+				C=array[3]
+			}
+			if(typeof(array[2])!=="number"){
+				h=toh(array[2])
+			}else{
+				h=array[2]
+			}
+			//CIELab form CIELCh
+			a=C*Math.cos(h)
+			b=C*Math.sin(h)
+			//CIELab to XYZ see http://www.easyrgb.com/en/math.php
+			Y=(L+16)/116
+			X=a/500+Y
+			Z=Y-b/200
+			if (Math.pow(Y,3) > 0.008856){
+				Y = Math.pow(Y,3)
+			}else{
+				Y = (Y-16/116)/7.787
+			}
+			if (Math.pow(X,3) > 0.008856){
+				X = Math.pow(X,3)
+			}else{
+				X = (X-16/116)/7.787
+			}
+			if (Math.pow(Z,3) > 0.008856){
+				Z = Math.pow(Z,3)
+			}else{
+				Z = (Z-16/116)/7.787
+			}
+
+			X = X * ReferenceX/100
+			Y = Y * ReferenceY/100
+			Z = Z * ReferenceZ/100
+			
+			//XYZ to sRGB see http://www.easyrgb.com/en/math.php
+
+			R = X *  3.2406 + Y * -1.5372 + Z * -0.4986
+			G = X * -0.9689 + Y *  1.8758 + Z *  0.0415
+			B = X *  0.0557 + Y * -0.2040 + Z *  1.0570
+
+			if (R > 0.0031308){
+				R = 1.055 * (Math.pow(R,1/2.4 )) - 0.055
+			}else{
+				R=12.92 * R
+			}
+			if (G > 0.0031308){
+				G = 1.055 * (Math.pow(G,1/2.4 )) - 0.055
+			}else{
+				G=12.92 * G
+			}
+			if (B > 0.0031308){
+				B = 1.055 * (Math.pow(B,1/2.4 )) - 0.055
+			}else{
+				B=12.92 * B
+			}
+
+			R=R*255
+			G=G*255
+			B=B*255
+			color=[R,G,B]
+			//make sure RGB are all between 0-255
+			if(Math.max(color[0],color[1],color[2],255-color[0],255-color[1],255-color[2])>255){
+				outsideRGB=true
+			}
+			color[0]=Math.max(Math.min(color[0],255),0)
+			color[1]=Math.max(Math.min(color[1],255),0)
+			color[2]=Math.max(Math.min(color[2],255),0)
+			//set iutput as not error
+			if(outsideRGB){
+				output=output+"!!!Aproximation!!!"
+			}
+		}
+
+	}
+	//generate hex code and display it
+	var hex = "#" + hexify(color[0]) + hexify(color[1]) + hexify(color[2]);
+	document.getElementById("result").style.backgroundColor = hex;
+}
+
+</script>
+
+<style type="text/css" media="screen">
+.Color {
+
+}
+
+.Color__container {
+	text-align: center;
+}
+
+.Color__input {
+  width: 100%;
+  height: 35px;
+  padding: 0 15px;
+  border: 2px solid;
+  border-radius: 15px;
+  text-align: center;
+  border-color: #25b6da;
+}
+
+.Color__button {
+	border: none;
+	background-color: #25b6da;
+	color: white;
+	font-size: 1rem;	
+	font-weight: bold;
+	padding: 10px;
+	border-radius: 10px;
+	cursor: pointer;
+}
+
+.Color__input:focus, .Color__button:focus {
+	outline-width: 0;
+}
+
+.Color__result {
+	height: 20px;
+	width: 400px;
+	margin: 20px auto;
+}
+</style>
+
+</body>
+
+</html>
