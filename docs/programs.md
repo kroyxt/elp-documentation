@@ -26,9 +26,4 @@ appropriate number words and numerals!
 
 <NumberToIpa/>
 
-## Colors
-
-This app visually shows the color a color word represents where physically possible.
-Just type the color word you want to see, and the app will generate the appropriate color!
-
 <Colors/>
