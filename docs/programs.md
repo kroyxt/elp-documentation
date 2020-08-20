@@ -25,3 +25,7 @@ Just type the number you want converted, and the app will generate the
 appropriate number words and numerals!
 
 <NumberToIpa/>
+
+## Colors
+
+<Colors/>
