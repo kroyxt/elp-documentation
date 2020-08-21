@@ -1,13 +1,12 @@
 <html>
-	<div class="Color">
-		<div class="Color__container">
+	<body>
+		<div class="Color">
 			<input class="Color__input" type="text" id = "in" name="in" size="20" onKeyDown="if(event.keyCode==13) convert();"/> &nbsp;
 			<br>
 			<button class="Color__button" onclick = "convert()">Convert</button>
 			<div class="Color__result" id="result">&nbsp;</div>
 			<p class="Color__aprox" id="aprox"></p>
 		</div>
-	</div>
 <script>
 
 let defaltMagnitude=100;
@@ -260,10 +259,6 @@ function convert()
 
 <style type="text/css" media="screen">
 .Color {
-	height: 250px;
-}
-
-.Color__container {
 	text-align: center;
 }
 
@@ -293,15 +288,15 @@ function convert()
 }
 
 .Color__result {
-	height: 40px;
+	height: 30px;
 	width: 100%;
-	margin: 20px auto;
+	margin: 10px auto;
 }
 
 .Color__aprox {
 	font-weight: bold;
 	font-family: sans-serif;
-	font-size: 2rem;
+	font-size: 1.5rem;
 }
 </style>
 
