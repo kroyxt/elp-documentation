@@ -3,19 +3,19 @@
 ## Download the Official Logo
 
 You can download a ZIP file containing several different versions of the Official
-logo from [here](/elp-documentation/Elp-logo.zip)
+logo from [here](/elp-documentation/downloads/Elp-logo.zip)
 
 ## Download graphics for the numerals
 
 You can download a ZIP file containing pictures of all the numerals from
-[here](/elp-documentation/Elp-number-pics.zip)
+[here](/elp-documentation/downloads/Elp-number-pics.zip)
 
 ## Download programs to type the numbers
 
 ### Windows
 
 You can download a ZIP file containing a number typer compatible with newer versions
-of Windows from [here](/elp-documentation/Elp-Win-NumberTyper.zip)
+of Windows from [here](/elp-documentation/downloads/Elp-Win-NumberTyper.zip)
 
 ## Base-12 Number to number word and numeral converter
 
@@ -31,4 +31,4 @@ appropriate number words and numerals!
 This app visually shows the color a color word represents where physically possible.
 Just type the color word you want to see, and the app will generate the appropriate color!
 
-<iframe src="/elp-documentation/color-app.html" frameborder="0" width="100%"></iframe>
+<iframe src="/elp-documentation/html/color-app.html" frameborder="0" width="100%"></iframe>
