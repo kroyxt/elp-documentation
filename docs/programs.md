@@ -26,6 +26,3 @@ appropriate number words and numerals!
 
 <NumberToIpa/>
 
-## Colors
-
-<Colors/>

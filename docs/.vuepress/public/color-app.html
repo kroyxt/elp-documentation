@@ -5,6 +5,7 @@
 			<br>
 			<button class="Color__button" onclick = "convert()">Convert</button>
 			<div class="Color__result" id="result">&nbsp;</div>
+			<p class="Color__aprox" id="aprox"></p>
 		</div>
 	</div>
 <script>
@@ -251,14 +252,15 @@ function convert()
 	//generate hex code and display it
 	var hex = "#" + hexify(color[0]) + hexify(color[1]) + hexify(color[2]);
 	document.getElementById("result").style.backgroundColor = hex;
-	document.getElementById("aprox").innerText = 'Aproximation';
+	document.getElementById("aprox").innerText = '!!!Aproximation!!!';
+	document.getElementById("aprox").style.color = hex;
 }
 
 </script>
 
 <style type="text/css" media="screen">
 .Color {
-
+	height: 250px;
 }
 
 .Color__container {
@@ -294,6 +296,12 @@ function convert()
 	height: 40px;
 	width: 100%;
 	margin: 20px auto;
+}
+
+.Color__aprox {
+	font-weight: bold;
+	font-family: sans-serif;
+	font-size: 2rem;
 }
 </style>
 
