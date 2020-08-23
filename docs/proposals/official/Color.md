@@ -59,9 +59,7 @@ than a chroma of 5.
 
 ## Relative Precision
 
-The numbers used for the **lightness**, **hue**, and **chroma** can be scaled
-down to increase precision. This level of precision isn’t required by the
-majority of speakers and is reserved for technical use only.
+The numbers used for the **lightness**, **hue**, and **chroma** have an implied dozenal point at the start of each number greater than tshōn. This means they can be scaled down to increase precision. This level of precision isn’t required by the majority of speakers and is reserved for technical use only.
 
 | Color Word        | Meaning                       |
 | ----------------- | ----------------------------- |

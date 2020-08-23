@@ -5,7 +5,7 @@ The Encapsulated Language constructs number words in the following ways:
 ## Single-Digit Number Words
 
 Single-digit numbers are built from both the consonant and vowel that
-represents their phonological value plus the consonant /n/.
+represents their phonological value plus the consonant "n".
 
 | Numbers | Number Word |
 | ------- | ----------- |
@@ -120,3 +120,32 @@ Examples of numeric prefix use with trinumerals:
 | ------------- | :----------------: | ------------------------------------------------------------------------------------------------------------------ |
 | 05/08/2020    | 15 for / 4 against | [See](https://www.reddit.com/r/EncapsulatedLanguage/comments/i2ttzh/official_proposal_vote_to_change_the_numeric/) |
 | 02/08/2020    | 24 for / 3 against | [See](https://www.reddit.com/r/EncapsulatedLanguage/comments/i12ryt/official_proposal_vote_to_officialize_a/)      |
+
+## Dozenal fraction
+
+Dozenal fractions are built in the following way:
+
+[number A] **ein** [number B]
+
+The word, **ein** is the word that represents the dozenal fraction separator. This word is built from a combination of the zero-magnitude prefix, “ei-” and the consonant, "n" that follows every mono-numeral.
+
+Number B gets divided by 12^L where L is the magnitude of its most significant digit (including leading zeros) then gets added to number A. If either number is unspecified then that number is assumed to be 0.
+
+This is roughly equivalent to number A followed by a dozenal point followed by number B.
+
+Leading zeros must not be dropped as they are part of the number (wavin is 0000 not 0).
+
+Examples:
+
+| Fractions (base-12) | Number words with dozenal fraction separator |
+| ------------------- | -------------------------------------------- |
+| 0.3                 | **ein** khan                                 |
+| 1.1                 | fun **ein** fun                              |
+| 10.010              | vuv **ein** vuv                              |
+| 100.001             | fiv **ein** vif                              |
+| 1000.0001           | wafun **ein** wavin fun                      |
+| 3.184809493B        | khan **ein** eufun jodzedz wavāz tsatsh      |
+
+| Approved Date |    Vote Summary    | Link                                                                                                                  |
+| ------------- | :----------------: | --------------------------------------------------------------------------------------------------------------------- |
+| 23/08/2020    | 14 for / 1 against | [See](https://www.reddit.com/r/EncapsulatedLanguage/comments/idojet/official_proposal_vote_to_officialize_a_dozenal/) |
