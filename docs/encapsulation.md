@@ -5,7 +5,7 @@ knowledge as possible.
 
 ## Numerals
 
-![Numerals](/elp-documentation/img/Numerals.png)
+![Numerals](/elp-documentation/img/numbers/Numerals.png)
 
 The numerals encapsulate the following mathematical knowledge:
 
