@@ -203,11 +203,12 @@ Official Proposal Committee with a request for Officialisation.
 - [u/ActingAustralia](https://www.reddit.com/u/ActingAustralia)
 - [u/ArmoredFarmer](https://www.reddit.com/u/ArmoredFarmer)
 - [u/kroyxlab](https://www.reddit.com/u/kroyxlab)
+- [u/nadelis_ju](https://www.reddit.com/u/nadelis_ju)
 - [u/Xianhei](https://www.reddit.com/u/Xianhei)
-- [u/Zinkobe5](https://www.reddit.com/u/Zinkobe5)
 
 **Ex-Committee Members**
 - [u/Flamerate1](https://www.reddit.com/u/Flamerate1)
+- [u/Zinkobe5](https://www.reddit.com/u/Zinkobe5)
 
 ## How to write a good draft proposal
 
