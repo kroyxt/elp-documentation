@@ -1,11 +1,11 @@
 # Punctuation Marks
 
-The Encapsulated Language uses the following symbols:
+The Encapsulated Language uses the following punctuation marks:
 
 | Symbol  | Rules                                     | Example   |
 | :-----: | ----------------------------------------- | --------- |
 |         | A separator symbol for digit groups.      | 1 000 000 |
-| .       | A separator symbol for dozenal fractions. | 1.0       |
+| **.**   | A separator symbol for dozenal fractions. | 1.0       |
 
 | Approved Date |    Vote Summary    | Link                                                                                                                    |
 | ------------- | :----------------: | ----------------------------------------------------------------------------------------------------------------------- |
