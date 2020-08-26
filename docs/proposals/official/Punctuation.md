@@ -2,7 +2,7 @@
 
 The Encapsulated Language uses the following punctuation marks:
 
-| Symbol  | Rules                                     | Example   |
+| Symbol  | Functions                                 | Example   |
 | :-----: | ----------------------------------------- | --------- |
 |         | A separator symbol for digit groups.      | 1 000 000 |
 | **.**   | A separator symbol for dozenal fractions. | 1.0       |

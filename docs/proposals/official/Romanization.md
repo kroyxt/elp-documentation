@@ -28,7 +28,7 @@ This system must be used by all Official Proposals and training materials.
 
 ## Vowels (Alternative System)
 
-This system must can be used in informal settings when the primary means proves
+This system can be used in informal settings when the primary means proves
 too difficult to type.
 
 | IPA          | i | iː | y | yː | u | uː | e | eː | o | oː | a | aː |
