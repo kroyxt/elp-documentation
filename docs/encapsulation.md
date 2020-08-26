@@ -149,24 +149,24 @@ The numeric prefixes encapsulate the following mathematical knowledge:
 
 ### Evenness
 
-Numeric prefixes that contain /j/ represent **even numbers**.
-Numeric prefixes that contain /w/ represent **odd numbers**.
+Numeric prefixes that contain "j" represent **even numbers**.
+Numeric prefixes that contain "w" represent **odd numbers**.
 
 ### 3x Multiplication
 
-Numeric prefixes that contain /e/ are part of the 3x multiplication table. This
+Numeric prefixes that contain "e" are part of the 3x multiplication table. This
 matches with the Official Numerals which also shows the 3x multiplication table
 through the number of strokes.
 
 ### 4x Multiplication
 
-Numeric prefixes that end with /i/ are part of the 4x multiplication table.
+Numeric prefixes that end with "i" are part of the 4x multiplication table.
 
 ### Arithmetic
 
 Swapping the position of the vowel within a numeric prefix either adds or
 removes 6 from the total value. For example:
 
-Swapping the position of the vowel in /ei/ (0) will create /je/ (6).
-Swapping the position of the vowel in /ja/ (10) will create /ai/ (4).
+Swapping the position of the vowel in "ei" (0) will create "je" (6).
+Swapping the position of the vowel in "ja" (10) will create "ai" (4).
 

@@ -4,9 +4,7 @@ The Encapsulated Language uses the following numerals.
 
 ![Numerals](/elp-documentation/img/numbers/Numerals.png)
 
-The numeral '0' can be represented by a little circle such as the symbol for a
-degree (°), but centred in the middle of the line, like a dot (•) when writing
-the numeral by **hand only**.
+The numeral '0' can be represented by ∘ (a small circle) when writing the numeral by **hand only**.
 
 [What do the numerals encapsulate?](https://kroyxlab.github.io/elp-documentation/encapsulation.html#numerals)
 
