@@ -2,6 +2,7 @@
 
 | Proponent                                               | Draft Version | Summary                                            | Link                                                                                                                    |
 | ------------------------------------------------------- | :-----------: | -------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------- |
+| [u/markrocks-](https://www.reddit.com/u/markrocks-)           |     v1.0      | Proposal to make the Encapsulated Language a syllable-timed language.  | [See](https://www.reddit.com/r/EncapsulatedLanguage/comments/igq0nv/syllable_timing/)             |
 | [u/AceGravity12](https://www.reddit.com/u/AceGravity12)           |     v1.0      | Proposal for phonotactics.  | [See](https://www.reddit.com/r/EncapsulatedLanguage/comments/i86nfu/fteindly_phonotactics_proposal/)             |
 | [u/Akangka](https://www.reddit.com/u/Akangka)           |     v1.2      | Adjustment to original proposal for phonotactics.  | [See](https://www.reddit.com/r/EncapsulatedLanguage/comments/i3hulu/phonotactic_and_alternation_ideas_for/)             |
 | [u/Akangka](https://www.reddit.com/u/Akangka)           |     v1.1      | Adjustment to original proposal for phonotactics.  | [See](https://www.reddit.com/r/EncapsulatedLanguage/comments/i17dwi/phonotactics_and_alternation_proposal_v2/)          |

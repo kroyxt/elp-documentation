@@ -2,12 +2,8 @@
 
 The Encapsulated Language uses the following symbols:
 
-## Numbers
-- A **point** is used as a separator symbol for dozenal fractions.
-- A **space** is used as a separator symbol for digit groups.
-
 | Symbol  | Rules                                     | Example   |
-| ------- | ----------------------------------------- | --------- |
+| :-----: | ----------------------------------------- | --------- |
 |         | A separator symbol for digit groups.      | 1 000 000 |
 | .       | A separator symbol for dozenal fractions. | 1.0       |
 
