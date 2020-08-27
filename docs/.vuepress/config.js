@@ -61,6 +61,7 @@ module.exports = {
           "/proposals/official/CommunityAdministration",
           "/proposals/official/Phonology",
           "/proposals/official/Romanization",
+          "/proposals/official/Phonotactics",
           "/proposals/official/NumberBase",
           "/proposals/official/PhonologicalValues",
           "/proposals/official/Numerals",
