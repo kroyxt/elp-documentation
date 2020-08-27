@@ -24,7 +24,7 @@
       <li class="NumberToIpa__itemImg" v-for="img in imgArray_" :key="img.id">
         <img
           class="NumberToIpa__img"
-          :src="'/elp-documentation/numbers/number' + img + '.png'"
+          :src="'/elp-documentation/img/numbers/number' + img + '.png'"
           :alt="img"
         />
       </li>
