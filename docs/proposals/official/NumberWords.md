@@ -7,6 +7,8 @@ The Encapsulated Language constructs number words in the following ways:
 Single-digit numbers are built from both the consonant and vowel that
 represents their phonological value plus the consonant "n".
 
+The Encapsulated Language starts counting ordinals from 0.
+
 | Numbers | Number Word |
 | ------- | ----------- |
 | 0       | vin         |
@@ -24,12 +26,13 @@ represents their phonological value plus the consonant "n".
 
 The single-digit number system can also be used to express a string of digits
 such as a phone number
-For example, **(605).475.6968** can be expressed as **zhīn vin son - zen shūn
+For example, **(605) 475 6968** can be expressed as **zhīn vin son - zen shūn
 son - zhīn tsān zhīn dzȳn**
 
-| Approved Date |    Vote Summary    | Link                                                                                                          |
-| ------------- | :----------------: | ------------------------------------------------------------------------------------------------------------- |
-| 02/08/2020    | 24 for / 3 against | [See](https://www.reddit.com/r/EncapsulatedLanguage/comments/i12ryt/official_proposal_vote_to_officialize_a/) |
+| Approved Date |    Vote Summary    | Link                                                                                                            |
+| ------------- | :----------------: | --------------------------------------------------------------------------------------------------------------- |
+| 29/08/2020    | 14 for / 4 against | [See](https://www.reddit.com/r/EncapsulatedLanguage/comments/ihfgp0/official_proposal_vote_to_officialize_the/) |
+| 02/08/2020    | 24 for / 3 against | [See](https://www.reddit.com/r/EncapsulatedLanguage/comments/i12ryt/official_proposal_vote_to_officialize_a/)   |
 
 ## Trinumeral Number Words (10 - EEE)
 
