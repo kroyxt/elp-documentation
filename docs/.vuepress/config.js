@@ -15,6 +15,10 @@ module.exports = {
         link: "https://www.youtube.com/channel/UCqqCQngo0EGuFVs6A9UUTUA/",
       },
       { text: "Discord", link: "https://discord.gg/8WvgTRF" },
+      { 
+        text: "Live Documents",
+        link: "https://docs.google.com/document/d/1mysBSSm_bsXDDoMxw5qlnvR-bk1M00z-GbdEqRerWJ8/edit?usp=sharing" 
+      },
     ],
     displayAllHeaders: true, // Default: false
     sidebar: [
