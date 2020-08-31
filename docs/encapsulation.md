@@ -37,8 +37,7 @@ The following numerals are made from other numerals.
 
 ### Intuitive
 
-Every numeral follows a specific design pattern. 1, 2 and 3 also visually
-represent their quantities.
+Every numeral follows a specific design pattern. 1, 2 and 3 also visually represent their quantities.
 
 ### Distinct
 
@@ -51,10 +50,11 @@ The numeral system can be extended using the same design pattern without
 introducing inconsistencies in design. It has been proven that this numeral
 system can work effectively for base-2, base-8 and even base-16.
 
-### Similarity to traditional Chinese numerals
+### Familiarity
 
 The 1, 2 and 3 numerals are similar to traditional Chinese numerals making them
-slightly easier to learn for East Asian learners.
+slightly easier to learn for East Asian learners. Additionally, numeral 0 is similar 
+to the Arabic numeral making it easier to learn in general.
 
 ## Phonological Values
 
