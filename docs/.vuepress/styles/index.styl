@@ -4,11 +4,34 @@
 .navbar, .navbar .links
 	background-color $accentColor !important
 
+.nav-link .router-link-exact-active .router-link-active
+	color white !important
+
+.nav-links a:hover, .nav-links a.router-link-active
+	color white !important
+
+.nav-item > a:not(.external):hover, .nav-item > a:not(.external).router-link-active
+	border-color $accentColorDark !important
+
 .navbar .links
 	background-color red
 
 .navbar, .site-name.can-hide, .navbar .links .icon.outbound
 	color white !important
+
+.dropdown-wrapper .nav-dropdown .dropdown-item a
+	color $accentColorDark
+	border-bottom 1px solid transparent !important
+
+.dropdown-wrapper .dropdown-title
+	color white !important
+
+.navbar .links .icon.outbound
+	color $accentColorDark !important
+
+.dropdown-wrapper .nav-dropdown .dropdown-item a:hover
+	color $accentColorDark !important
+	border-bottom 1px solid $accentColor !important
 
 // Sidebar
 
