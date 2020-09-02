@@ -1,6 +1,6 @@
 # Mathematics
 
-The Encapsulated Language use a prefix notation system for arithmetic.
+The Encapsulated Language uses a prefix notation system for arithmetic.
 
 | Approved Date |    Vote Summary    | Link                                                                                                                    |
 | ------------- | :----------------: | ----------------------------------------------------------------------------------------------------------------------- |
