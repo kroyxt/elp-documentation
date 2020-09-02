@@ -4,8 +4,7 @@ The Encapsulated Language constructs number words in the following ways:
 
 ## Single-Digit Number Words
 
-Single-digit numbers are built from both the consonant and vowel that
-represents their phonological value plus the consonant "n".
+Single-digit numbers are built from the consonant and vowel that represents their value in the [Phonological Value](https://kroyxlab.github.io/elp-documentation/proposals/official/PhonologicalValues.html) system plus the consonant "n".
 
 The Encapsulated Language starts counting ordinals from 0.
 
@@ -36,10 +35,7 @@ son - zhīn tsān zhīn dzȳn**
 
 ## Trinumeral Number Words (10 - EEE)
 
-The number words (10 - EEE) are called trinumeral number words. They are built
-by adding specific constants and vowels together to form whole numbers. The
-consonants and vowels each have a numerical value assigned to them which, when
-combined, give whole digit numbers.
+The number words (10 - EEE) are called trinumeral number words. They are built from the consonant, vowel, consonant that represents their value in the [Phonological Value](https://kroyxlab.github.io/elp-documentation/proposals/official/PhonologicalValues.html) system, which, when combined, give whole digit numbers.
 
 Trinumerals are built using the following rules:
 
@@ -76,10 +72,7 @@ Examples:
 
 The Encapsulated Language uses the following numeric prefixes.
 
-The numeric prefixes are used as an extension to the base number word system to
-represent the magnitude of a value. They form number words similar to “million”
-and “billion” in English, but allow a greater level of precision that
-scientific notation is normally capable of expressing.
+The numeric prefixes are used as an extension to the base number word system to represent the magnitude of a value. They form number words similar to “million” and “billion” in English, but allow a greater level of precision that scientific notation is normally capable of expressing. They aren't built using values from the [Phonological Value](https://kroyxlab.github.io/elp-documentation/proposals/official/PhonologicalValues.html) system.
 
 | Numeric Prefix | Value   |
 | -------------- | ------- |
