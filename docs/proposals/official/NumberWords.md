@@ -2,11 +2,17 @@
 
 The Encapsulated Language constructs number words in the following ways:
 
+## General Rules
+
+The Encapsulated Language starts counting ordinals from 0.
+
+| Approved Date |    Vote Summary    | Link                                                                                                            |
+| ------------- | :----------------: | --------------------------------------------------------------------------------------------------------------- |
+| 29/08/2020    | 14 for / 4 against | [See](https://www.reddit.com/r/EncapsulatedLanguage/comments/ihfgp0/official_proposal_vote_to_officialize_the/) |
+
 ## Single-Digit Number Words
 
 Single-digit numbers are built from the consonant and vowel that represents their value in the [Phonological Value](https://kroyxlab.github.io/elp-documentation/proposals/official/PhonologicalValues.html) system plus the consonant "n".
-
-The Encapsulated Language starts counting ordinals from 0.
 
 | Numbers | Number Word |
 | ------- | ----------- |
@@ -30,7 +36,6 @@ son - zhīn tsān zhīn dzȳn**
 
 | Approved Date |    Vote Summary    | Link                                                                                                            |
 | ------------- | :----------------: | --------------------------------------------------------------------------------------------------------------- |
-| 29/08/2020    | 14 for / 4 against | [See](https://www.reddit.com/r/EncapsulatedLanguage/comments/ihfgp0/official_proposal_vote_to_officialize_the/) |
 | 02/08/2020    | 24 for / 3 against | [See](https://www.reddit.com/r/EncapsulatedLanguage/comments/i12ryt/official_proposal_vote_to_officialize_a/)   |
 
 ## Trinumeral Number Words (10 - EEE)
@@ -145,3 +150,16 @@ Examples:
 | Approved Date |    Vote Summary    | Link                                                                                                                  |
 | ------------- | :----------------: | --------------------------------------------------------------------------------------------------------------------- |
 | 23/08/2020    | 14 for / 1 against | [See](https://www.reddit.com/r/EncapsulatedLanguage/comments/idojet/official_proposal_vote_to_officialize_a_dozenal/) |
+
+## Combination of Numerals
+
+Numerals preceding a numeral with a larger magnitude get combined.
+
+| Example       | Meaning |
+| ------------- | ------- |
+| wafun fun     | 1001    |
+| wafun vin fun | 1000, 1 |
+
+| Approved Date |    Vote Summary    | Link                                                                                                                    |
+| ------------- | :----------------: | ----------------------------------------------------------------------------------------------------------------------- |
+| 03/09/2020    | 21 for / 1 against | [See](https://www.reddit.com/r/EncapsulatedLanguage/comments/ikf3w6/official_proposal_vote_to_clarify_the_combination/) |
