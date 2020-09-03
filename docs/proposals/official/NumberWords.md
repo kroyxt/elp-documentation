@@ -8,7 +8,7 @@ The Encapsulated Language starts counting ordinals from 0.
 
 | Approved Date |    Vote Summary    | Link                                                                                                            |
 | ------------- | :----------------: | --------------------------------------------------------------------------------------------------------------- |
-| 29/08/2020    | 14 for / 4 against | [See](https://www.reddit.com/r/EncapsulatedLanguage/comments/ihfgp0/official_proposal_vote_to_officialize_the/) |
+| 29/08/2020    | 12 for / 4 against | [See](https://www.reddit.com/r/EncapsulatedLanguage/comments/ihfgp0/official_proposal_vote_to_officialize_the/) |
 
 ## Single-Digit Number Words
 
@@ -36,7 +36,7 @@ son - zhīn tsān zhīn dzȳn**
 
 | Approved Date |    Vote Summary    | Link                                                                                                            |
 | ------------- | :----------------: | --------------------------------------------------------------------------------------------------------------- |
-| 02/08/2020    | 24 for / 3 against | [See](https://www.reddit.com/r/EncapsulatedLanguage/comments/i12ryt/official_proposal_vote_to_officialize_a/)   |
+| 02/08/2020    | 21 for / 3 against | [See](https://www.reddit.com/r/EncapsulatedLanguage/comments/i12ryt/official_proposal_vote_to_officialize_a/)   |
 
 ## Trinumeral Number Words (10 - EEE)
 
@@ -71,7 +71,7 @@ Examples:
 
 | Approved Date |    Vote Summary    | Link                                                                                                          |
 | ------------- | :----------------: | ------------------------------------------------------------------------------------------------------------- |
-| 02/08/2020    | 24 for / 3 against | [See](https://www.reddit.com/r/EncapsulatedLanguage/comments/i12ryt/official_proposal_vote_to_officialize_a/) |
+| 02/08/2020    | 21 for / 3 against | [See](https://www.reddit.com/r/EncapsulatedLanguage/comments/i12ryt/official_proposal_vote_to_officialize_a/) |
 
 ## Numeric Prefixes
 
@@ -120,7 +120,7 @@ Examples of numeric prefix use with trinumerals:
 | Approved Date |    Vote Summary    | Link                                                                                                               |
 | ------------- | :----------------: | ------------------------------------------------------------------------------------------------------------------ |
 | 05/08/2020    | 15 for / 4 against | [See](https://www.reddit.com/r/EncapsulatedLanguage/comments/i2ttzh/official_proposal_vote_to_change_the_numeric/) |
-| 02/08/2020    | 24 for / 3 against | [See](https://www.reddit.com/r/EncapsulatedLanguage/comments/i12ryt/official_proposal_vote_to_officialize_a/)      |
+| 02/08/2020    | 21 for / 3 against | [See](https://www.reddit.com/r/EncapsulatedLanguage/comments/i12ryt/official_proposal_vote_to_officialize_a/)      |
 
 ## Dozenal fraction
 
@@ -162,4 +162,4 @@ Numerals preceding a numeral with a larger magnitude get combined.
 
 | Approved Date |    Vote Summary    | Link                                                                                                                    |
 | ------------- | :----------------: | ----------------------------------------------------------------------------------------------------------------------- |
-| 03/09/2020    | 21 for / 1 against | [See](https://www.reddit.com/r/EncapsulatedLanguage/comments/ikf3w6/official_proposal_vote_to_clarify_the_combination/) |
+| 03/09/2020    | 22 for / 1 against | [See](https://www.reddit.com/r/EncapsulatedLanguage/comments/ikf3w6/official_proposal_vote_to_clarify_the_combination/) |
