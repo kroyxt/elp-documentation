@@ -25,12 +25,6 @@ Finally, all computers operate on base-2 and constantly perform countless
 conversions between base-10 and base-2 every clock cycle. This means there would
 be no additional burden placed upon technology.
 
-## Won't Base-12 make Base-10 harder to learn?
-
-The Alaskan Iñupiat have a Base-20 number system and use a featural positional numeral system, however, 
-they also learn Base-10. It has been attested that this dual thinking in base-10 and base-20 might be 
-comparable to advantages that bilingual students have in forming two ways of thinking about the world.
-
 ## What is the history of the phonology?
 
 The first proto-phonology was promoted to an Official Proposal on the 15th of
