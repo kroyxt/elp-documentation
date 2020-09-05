@@ -71,6 +71,7 @@ module.exports = {
           "/proposals/official/Numerals",
           "/proposals/official/NumberWords",
           "/proposals/official/WordOrder",
+          "/proposals/official/Grammar",
           "/proposals/official/Color",
           "/proposals/official/Mathematics",
           "/proposals/official/Punctuation",
