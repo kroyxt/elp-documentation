@@ -153,7 +153,7 @@ Examples:
 
 ## Combination of Numerals
 
-Numerals preceding a numeral with a larger magnitude get combined.
+Numerals following a numeral with a larger magnitude get combined.
 
 | Example       | Meaning |
 | ------------- | ------- |
