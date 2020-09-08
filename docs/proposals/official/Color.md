@@ -91,11 +91,11 @@ then these examples will change.
 | ![Grey](/elp-documentation/img/colors/Grey.png)       | wil                    | Color     | Grey               |
 | ![White](/elp-documentation/img/colors/White.png)     | **tshōn** wil          | E color   | White              |
 | ![Red](/elp-documentation/img/colors/Red.png)         | wil **fun**            | Color 1   | Red                |
-| ![Brown](/elp-documentation/img/colors/Brown.png)     | **son** wil **ghyn**   | Color 3   | Brown              |
+| ![Brown](/elp-documentation/img/colors/Brown.png)     | **son** wil **ghyn**   | 5 Color 2 | Brown              |
 | ![Green](/elp-documentation/img/colors/Green.png)     | wil **son**            | Color 5   | Green              |
 | ![Blue](/elp-documentation/img/colors/Blue.png)       | wil **tsān**           | Color 9   | Blue               |
-| ![Magenta](/elp-documentation/img/colors/Magenta.png) | **dzhēn** wil **vin**  | Color E   | Purple / Magenta   |
-| ![Yellow](/elp-documentation/img/colors/Yellow.png)   | **dzhēn** wil **khan** | 9 Color 2 | Yellow             |
+| ![Magenta](/elp-documentation/img/colors/Magenta.png) | **dzhēn** wil **vin**  | X Color 0 | Purple / Magenta   |
+| ![Yellow](/elp-documentation/img/colors/Yellow.png)   | **dzhēn** wil **khan** | X Color 3 | Yellow             |
 | ![Pink](/elp-documentation/img/colors/Pink.png)       | **tsān** wil **vin**   | 9 Color 0 | Pink               |
 
 | Approved Date |           Vote Summary            | Link                                                                                                                  |
