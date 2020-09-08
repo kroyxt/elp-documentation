@@ -48,7 +48,8 @@ function toL(num){
 	for(let place in num){
 		value=value+parseInt(num.charAt(place),12)/Math.pow(12,place+1)
 	}
-	value=value*Math.pow(12,num.length)/(Math.pow(12,num.length)-1)*100
+  value=value+.5/Math.pow(12,num.length)
+	value=value*100
 	return(value)
 }
 function toC(num){
@@ -56,7 +57,9 @@ function toC(num){
 	for(let place in num){
 		value=value+parseInt(num.charAt(place),12)/Math.pow(12,place+1)
 	}
-	value=(value+1/Math.pow(12,num.length))*2*defaltMagnitude
+  value=value+.5/Math.pow(12,num.length)
+	value=value*2*defaltMagnitude
+  value=200-value
 	return(value)
 }
 function toh(num){
@@ -64,6 +67,7 @@ function toh(num){
 	for(let place in num){
 		value=value+parseInt(num.charAt(place),12)/Math.pow(12,place+1)
 	}
+  value=value+.5/Math.pow(12,num.length)
 	value=value*2*Math.PI
 	return(value)
 	
@@ -238,10 +242,13 @@ function convert()
 			if(Math.max(color[0],color[1],color[2],255-color[0],255-color[1],255-color[2])>255){
 				outsideRGB=true
 			}
+      console.log("EVILDEA HERE IS THE TRUE COLLOROR!!!!: ",color)
 			color[0]=Math.max(Math.min(color[0],255),0)
 			color[1]=Math.max(Math.min(color[1],255),0)
 			color[2]=Math.max(Math.min(color[2],255),0)
+      console.log("EVILDEA HERE IS THE CLAMPED COLLOROR!!!!: #" + hexify(color[0]) + hexify(color[1]) + hexify(color[2]),color)
 			//set iutput as not error
+      output=""
 			if(outsideRGB){
 				output=output+"!!!Aproximation!!!"
 			}
@@ -251,7 +258,7 @@ function convert()
 	//generate hex code and display it
 	var hex = "#" + hexify(color[0]) + hexify(color[1]) + hexify(color[2]);
 	document.getElementById("result").style.backgroundColor = hex;
-	document.getElementById("aprox").innerText = '!!!Aproximation!!!';
+	document.getElementById("aprox").innerText = output;
 	document.getElementById("aprox").style.color = hex;
 }
 
