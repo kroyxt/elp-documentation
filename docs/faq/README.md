@@ -299,16 +299,20 @@ will know what needs to be looked at and updated on the website.
 The following is a template you can use to format your proposal:
 
 **Summary:**
+
 Provide a summary of your proposal.
 
 **Current State:**
+
 State which, if any Official Proposal or part thereof, your Draft Proposal will directly affect.
 
 **Proposed State:**
+
 State your proposal in clear and concise language. Write it as if it were a description of a rule that 
 already exists. Don't use words like "maybe", "perhaps" etc...
 
 **Reason:**
+
 State the reason this proposal is necessary and how it fits with the Aims and Goals of the Language.
 
 ## When will the Language be finalised
