@@ -49,6 +49,10 @@ module.exports = {
 					{ text: "Discord", link: "https://discord.gg/8WvgTRF" },
 				],
 			},
+			{
+				text: "FAQ",
+				link: "/faq/"
+			}
 		],
 		displayAllHeaders: true,
 		// Sidebar Nav links
@@ -95,6 +99,9 @@ module.exports = {
 				"script",
 				"shapes",
 				"touch-alphabet",
+			],
+			"/faq/": [
+				""
 			],
 			// Fallback Sidebar
 			"/": [
