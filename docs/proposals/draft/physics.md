@@ -1,6 +1,3 @@
 # Physics
 
-| Proponent                                           | Draft Version | Summary                      | Link                                                                                           |
-| --------------------------------------------------- | :-----------: | ---------------------------- | ---------------------------------------------------------------------------------------------- |
-| [u/MiroslavE0](https://www.reddit.com/u/MiroslavE0) |     v1.0      | Proposal for Quantum Physics | [See](https://www.reddit.com/r/EncapsulatedLanguage/comments/i3nvk8/quantum_physics_proposal/) |
-
+<Proposals type="Physics"/>

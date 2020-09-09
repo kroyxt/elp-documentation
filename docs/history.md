@@ -10,7 +10,6 @@ through the subreddit history.
 
 - Base-12 can be cleanly divided by 1, 2, 3, 4, 6, and 12 making it more
   fraction-friendly than Base-10.
-
 - Base-12 is already used to describe time.
 - Base-12 requires less rote memorization than Base-10.
 - Base-12 was considered a happy medium between the number of digits required
@@ -48,6 +47,9 @@ following consonants /ʃ/, /ʒ/, /t͡s/, /d͡z/, /t͡ʃ/, /d͡ʒ/, /w/, the foll
 vowels /y/ and /yː/, along with the following diphthongs /ai̯/, /ei̯/, /oi̯/,
 /au̯/, /eu̯/ and /ou̯/. This large change to the phonology was required to build
 the underlying patterns of the new number word system.
+
+On the 9th of September 2020, the consonant /ʔ/ was introduced by a phonotactics 
+proposal to be the very first consonant in a syllable.
 
 The phonology is still considered highly unstable and further changes are
 expected.

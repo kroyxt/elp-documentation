@@ -2,12 +2,17 @@
 
 The Encapsulated Language constructs number words in the following ways:
 
-## Single-Digit Number Words
-
-Single-digit numbers are built from both the consonant and vowel that
-represents their phonological value plus the consonant "n".
+## General Rules
 
 The Encapsulated Language starts counting ordinals from 0.
+
+| Approved Date |    Vote Summary    | Link                                                                                                            |
+| ------------- | :----------------: | --------------------------------------------------------------------------------------------------------------- |
+| 29/08/2020    | 12 for / 4 against | [See](https://www.reddit.com/r/EncapsulatedLanguage/comments/ihfgp0/official_proposal_vote_to_officialize_the/) |
+
+## Single-Digit Number Words
+
+Single-digit numbers are built from the consonant and vowel that represents their value in the [Phonological Value](https://kroyxlab.github.io/elp-documentation/proposals/official/PhonologicalValues.html) system plus the consonant "n".
 
 | Numbers | Number Word |
 | ------- | ----------- |
@@ -31,15 +36,11 @@ son - zhīn tsān zhīn dzȳn**
 
 | Approved Date |    Vote Summary    | Link                                                                                                            |
 | ------------- | :----------------: | --------------------------------------------------------------------------------------------------------------- |
-| 29/08/2020    | 14 for / 4 against | [See](https://www.reddit.com/r/EncapsulatedLanguage/comments/ihfgp0/official_proposal_vote_to_officialize_the/) |
-| 02/08/2020    | 24 for / 3 against | [See](https://www.reddit.com/r/EncapsulatedLanguage/comments/i12ryt/official_proposal_vote_to_officialize_a/)   |
+| 02/08/2020    | 21 for / 3 against | [See](https://www.reddit.com/r/EncapsulatedLanguage/comments/i12ryt/official_proposal_vote_to_officialize_a/)   |
 
 ## Trinumeral Number Words (10 - EEE)
 
-The number words (10 - EEE) are called trinumeral number words. They are built
-by adding specific constants and vowels together to form whole numbers. The
-consonants and vowels each have a numerical value assigned to them which, when
-combined, give whole digit numbers.
+The number words (10 - EEE) are called trinumeral number words. They are built from the consonant, vowel, consonant that represents their value in the [Phonological Value](https://kroyxlab.github.io/elp-documentation/proposals/official/PhonologicalValues.html) system, which, when combined, give whole digit numbers.
 
 Trinumerals are built using the following rules:
 
@@ -70,16 +71,13 @@ Examples:
 
 | Approved Date |    Vote Summary    | Link                                                                                                          |
 | ------------- | :----------------: | ------------------------------------------------------------------------------------------------------------- |
-| 02/08/2020    | 24 for / 3 against | [See](https://www.reddit.com/r/EncapsulatedLanguage/comments/i12ryt/official_proposal_vote_to_officialize_a/) |
+| 02/08/2020    | 21 for / 3 against | [See](https://www.reddit.com/r/EncapsulatedLanguage/comments/i12ryt/official_proposal_vote_to_officialize_a/) |
 
 ## Numeric Prefixes
 
 The Encapsulated Language uses the following numeric prefixes.
 
-The numeric prefixes are used as an extension to the base number word system to
-represent the magnitude of a value. They form number words similar to “million”
-and “billion” in English, but allow a greater level of precision that
-scientific notation is normally capable of expressing.
+The numeric prefixes are used as an extension to the base number word system to represent the magnitude of a value. They form number words similar to “million” and “billion” in English, but allow a greater level of precision that scientific notation is normally capable of expressing. They aren't built using values from the [Phonological Value](https://kroyxlab.github.io/elp-documentation/proposals/official/PhonologicalValues.html) system.
 
 | Numeric Prefix | Value   |
 | -------------- | ------- |
@@ -122,7 +120,7 @@ Examples of numeric prefix use with trinumerals:
 | Approved Date |    Vote Summary    | Link                                                                                                               |
 | ------------- | :----------------: | ------------------------------------------------------------------------------------------------------------------ |
 | 05/08/2020    | 15 for / 4 against | [See](https://www.reddit.com/r/EncapsulatedLanguage/comments/i2ttzh/official_proposal_vote_to_change_the_numeric/) |
-| 02/08/2020    | 24 for / 3 against | [See](https://www.reddit.com/r/EncapsulatedLanguage/comments/i12ryt/official_proposal_vote_to_officialize_a/)      |
+| 02/08/2020    | 21 for / 3 against | [See](https://www.reddit.com/r/EncapsulatedLanguage/comments/i12ryt/official_proposal_vote_to_officialize_a/)      |
 
 ## Dozenal fraction
 
@@ -152,3 +150,16 @@ Examples:
 | Approved Date |    Vote Summary    | Link                                                                                                                  |
 | ------------- | :----------------: | --------------------------------------------------------------------------------------------------------------------- |
 | 23/08/2020    | 14 for / 1 against | [See](https://www.reddit.com/r/EncapsulatedLanguage/comments/idojet/official_proposal_vote_to_officialize_a_dozenal/) |
+
+## Combination of Numerals
+
+Numerals following a numeral with a larger magnitude get combined.
+
+| Example       | Meaning |
+| ------------- | ------- |
+| wafun fun     | 1001    |
+| wafun vin fun | 1000, 1 |
+
+| Approved Date |    Vote Summary    | Link                                                                                                                    |
+| ------------- | :----------------: | ----------------------------------------------------------------------------------------------------------------------- |
+| 03/09/2020    | 22 for / 1 against | [See](https://www.reddit.com/r/EncapsulatedLanguage/comments/ikf3w6/official_proposal_vote_to_clarify_the_combination/) |

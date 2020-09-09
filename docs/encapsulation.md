@@ -170,3 +170,6 @@ removes 6 from the total value. For example:
 Swapping the position of the vowel in "ei" (0) will create "je" (6).
 Swapping the position of the vowel in "ja" (10) will create "ai" (4).
 
+### In depth Breakdown
+
+![Breakdown](/elp-documentation/img/NumericPrefix.png)
