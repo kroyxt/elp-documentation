@@ -48,5 +48,8 @@ vowels /y/ and /yː/, along with the following diphthongs /ai̯/, /ei̯/, /oi̯/
 /au̯/, /eu̯/ and /ou̯/. This large change to the phonology was required to build
 the underlying patterns of the new number word system.
 
+On the 9th of September 2020, the consonant /ʔ/ was introduced by a phonotactics 
+proposal to be the very first consonant in a syllable.
+
 The phonology is still considered highly unstable and further changes are
 expected.
