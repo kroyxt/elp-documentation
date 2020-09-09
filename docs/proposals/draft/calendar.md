@@ -1,7 +1,4 @@
 # Calendar
 
-| Proponent                                             | Draft Version | Summary                                                                | Link                                                                                                    |
-| ----------------------------------------------------- | :-----------: | ---------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------- |
-| [u/markrocks-](https://www.reddit.com/u/markrocks-)       |     v1.0      | This calendar proposal proposes a 13-month calendar system based on the international fixed calendar system. | [See](https://www.reddit.com/r/EncapsulatedLanguage/comments/igc3fv/international_fixed_calendar/) |
-| [u/DemoseDT](https://www.reddit.com/u/DemoseDT)       |     v1.0      | This calendar uses a regular 5 day week, 6 week month, 12-month system | [See](https://www.reddit.com/r/EncapsulatedLanguage/comments/hhy9ki/draft_proposal_perennial_calendar/) |
-| [u/Dear-Ticket](https://www.reddit.com/u/Dear-Ticket) |     v1.0      | This calendar uses a regular 13-month system                           | [See](https://www.reddit.com/r/EncapsulatedLanguage/comments/hgspol/calendar_system/)                   |
+<Proposals type="Calendar"/>
+
