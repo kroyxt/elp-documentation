@@ -212,7 +212,7 @@ Official Proposal Committee with a request for Officialisation.
 
 ## How to write a good draft proposal
 
-To make sure your proposal as well understood as possible and to get both the
+To make sure your proposal is as well understood as possible and to get both the
 maximum support and maximum effect, here are some best practices on how to
 draft a good proposal. But bear in mind: none of this is a formal requirement.
 A project like this has so many aspects and dimensions; your proposal might
@@ -269,7 +269,7 @@ The following aspects are key features of a good proposal:
 4. Proposed change: Describe as exactly as possible the changes or new features you propose.
 5. Effect: How will the Proposal help achieve the goals of the language?
 
-- Especially if it is a proposal that implements some encapsulation, describe which information is encapsulated and how.
+- Especially if it's a proposal that implements some encapsulation, describe which information is encapsulated and how.
 - Does your change affects the accessibility of the language?
 
 6. Scope: Which new elements will be introduced into the language (if any)?
@@ -289,10 +289,24 @@ your proposal could be extended and used to further develop the language.
 
 When your proposal is finally done, post it to the
 [subreddit](https://www.reddit.com/r/EncapsulatedLanguage/) and don’t forget to
-add the “Draft Proposal”-flair to it. That way, people will know that it
-actually is a proposal and also the Members of the [Official Proposals
-Committee](https://kroyxlab.github.io/elp-documentation/faq/#what-is-the-official-proposal-committee)
+add the flair that represents the kind of proposal you're making. If none of the flairs 
+match then use the “Draft Proposal”-flair. That way, people will know that it actually is 
+a proposal and also the Members of the [Official Proposals Committee](https://kroyxlab.github.io/elp-documentation/faq/#what-is-the-official-proposal-committee)
 will know what needs to be looked at and updated on the website.
+
+### Template
+
+The following is a template you can use to format your proposal:
+
+**Summary:**
+Provide a summary of your proposal.
+**Current State:**
+State which, if any Official Proposal or part thereof, your Draft Proposal will directly affect.
+**Proposed State:**
+State your proposal in clear and concise language. Write it as if it were a description of a rule that 
+already exists. Don't use words like "maybe", "perhaps" etc...
+**Reason:**
+State the reason this proposal is necessary and how it fits with the Aims and Goals of the Language.
 
 ## When will the Language be finalised
 
