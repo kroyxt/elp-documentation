@@ -1,7 +1,7 @@
 <template>
 	<section class="Proposals">
 		<!--<h1 :id="type">-->
-			<!--<a :href="'#' + type" class="header-anchor">#</a> {{ type }}-->
+		<!--<a :href="'#' + type" class="header-anchor">#</a> {{ type }}-->
 		<!--</h1>-->
 		<section class="Proposals__posts" v-if="proposals.length > 0">
 			<table>
@@ -9,6 +9,7 @@
 					<tr>
 						<th>Proponent</th>
 						<th>Summary</th>
+						<th>Date</th>
 						<th>Link</th>
 					</tr>
 				</thead>
@@ -23,6 +24,15 @@
 						</td>
 						<td>
 							{{ proposal.data.title }}
+						</td>
+						<td>
+							{{
+								new Date(proposal.data.created * 1000).toLocaleString("es-ES", {
+									day: "numeric",
+									month: "numeric",
+									year: "numeric",
+								})
+							}}
 						</td>
 						<td>
 							<a
@@ -49,6 +59,7 @@
 					<tr>
 						<th>Proponent</th>
 						<th>Summary</th>
+						<th>Date</th>
 						<th>Link</th>
 					</tr>
 				</thead>
@@ -67,6 +78,15 @@
 							<s>
 								{{ lock.data.title }}
 							</s>
+						</td>
+						<td>
+							{{
+								new Date(lock.data.created * 1000).toLocaleString("es-ES", {
+									day: "numeric",
+									month: "numeric",
+									year: "numeric",
+								})
+							}}
 						</td>
 						<td>
 							<s>
@@ -95,7 +115,7 @@ export default {
 	},
 	async created() {
 		const response = await fetch(
-			`https://www.reddit.com/r/EncapsulatedLanguage/search.json?q=flair_name%3A%22${this.type}%20Proposal%22&restrict_sr=1&show=all`
+			`https://www.reddit.com/r/EncapsulatedLanguage/search.json?q=flair_name%3A%22${this.type}%20Proposal%22&restrict_sr=1&show=all&sort=new`
 		);
 		const responseJSON = await response.json();
 		const childrens = responseJSON.data.children;
