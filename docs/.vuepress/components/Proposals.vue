@@ -51,7 +51,7 @@
 				<p class="custom-block-title">Invalid Proposals</p>
 				<p>
 					The following proposals are no longer valid because they've been
-					superseded or voted on and failed.
+					superseded or voted on.
 				</p>
 			</div>
 			<table>
