@@ -59,23 +59,23 @@ module.exports = {
 		sidebar: {
 			// Sidebar of Officials Proposals
 			"/proposals/official/": [
-				"", // to -> /proposals/official/README.md
-				"AimsAndGoals", // to -> /proposals/official/AimsAndGoals.md
-				"CommunityAdministration",
-				"Phonology",
-				"Romanization",
-				"Phonotactics",
-				"NumberBase",
-				"PhonologicalValues",
-				"Numerals",
-				"NumberWords",
-				"WordOrder",
-				"Mathematics",
-				"Color",
-				"Grammar",
-				"Country",
-				"Punctuation",
-				"Logo",
+                                "", // to -> /proposals/official/README.md
+                                "AimsAndGoals", // to -> /proposals/official/AimsAndGoals.md
+                                "CommunityAdministration",
+                                "Phonology",
+                                "Romanization",
+                                "Phonotactics",
+                                "NumberBase",
+                                "PhonologicalValues",
+                                "Numerals",
+                                "NumberWords",
+                                "WordOrder",
+                                "Mathematics",
+                                "Color",
+                                "Grammar",
+                                "Country",
+                                "Punctuation",
+                                "Logo",
 			],
 			// Sidebar of Drafts Proposals
 			"/proposals/draft/": [
