@@ -12,5 +12,8 @@
   "devDependencies": {
     "@vuepress/plugin-back-to-top": "^1.5.2",
     "vuepress": "^1.5.2"
+  },
+  "dependencies": {
+    "axios": "^0.20.0"
   }
 }

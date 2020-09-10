@@ -105,6 +105,7 @@
 </template>
 
 <script charset="utf-8">
+import axios from 'axios';
 export default {
 	props: ["type"],
 	data() {
@@ -114,13 +115,12 @@ export default {
 		};
 	},
 	async created() {
-		const response = await fetch(
-			`https://www.reddit.com/r/EncapsulatedLanguage/search.json?q=flair_name%3A%22${this.type}%20Proposal%22&restrict_sr=1&show=all&sort=new`
-		);
-		const responseJSON = await response.json();
-		const childrens = responseJSON.data.children;
-		this.proposals = childrens.filter((posts) => posts.data.locked == false);
-		this.locks = childrens.filter((posts) => posts.data.locked == true);
+	const response = await axios.get(
+	`https://www.reddit.com/r/EncapsulatedLanguage/search.json?q=flair_name%3A%22${this.type}%20Proposal%22&restrict_sr=1&show=all&sort=new`
+	);
+	const childrens = response.data.data.children;
+	this.proposals = childrens.filter((posts) => posts.data.locked == false);
+	this.locks = childrens.filter((posts) => posts.data.locked == true);
 	},
 };
 </script>
