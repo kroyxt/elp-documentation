@@ -1,3 +1,0 @@
-# Phonotactics
-
-<Proposals type="Phonotactics"/>

@@ -1,3 +1,0 @@
-# Numerals
-
-<Proposals type="Numerals"/>

@@ -1,6 +1,6 @@
-# Numerals
+# Orthographic Numerals
 
-The Encapsulated Language uses the following numerals.
+The Encapsulated Language uses the following orthographic numerals.
 
 ![Numerals](/elp-documentation/img/numbers/Numerals.png)
 
