@@ -5,9 +5,11 @@ The Encapsulated Language constructs number words in the following ways:
 ## General Rules
 
 The Encapsulated Language starts counting ordinals from 0.
+Numerals are placed in decreasing order of value.
 
 | Approved Date |    Vote Summary    | Link                                                                                                            |
 | ------------- | :----------------: | --------------------------------------------------------------------------------------------------------------- |
+| 11/09/2020    | 13 for / 5 against | [See](https://www.reddit.com/r/EncapsulatedLanguage/comments/ip8erm/official_proposal_vote_to_set_the_order_of_the/) |
 | 29/08/2020    | 12 for / 4 against | [See](https://www.reddit.com/r/EncapsulatedLanguage/comments/ihfgp0/official_proposal_vote_to_officialize_the/) |
 
 ## Single-Digit Number Words
