@@ -1,6 +1,6 @@
 ---
 prev: ../../
-next: ./name
+next: ./animals
 ---
 
 # Draft Proposals
