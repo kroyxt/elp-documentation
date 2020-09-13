@@ -1,5 +1,7 @@
 # Orthographic Numerals
 
+::: tip This section is no longer valid due to the recent Officialization of Base-6 :::
+
 The Encapsulated Language uses the following orthographic numerals.
 
 ![Numerals](/elp-documentation/img/numbers/Numerals.png)

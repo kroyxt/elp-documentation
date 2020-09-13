@@ -14,10 +14,14 @@ You can download a ZIP file containing pictures of all the numerals from
 
 ### Windows
 
+::: tip This app no longer works due to the recent Officialization of Base-6 :::
+
 You can download a ZIP file containing a number typer compatible with newer versions
 of Windows from [here](/elp-documentation/downloads/Elp-Win-NumberTyper.zip)
 
 ## Base-12 Number to number word and numeral converter
+
+::: tip This app no longer works due to the recent Officialization of Base-6 :::
 
 This app quickly converts base-12 numbers to their Encapsulated Language number word
 and numeral equivalents. 
@@ -27,6 +31,8 @@ appropriate number words and numerals!
 <NumberToIpa/>
 
 ## Colors
+
+::: tip This app no longer works due to the recent Officialization of Base-6 :::
 
 This app visually shows the color a color word represents where physically possible.
 Just type the color word you want to see, and the app will generate the appropriate color!

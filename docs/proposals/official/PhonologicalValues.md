@@ -1,5 +1,7 @@
 # Phonological Values
 
+::: tip This section is no longer valid due to the recent Officialization of Base-6 :::
+
 The following phonemes have inherent numerical values in the Encapsulated Language:
 
 | Numbers |     |     |     |     |

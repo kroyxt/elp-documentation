@@ -336,7 +336,7 @@ mass adoption.
 Unfortunately this means the language will never be “perfect”, but it does mean
 that we’ll feel safe knowing that it won’t suddenly and fundamentally change overnight.
 
-## Won't Base-12 make Base-10 harder to learn?
+## Won't Base-6 make Base-10 harder to learn?
 
 The Alaskan Iñupiat have a Base-20 number system and use a featural positional numeral system, however, 
 they also learn Base-10. It has been attested that this dual thinking in base-10 and base-20 might be 

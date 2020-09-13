@@ -1,25 +1,26 @@
 # History
 
-## Why Base-12?
+## Why Base-6?
 
-Base-12 was promoted to an Official Proposal on the 30th of June 2020 (Base-12
-vs Base-16) and again on the 3rd of July 2020 (Base-12 vs Base-6). Some of the
-reasons why Base-12 was preferred by the community at large are listed below.
-For a comprehensive list of reasons for and against Base-12, you'll need to dig
+Base-6 was promoted to an Official Proposal on the 13th of September 2020 (Base-12 vs Base-6). 
+Some of the reasons why Base-6 was preferred by the community at large are listed below.
+For a comprehensive list of reasons for and against Base-6, you'll need to dig
 through the subreddit history.
 
-- Base-12 can be cleanly divided by 1, 2, 3, 4, 6, and 12 making it more
-  fraction-friendly than Base-10.
-- Base-12 is already used to describe time.
-- Base-12 requires less rote memorization than Base-10.
-- Base-12 was considered a happy medium between the number of digits required
+- Base-6 can be cleanly divided by 1, 2, 3 and 6 making it more fraction-friendly than Base-10.
+- 6 is the biggest number with only two coprimes, 1 and 5. This means the multiplication table 
+is regular and has a relatively high frequency of numbers which end with a 0.
+- Base-6 requires less rote memorization than Base-10.
+- Base-6 was considered a happy medium between the number of digits required
   and the resulting number of numerals.
+- π in Base-6 has two zeros in a row early on. This means that memorizing six digits is as precise 
+as memorizing eight.
 
-Additionally, mathematical constants such as π can be represented in base-12
+Additionally, mathematical constants such as π can be represented in base-6
 (or any base for that matter) as they simply represent ratios.
 
 - π (base-10): 3.141592653...
-- π (base-12): 3.184809493...
+- π (base-6): 3.050330051...
 
 Finally, all computers operate on base-2 and constantly perform countless
 conversions between base-10 and base-2 every clock cycle. This means there would

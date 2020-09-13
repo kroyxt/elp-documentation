@@ -1,5 +1,7 @@
 # Number Words
 
+::: tip This section is no longer valid due to the recent Officialization of Base-6 :::
+
 The Encapsulated Language constructs number words in the following ways:
 
 ## General Rules
