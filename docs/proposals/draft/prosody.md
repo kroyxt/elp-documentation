@@ -1,3 +1,3 @@
-# Phonology
+# Prosody
 
 <Proposals type="Prosody"/>
