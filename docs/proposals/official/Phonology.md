@@ -28,6 +28,7 @@ The Encapsulated Language uses the following phonemes.
 
 | Approved Date |             Vote Summary             | Link                                                                                                                                                                      |
 | ------------- | :----------------------------------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 14/09/2020    |          10 for / 12 for other proposals          | [See](https://www.reddit.com/r/EncapsulatedLanguage/comments/ir5vzj/official_proposal_vote_to_replace_the_vowel_value/)                                                             |
 | 09/09/2020    |          9 for / 5 against          | [See](https://www.reddit.com/r/EncapsulatedLanguage/comments/io4zoz/official_proposal_vote_to_modify_the_phonotactics/)                                                             |
 | 02/08/2020    |          24 for / 3 against          | [See](https://www.reddit.com/r/EncapsulatedLanguage/comments/i12ryt/official_proposal_vote_to_officialize_a/)                                                             |
 | 22/07/2020    |         16 for / 10 against          | [See](https://www.reddit.com/r/EncapsulatedLanguage/comments/huihs2/official_proposal_vote_to_replace_the_trilled_r/?utm_source=share&utm_medium=ios_app&utm_name=iossmf) |
