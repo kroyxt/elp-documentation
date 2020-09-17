@@ -39,13 +39,29 @@ The Encapsulated Language uses the following phonemes.
 
 The Encapsulated Language obeys the following phonotactic constraints:
 
-- A syllable can't be less than a consonant followed by a vowel or diphthong.
-- A syllable can't be more than a consonant followed by an approximant followed by a vowel or diphthong followed by a consonant.
-- Neither /j/ nor /w/ can be in the coda of a syllable.
-- The glottal stop can be used as the very first consonant in a syllable.
+**Syllable Construction:**
+
+A syllable is built from an onset, an approximate, a nucleus, and a coda in that order.
+
+**Onset Phoneme group:**
+
+The onset phoneme group contains /p/, /b/, /t/, /d/, /k/, /g/, /ʔ/, /m/, /n/, /ɾ/, /f/, /v/, /s/, /z/, /ʃ/, /ʒ/, /x/, /ɣ/, /ts/, /dz/, /tʃ/, /dʒ/, /j/, /l/ and /w/
+
+**Approximant Phoneme group:**
+
+The approximant phoneme group contains a null phoneme, /j/, /l/, and /w/
+
+**Nucleus Phoneme group:**
+
+The nucleus phoneme group contains /i/, /iː/, /y/, /yː/, /u/, /uː/, /e/, /eː/, /o/, /oː/, /a/, /aː/, /ai/, /ei/, /oi/, /au/, /eu/, and /ou/
+
+**Coda Phoneme group:**
+
+The coda phoneme group contains a null phoneme, /p/, /b/, /t/, /d/, /k/, /g/, /m/, /n/, /ɾ/, /f/, /v/, /s/, /z/, /ʃ/, /ʒ/, /x/, /ɣ/, /ts/, /dz/, /tʃ/, and /dʒ/
 
 | Approved Date |    Vote Summary    | Link                                                                                                                    |
 | ------------- | :----------------: | ----------------------------------------------------------------------------------------------------------------------- |
+| 18/09/2020    | 11 for / 3 against | [See](https://www.reddit.com/r/EncapsulatedLanguage/comments/itk52y/official_proposal_vote_to_clarify_the_phonotactics/)    |
 | 09/09/2020    | 9 for / 5 against | [See](https://www.reddit.com/r/EncapsulatedLanguage/comments/io4zoz/official_proposal_vote_to_modify_the_phonotactics/)    |
 | 09/09/2020    | 12 for / 2 against | [See](https://www.reddit.com/r/EncapsulatedLanguage/comments/io4yox/official_proposal_vote_to_modify_the_phonotactics/)    |
 | 27/08/2020    | 16 for / 2 against | [See](https://www.reddit.com/r/EncapsulatedLanguage/comments/igb9g2/official_proposal_vote_to_officialize_a/)    |
