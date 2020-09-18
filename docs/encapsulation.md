@@ -9,52 +9,46 @@ knowledge as possible.
 
 The numerals encapsulate the following mathematical knowledge:
 
-### Base-12
+### Base-6
 
-The numerals have been designed with a Base-12 system in mind. Latin numerals
-don't function cleanly with a Base-12 system.
+The numerals have been designed with a Base-6 system in mind. Latin numerals
+don't function cleanly with a Base-6 system.
 
-### 3x Multiplication
+### Component 1
 
-The 3, 6, 9 numerals are all made from three strokes. This shows that they all
-belong to the 3x Multiplication table.
+The basic idea behind the numerals is to encapsulate not only a visual representation of the respective value, but their divisibility by the two prime factors of Base-6: 2 and 3.
 
-### 4x Multiplication
+This results in numerals that have two components.
 
-The numerals 4 and 8 are the only numerals that exclusively consist of vertical
-bars. This shows that they belong to the 4x Multiplication table.
+Component 1 encapsulates the divisibility by 2:
 
-### Arithmetic
+![Component 1](/elp-documentation/img/numbers/Component01.png)
 
-The following numerals are made from other numerals.
+### Component 2
 
-- 5 is made from 4 + 1
-- 6 is made from 4 + 2
-- 7 is made from 4 + 3
-- 9 is made from 8 + 1
-- 10 is made from 8 + 2
-- 11 is made from 8 + 3
+Component 2 encapsulates the divisibility by 3.
 
-### Intuitive
+![Component 2](/elp-documentation/img/numbers/Component02.png)
 
-Every numeral follows a specific design pattern. 1, 2 and 3 also visually represent their quantities.
+### Proto-numerals
 
-### Distinct
+Combining both components results in the following proto-numerals:
 
-Every numeral is visually distinct from every other numeral. This ensures
-there's no ambiguity when writing in sequence.
+![Proto-numerals](/elp-documentation/img/numbers/ProtoNumerals.png)
 
-### Extensibility
+### Final Result
 
-The numeral system can be extended using the same design pattern without
-introducing inconsistencies in design. It has been proven that this numeral
-system can work effectively for base-2, base-8 and even base-16.
+To make them easier to write and to avoid having both ascenders and descenders in the numerals (which might interfere with each other when writing e.g. on graph paper; a.k.a. squared paper), they were adapted into the proposed numerals:
 
-### Familiarity
+![Final Result](/elp-documentation/img/numbers/FinalResult.png)
 
-The 1, 2 and 3 numerals are similar to traditional Chinese numerals making them
-slightly easier to learn for East Asian learners. Additionally, numeral 0 is similar 
-to the Arabic numeral making it easier to learn in general.
+### The Zero Problem
+
+In both components, the number zero has neither vertical lines nor arches, because it is divisible by both 2 and 3 but that division results in no whole number. So we're at a point where one always is when creating a symbol for zero: we have to write something to express the absence of something.
+
+From the point of view of divisibility, we'd want something like a circle, because it would show that 0 divides without rest by both 2 and 3. However, in strict terms of each component, a circle would mean a number that divides by both 2 and 3 with the result of 1. Such a number doesn't exist. So actively hinting towards that with a perfect circle was out of the question.
+
+The community discussed alternatives, such as to use a third signifier, something that is neither an arch nor a vertical line (e.g. a dash or diagonal lines). However symbols with diagonal lines (like e.g. "X") feel to much like protrusions and might lead future native-speaking children to intuit that 0 divided by both 2 and 3 with a rest of 2. The community wanted something with a smooth surface. A dash was ruled out, because it clashes with the minus-operator. Also a horizontal line is used to construct the corresponding vowel symbols. In the end, the Arabic 0 became a candidate, because it helps intuit that 0 divides without remainder by both 2 and 3, but it's not a perfect circle, so native-speaking children might intuit there is something special about that number.
 
 ## Phonological Values
 

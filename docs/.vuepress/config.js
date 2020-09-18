@@ -67,6 +67,7 @@ module.exports = {
                                 "NumberBase",
                                 "PhonologicalValues",
                                 "OrthographicNumerals",
+                                "OrthographicSymbols",
                                 "NumberWords",
                                 "WordOrder",
                                 "Mathematics",
