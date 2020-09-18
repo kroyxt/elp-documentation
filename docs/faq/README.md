@@ -78,27 +78,6 @@ primary decider on what knowledge is encapsulated and isn't will be pertinence
 of usage for school-age children. The aim is to store the fundamental concepts
 of each of these disciplines, not the entire discipline itself.
 
-## How is mathematical and scientific information encapsulated?
-
-An example of encapsulation can be found in the
-[Official Proposal](https://www.reddit.com/r/EncapsulatedLanguage/comments/hvmhsr/official_proposal_vote_to_officialise_the_numeral/)
-for the numerals. The numerals have the following information cached within them:
-
-- 3x multiplication table (Any numeral that consists of three strokes belongs to
-  the 3x multiplication table)
-
-- 4x multiplication table (Any numeral that contains only horizontal bars
-  belongs to the 4x multiplication table)
-
-- All numerals representing a number greater than 4 are built from the numerals
-  1, 2, 3, or 4.
-
-A child who speaks this language natively would be taught how to recognise all
-the patterns that exist within their language. In the case of the numerals, they
-would be taught how to recognise the 3x and 4x multiplication tables visually.
-They'd also intuitively learn that numbers like 6 are actually additions
-consisting of 4 + 2.
-
 ## How do we intend on protecting the language against language degradation?
 
 It's vitally important to the success of the Language that the mathematical and
