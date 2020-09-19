@@ -15,6 +15,8 @@ diphthongs:
 | ------------ | -- | -- | -- | -- | -- | -- |
 | Romanization | ai | ei | oi | au | eu | ou |
 
+The /ʔ/ is written as an apostrophe when it's immediately before an approximate or between two vowels that would otherwise make a diphthong.
+
 The Encapsulated Language uses the following two systems of romanization for
 the vowels:
 
@@ -37,6 +39,7 @@ too difficult to type.
 
 | Approved Date |             Vote Summary             | Link                                                                                                                                                                      |
 | ------------- | :----------------------------------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 19/09/2020    |          18 for / 1 against          | [See](https://www.reddit.com/r/EncapsulatedLanguage/comments/iuil09/official_proposal_vote_to_officialize_an/)               |
 | 19/08/2020    |          18 for / 7 against          | [See](https://www.reddit.com/r/EncapsulatedLanguage/comments/ib7uqe/official_proposal_vote_to_change_the_alternative/)                                                             |
 | 12/08/2020    |          21 for / 6 against          | [See](https://www.reddit.com/r/EncapsulatedLanguage/comments/i74ttc/official_proposal_vote_to_establish_an_official/)                                                             |
 
