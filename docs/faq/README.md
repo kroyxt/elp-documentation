@@ -138,13 +138,13 @@ A vote on an Official Proposal is only valid if it fulfills all of the following
 
 4. The Official Proposal has one of the following sets of voting options:
 
-  - **I vote to ACCEPT the Proposal** and **I vote to REJECT the Proposal**.
+   - **I vote to ACCEPT the Proposal** and **I vote to REJECT the Proposal**.
 
-  - **I vote to ACCEPT the Modification** and **I vote to REJECT the Modification**.
+   - **I vote to ACCEPT the Modification** and **I vote to REJECT the Modification**.
 
-  - **I vote to KEEP option A** and **I vote to KEEP option B**.
+   - **I vote to KEEP option A** and **I vote to KEEP option B**.
 
-  - **I vote to REMOVE the rule** and **I vote to KEEP the rule**.
+   - **I vote to REMOVE the rule** and **I vote to KEEP the rule**.
 
 5. The Official Proposal has no more than three voting options, one of which must be the dud-voting option, “I don’t care” which isn’t counted in the final tally.
 
