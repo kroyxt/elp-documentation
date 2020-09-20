@@ -112,69 +112,79 @@ to protect the knowledge cached within it.
 
 ## What is the process to change the language or expand on the language?
 
-In order to make changes to the language, the following process needs to be
-adhered to.
+In order to make changes or additions to the Language, the following process needs to be adhered to.
 
-1. The **Proponent** of the change or addition needs to clearly define what
-   aspect of the language they think needs to be changed or added to.
+1. The **Proponent** of the change or addition needs to clearly define what aspect of the language they think needs to be changed or added to.
 
-2. The **Proponent** then needs to check the “Encapsulated Language Project
-   Documentation” to see whether any existing Draft Proposal covers their proposed
-   changes or additions.
+2. The **Proponent** then needs to check the “Encapsulated Language Project Documentation” to see whether any existing Draft Proposal covers their proposed changes or additions.
 
-   - If there’s an existing **Draft Proposal**, then the proponent should throw
-     their support behind that proposal.
+   - If there’s an existing **Draft Proposal**, then the proponent should throw their support behind that proposal.
 
-   - If there isn’t an existing **Draft Proposal**, then the proponent should
-     post their [Draft Proposal](https://www.reddit.com/r/EncapsulatedLanguage/)
-     for feedback.
+   - If there isn’t an existing Draft Proposal, then the proponent should post their [Draft Proposal](https://www.reddit.com/r/EncapsulatedLanguage/) for feedback.
 
-3. The **Proponent** should acknowledge community feedback and update their
-   Draft Proposal accordingly.
+3. The **Proponent** should acknowledge community feedback and update their Draft Proposal accordingly.
 
-4. If a **Draft Proposal** generates enough community feedback / support, the
-   Proponent can send their finalized Proposal to the
-   **Official Proposal Committee**. The Official Proposal Committee will review
-   the Proposal and either accept or reject the Proposal based on their mandate.
-   If the Proposal is accepted /u/ActingAustralia (Richard Delamore) will organise
-   a community vote asking the community to either accept or reject the proposal.
-   Members of the community will have 2 or 3 days to vote in the poll (depending
-   on the severity of the change). If the Official Proposal gets 50% or more
-   support, the Proposal will be promoted to an Official Proposal.
+4. If a **Draft Proposal** generates enough community feedback / support, the Proponent can send their finalized Proposal to the **Official Proposal Committee**. The Official Proposal Committee will review the Proposal and either accept or reject the Proposal based on their mandate. If the Proposal is accepted /u/ActingAustralia (Richard Delamore) will organise a community vote asking the community to either accept or reject the proposal. Members of the community will have 2 or 3 days to vote in the poll (depending on the severity of the change). If the potential Official Proposal gets more than 50% support, the Proposal will be promoted to an Official Proposal.
+
+## What is a valid vote on an Official Proposal?
+
+A vote on an Official Proposal is only valid if it fulfills all of the following criteria:
+
+1. The Official Proposal is posted to the [Subreddit](https://www.reddit.com/r/EncapsulatedLanguage/).
+
+2. The Official Proposal is in accordance with the aims and goals of the Language.
+
+3. The Official Proposal is posted by /u/ActingAustralia (Richard Delamore).
+
+4. The Official Proposal has one of the following sets of voting options:
+
+  - **I vote to ACCEPT the Proposal** and **I vote to REJECT the Proposal**.
+
+  - **I vote to ACCEPT the Modification** and **I vote to REJECT the Modification**.
+
+  - **I vote to KEEP option A** and **I vote to KEEP option B**.
+
+  - **I vote to REMOVE the rule** and **I vote to KEEP the rule**.
+
+5. The Official Proposal has no more than three voting options, one of which must be the dud-voting option, “I don’t care” which isn’t counted in the final tally.
+
+6. The Official Proposal is posted at least 48 hours after the original Draft Proposal, which the Official Proposal is based on, was posted.
+
+## What happens if a vote on an Official Proposal results in a tie?
+
+In a vote that requires the Official Proposal to be either accepted, rejected or removed, the Official Proposal is automatically rejected.
+
+In a vote that requires one Official Proposal to be kept and another Official Proposal to be discarded, both Official Proposals remain unchanged. 
 
 ## What is the Official Proposal Committee?
 
-The Official Proposal Committee is responsible for ensuring that all Draft
-Proposals seeking officialisation through community vote adhere to the aims and
-goals of the Language.
+The Official Proposal Committee is responsible for ensuring that all Draft Proposals seeking officialisation through community vote adhere to the aims and goals of the Language.
 
 **Submission of Proposals**
 
-The Proponent must send their finalized Draft Proposal to any member of the
-Official Proposal Committee with a request for Officialisation.
+The Proponent must send their finalized Draft Proposal to any member of the Official Proposal Committee with a request for Officialisation.
 
 **Review of Proposals**
 
-- The Official Proposal Committee must ensure that all Draft Proposals seeking
-  officialisation through community vote adhere to the aims and goals of the Language.
+- The Official Proposal Committee must ensure that all Draft Proposals seeking officialisation through community vote adhere to the aims and goals of the Language.
 
-- The Official Proposal Committee must provide a proponent of a rejected Draft
-  Proposal with a reason for why the Proposal was rejected.
+- The Official Proposal Committee must provide a proponent of a rejected Draft Proposal with a reason for why the Proposal was rejected.
 
-- If a vote to accept/reject a Proposal results in a tie, /u/ActingAustralia
-  (Richard Delamore) will act as the tie breaker.
+- If a vote to accept/reject a Proposal results in a tie, /u/ActingAustralia (Richard Delamore) will act as the tie breaker.
+
+**Cancellation of votes on Official Proposals**
+
+The Official Proposal Committee can cancel a vote on an Official Proposal after the vote has started if a fatal flaw is found in the Proposal and the majority of the Official Proposal Committee members agree by committee vote.
 
 **Membership**
 
 - The Official Proposal Committee consists of exactly six members.
 
-- If a member retires from the committee or becomes inactive, the other members
-  of the committee can vote to remove him/her. A vote for removal requires
-  majority support among committee members.
+- If a member retires from the committee or becomes inactive, the other members of the committee can vote to remove him/her. A vote for removal requires majority support among committee members.
 
-- The committee can choose to fill a vacant position by any means it desires,
-  however, the new committee member must have a strong record of consistent and
-  active participation in the project to be eligible.
+- The committee can choose to fill a vacant position by any means it desires, however, the new committee member must have a strong record of consistent and active participation in the project to be eligible.
+
+- Ex-committee members may remain in the Official Proposal Committee to provide advice to current committee members, but they have no voting power.
 
 **Current Committee Members**
 
