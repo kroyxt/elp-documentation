@@ -14,9 +14,9 @@ Numerals are placed in decreasing order of value.
 | 11/09/2020    | 13 for / 5 against | [See](https://www.reddit.com/r/EncapsulatedLanguage/comments/ip8erm/official_proposal_vote_to_set_the_order_of_the/) |
 | 29/08/2020    | 12 for / 4 against | [See](https://www.reddit.com/r/EncapsulatedLanguage/comments/ihfgp0/official_proposal_vote_to_officialize_the/) |
 
-## Single-Digit Number Words
+## Mononumeral Number Words
 
-Single-digit numbers are built from the consonant and vowel that represents their value in the [Phonological Value](https://kroyxlab.github.io/elp-documentation/proposals/official/PhonologicalValues.html) system plus the consonant "n".
+The mononumeral number words are built from the consonant and vowel that represents their value in the [Numeral-Phoneme Mapping](https://kroyxlab.github.io/elp-documentation/proposals/official/PhonologicalValues.html) system plus the consonant "n".
 
 | Numbers | Number Word |
 | ------- | ----------- |
@@ -33,7 +33,7 @@ Single-digit numbers are built from the consonant and vowel that represents thei
 | X (10)  | dzhēn       |
 | E (11)  | tshōn       |
 
-The single-digit number system can also be used to express a string of digits
+The mononumeral number system can also be used to express a string of digits
 such as a phone number
 For example, **(605) 475 6968** can be expressed as **zhīn vin son - zen shūn
 son - zhīn tsān zhīn dzȳn**
@@ -44,7 +44,7 @@ son - zhīn tsān zhīn dzȳn**
 
 ## Trinumeral Number Words (10 - EEE)
 
-The number words (10 - EEE) are called trinumeral number words. They are built from the consonant, vowel, consonant that represents their value in the [Phonological Value](https://kroyxlab.github.io/elp-documentation/proposals/official/PhonologicalValues.html) system, which, when combined, give whole digit numbers.
+The number words (10 - EEE) are called trinumeral number words. They are built from the consonant, vowel, consonant that represents their value in the [Numeral-Phoneme Mapping](https://kroyxlab.github.io/elp-documentation/proposals/official/PhonologicalValues.html) system, which, when combined, give whole digit numbers.
 
 Trinumerals are built using the following rules:
 
@@ -57,7 +57,7 @@ Trinumerals are built using the following rules:
 place. Dozen is 12 in base-10 which is the base-12 equivalent of the tens
 place.
 
-Number 0-E (0 - 11 in base-10) are left out of this list because single-digit
+Number 0-E (0 - 11 in base-10) are left out of this list because the mononumeral
 numbers have a special dual purpose as being the first countable numbers in the
 set as well as being the means of communication for speaking these numbers.
 
@@ -81,7 +81,7 @@ Examples:
 
 The Encapsulated Language uses the following numeric prefixes.
 
-The numeric prefixes are used as an extension to the base number word system to represent the magnitude of a value. They form number words similar to “million” and “billion” in English, but allow a greater level of precision that scientific notation is normally capable of expressing. They aren't built using values from the [Phonological Value](https://kroyxlab.github.io/elp-documentation/proposals/official/PhonologicalValues.html) system.
+The numeric prefixes are used as an extension to the base number word system to represent the magnitude of a value. They form number words similar to “million” and “billion” in English, but allow a greater level of precision that scientific notation is normally capable of expressing. They aren't built using values from the [Numeral-Phoneme Mapping](https://kroyxlab.github.io/elp-documentation/proposals/official/PhonologicalValues.html) system.
 
 | Numeric Prefix | Value   |
 | -------------- | ------- |
@@ -98,7 +98,7 @@ The numeric prefixes are used as an extension to the base number word system to 
 | ja-            | 1000^10 |
 | ou-            | 1000^11 |
 
-Examples of numeric prefix use with single-digit number words:
+Examples of numeric prefix use with mononumeral number words:
 
 | Numbers       | Numeric Prefix |
 | ------------- | -------------- |

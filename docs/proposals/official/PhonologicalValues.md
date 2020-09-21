@@ -1,4 +1,4 @@
-# Phonological Values
+# Numeral-Phoneme Mapping
 
 ::: tip This section is no longer valid due to the recent Officialization of Base-6 :::
 
@@ -17,7 +17,7 @@ The following phonemes have inherent numerical values in the Encapsulated Langua
 | 6 - 8   | ī   | ū   | ȳ   |
 | 9 - E   | ā   | ē   | ō   |
 
-[What do the phonological values encapsulate?](https://kroyxlab.github.io/elp-documentation/encapsulation.html#phonological-values)
+[What do the Numeral-Phoneme Mapping encapsulate?](https://kroyxlab.github.io/elp-documentation/encapsulation.html#phonological-values)
 
 | Approved Date |    Vote Summary    | Link                                                                                                          |
 | ------------- | :----------------: | ------------------------------------------------------------------------------------------------------------- |

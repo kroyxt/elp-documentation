@@ -50,9 +50,9 @@ From the point of view of divisibility, we'd want something like a circle, becau
 
 The community discussed alternatives, such as to use a third signifier, something that is neither an arch nor a vertical line (e.g. a dash or diagonal lines). However symbols with diagonal lines (like e.g. "X") feel to much like protrusions and might lead future native-speaking children to intuit that 0 divided by both 2 and 3 with a rest of 2. The community wanted something with a smooth surface. A dash was ruled out, because it clashes with the minus-operator. Also a horizontal line is used to construct the corresponding vowel symbols. In the end, the Arabic 0 became a candidate, because it helps intuit that 0 divides without remainder by both 2 and 3, but it's not a perfect circle, so native-speaking children might intuit there is something special about that number.
 
-## Phonological Values
+## Numeral-Phoneme Mapping
 
-The phonological values encapsulate the following mathematical knowledge:
+The Numeral-Phoneme Mapping encapsulates the following mathematical knowledge:
 
 ### Consonant Evenness and 2x Multiplication
 
