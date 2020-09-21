@@ -13,7 +13,7 @@ Proposals are in accordance with the aims and goals of the Language.
 
 ## Standardization
 
-The Official Encapsulated Documentation exclusively uses the adjective / noun, "senary" for Base-6.
+The Encapsulated Language Documentation exclusively uses the adjective / noun, "senary" for Base-6.
 
 | Approved Date |    Vote Summary    | Link                                                                                                                  |
 | ------------- | :----------------: | --------------------------------------------------------------------------------------------------------------------- |
