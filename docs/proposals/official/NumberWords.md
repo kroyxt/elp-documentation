@@ -81,7 +81,7 @@ Examples:
 
 The Encapsulated Language uses the following numeric prefixes.
 
-The numeric prefixes are used as an extension to the base number word system to represent the magnitude of a value. They form number words similar to “million” and “billion” in English, but allow a greater level of precision that scientific notation is normally capable of expressing. They aren't built using values from the [Numeral-Phoneme Mapping](https://kroyxlab.github.io/elp-documentation/proposals/official/PhonologicalValues.html) system.
+The numeric prefixes use a Base-12 positional system and act as an extension to the base number word system to represent the magnitude of a value. They form number words similar to “million” and “billion” in English, but allow a greater level of precision than scientific notation is normally capable of expressing. The numeric prefixes aren't built using values from the [Numeral-Phoneme Mapping](https://kroyxlab.github.io/elp-documentation/proposals/official/PhonologicalValues.html) system. The numeric prefixes can be stacked.
 
 | Numeric Prefix | Value   |
 | -------------- | ------- |
@@ -121,10 +121,19 @@ Examples of numeric prefix use with trinumerals:
 | 5 649 67E  | **jo**son **wa**zhets **ei**zhūtsh  | 5 \* 1000^6 + 649 \* 1000^3 + 67E \* 1000^0  |
 | E 44X 236  | **jo**tshōn **wa**zedzh **ei**ghazh | E \* 1000^6 + 44X \* 1000^3 + 236 \* 1000^0  |
 
-| Approved Date |    Vote Summary    | Link                                                                                                               |
-| ------------- | :----------------: | ------------------------------------------------------------------------------------------------------------------ |
-| 05/08/2020    | 15 for / 4 against | [See](https://www.reddit.com/r/EncapsulatedLanguage/comments/i2ttzh/official_proposal_vote_to_change_the_numeric/) |
-| 02/08/2020    | 21 for / 3 against | [See](https://www.reddit.com/r/EncapsulatedLanguage/comments/i12ryt/official_proposal_vote_to_officialize_a/)      |
+Examples of numeric prefix stacking:
+
+| Number Word | Breakdown   |
+| ----------- | ----------- |
+| waeifun     | 1 \* 216^12 |
+| wawafun     | 1 \* 216^13 |
+| wajofun     | 1 \* 216^14 |
+
+| Approved Date |    Vote Summary    | Link                                                                                                                 |
+| ------------- | :----------------: | -------------------------------------------------------------------------------------------------------------------- |
+| 24/09/2020    | 7 for / 3 against | [See](https://www.reddit.com/r/EncapsulatedLanguage/comments/ixfke9/official_proposal_vote_to_clarify_the_magnitude/) |
+| 05/08/2020    | 15 for / 4 against | [See](https://www.reddit.com/r/EncapsulatedLanguage/comments/i2ttzh/official_proposal_vote_to_change_the_numeric/)   |
+| 02/08/2020    | 21 for / 3 against | [See](https://www.reddit.com/r/EncapsulatedLanguage/comments/i12ryt/official_proposal_vote_to_officialize_a/)        |
 
 ## Dozenal fraction
 
