@@ -7,9 +7,9 @@ The Encapsulated Language uses the following systems of romanization.
 The Encapsulated Language uses the following romanization for consonants and
 diphthongs:
 
-| IPA          | ʃ  | ʒ  | t͡s | d͡z | t͡ʃ  | d͡ʒ  | ɾ | x  | ɣ  |
-| ------------ | -- | -- | -- | -- | --- | --- | - | -- | -- |
-| Romanization | sh | zh | ts | dz | tsh | dzh | r | kh | gh |
+| IPA          | ɕ  | ʑ  | ɾ | x  | ɣ  | c           | ɟ           | ɲ           | ŋ           |
+| ------------ | -- | -- | --| -- | -- | ----------- | ----------- | ----------- | ----------- |
+| Romanization | sh | zh | r | kh | gh | Unspecified | Unspecified | Unspecified | Unspecified |
 
 | IPA          | ai̯ | ei̯ | oi̯ | au̯ | eu̯ | ou̯ |
 | ------------ | -- | -- | -- | -- | -- | -- |
@@ -39,6 +39,8 @@ too difficult to type.
 
 | Approved Date |             Vote Summary             | Link                                                                                                                                                                      |
 | ------------- | :----------------------------------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 3/10/2020    |          8 for / 3 against          | [See](https://www.reddit.com/r/EncapsulatedLanguage/comments/j2xalm/official_proposal_vote_to_modify_the_phonemic/)
+| 3/10/2020    |          6 for / 4 against          | [See](https://www.reddit.com/r/EncapsulatedLanguage/comments/j2xd5a/official_proposal_vote_to_modify_the_phonemic/)               |
 | 19/09/2020    |          18 for / 1 against          | [See](https://www.reddit.com/r/EncapsulatedLanguage/comments/iuil09/official_proposal_vote_to_officialize_an/)               |
 | 19/08/2020    |          18 for / 7 against          | [See](https://www.reddit.com/r/EncapsulatedLanguage/comments/ib7uqe/official_proposal_vote_to_change_the_alternative/)                                                             |
 | 12/08/2020    |          21 for / 6 against          | [See](https://www.reddit.com/r/EncapsulatedLanguage/comments/i74ttc/official_proposal_vote_to_establish_an_official/)                                                             |

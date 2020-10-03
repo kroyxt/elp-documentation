@@ -6,14 +6,13 @@ The Encapsulated Language uses the following phonology:
 
 The Encapsulated Language uses the following phonemes.
 
-|             | Bilabial | Alveolar | Post-Alveolar | Palatal | Velar | Glottal |
-| ----------- | -------- | -------- | ------------- | ------- | ----- | ------- |
-| Nasal       | m        | n        |               |         |       |         |
-| Plosive     | p b      | t d      |               |         | k g   | ʔ       |
-| Fricative   | f v      | s z      | ʃ ʒ           |         | x ɣ   |         |
-| Affricate   |          | t͡s d͡z    | t͡ʃ d͡ʒ         |         |       |         |
-| Approximant |          | l        |               | j       | w     |         |
-| Tap or Flap |          | ɾ        |               |         |       |         |
+|             | Labial | Alveolar | Palatal | Velar | Glottal |
+| ----------- | ------ | -------- | ------- | ----- | ------- |
+| Nasal       | m      | n        | ɲ       | ŋ     |         |
+| Plosive     | p b    | t d      | c ɟ     | k g   | ʔ       |
+| Fricative   | f v    | s z      | ɕ ʑ     | x ɣ   |         |
+| Approximant |        | l        | j       | w     |         |
+| Tap or Flap |        | ɾ        |         |       |         |
 
 |      | Front     | Back |
 | ---- | --------- | ---- |
@@ -28,6 +27,8 @@ The Encapsulated Language uses the following phonemes.
 
 | Approved Date |             Vote Summary             | Link                                                                                                                                                                      |
 | ------------- | :----------------------------------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 3/10/2020    |          8 for / 3 against          | [See](https://www.reddit.com/r/EncapsulatedLanguage/comments/j2xalm/official_proposal_vote_to_modify_the_phonemic/)
+| 3/10/2020    |          6 for / 4 against          | [See](https://www.reddit.com/r/EncapsulatedLanguage/comments/j2xd5a/official_proposal_vote_to_modify_the_phonemic/)        
 | 14/09/2020    |          10 for / 12 for other proposals          | [See](https://www.reddit.com/r/EncapsulatedLanguage/comments/ir5vzj/official_proposal_vote_to_replace_the_vowel_value/)                                                             |
 | 09/09/2020    |          9 for / 5 against          | [See](https://www.reddit.com/r/EncapsulatedLanguage/comments/io4zoz/official_proposal_vote_to_modify_the_phonotactics/)                                                             |
 | 02/08/2020    |          24 for / 3 against          | [See](https://www.reddit.com/r/EncapsulatedLanguage/comments/i12ryt/official_proposal_vote_to_officialize_a/)                                                             |
@@ -45,7 +46,7 @@ A syllable is built from an onset, an approximate, a nucleus, and a coda in that
 
 **Onset Phoneme group:**
 
-The onset phoneme group contains /p/, /b/, /t/, /d/, /k/, /g/, /ʔ/, /m/, /n/, /ɾ/, /f/, /v/, /s/, /z/, /ʃ/, /ʒ/, /x/, /ɣ/, /ts/, /dz/, /tʃ/, /dʒ/, /j/, /l/ and /w/
+The onset phoneme group contains /p/, /b/, /t/, /d/, /k/, /g/, /ʔ/, /m/, /n/, /ɾ/, /f/, /v/, /s/, /z/, /ɕ/, /ʑ/, /x/, /ɣ/, /j/, /l/, /c/, /ɟ/, /ɲ/, /ŋ/ and /w/
 
 **Approximant Phoneme group:**
 
@@ -57,10 +58,12 @@ The nucleus phoneme group contains /i/, /iː/, /y/, /yː/, /u/, /uː/, /e/, /eː
 
 **Coda Phoneme group:**
 
-The coda phoneme group contains a null phoneme, /p/, /b/, /t/, /d/, /k/, /g/, /m/, /n/, /ɾ/, /f/, /v/, /s/, /z/, /ʃ/, /ʒ/, /x/, /ɣ/, /ts/, /dz/, /tʃ/, and /dʒ/
+The coda phoneme group contains a null phoneme, /p/, /b/, /t/, /d/, /k/, /g/, /n/, /ɾ/, /f/, /v/, /s/, /z/, /ɕ/, /ʑ/, /x/, /ɣ/, /c/ and /ɟ/
 
 | Approved Date |    Vote Summary    | Link                                                                                                                    |
 | ------------- | :----------------: | ----------------------------------------------------------------------------------------------------------------------- |
+| 3/10/2020     | 8 for / 3 against  | [See](https://www.reddit.com/r/EncapsulatedLanguage/comments/j2xalm/official_proposal_vote_to_modify_the_phonemic/)
+| 3/10/2020     | 6 for / 4 against  | [See](https://www.reddit.com/r/EncapsulatedLanguage/comments/j2xd5a/official_proposal_vote_to_modify_the_phonemic/)
 | 18/09/2020    | 11 for / 3 against | [See](https://www.reddit.com/r/EncapsulatedLanguage/comments/itk52y/official_proposal_vote_to_clarify_the_phonotactics/)    |
 | 09/09/2020    | 9 for / 5 against | [See](https://www.reddit.com/r/EncapsulatedLanguage/comments/io4zoz/official_proposal_vote_to_modify_the_phonotactics/)    |
 | 09/09/2020    | 12 for / 2 against | [See](https://www.reddit.com/r/EncapsulatedLanguage/comments/io4yox/official_proposal_vote_to_modify_the_phonotactics/)    |
