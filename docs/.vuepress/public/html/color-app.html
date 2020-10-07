@@ -16,9 +16,10 @@ let ReferenceZ=108.883;
 function hexify(d) {
     return ('00'+Math.round(d).toString(16)).slice(-2);
 }
-let meanings = {"vin":"0","fun":"1","ghyn":"2","khan":"3","zen":"4","son":"5","ʒihn":"6","ʃuhn":"7","dzyhn":"8","tsahn":"9","dʒehn":"A","tʃohn":"B","wil":"C", "ei":0, "wa":1, "jo":2, "eu":3, "ai":4, "wo":5, "je":6, "au":7, "oi":8, "we":9, "ja":10, "ou":11};
-let c=["v","f","gh","kh","z","s","ʒ","ʃ","dz","ts","dʒ","tʃ"];
-let v=["i","u","y","a","e","o","ih","uh","yh","ah","eh","oh"];
+let meanings = {"ʃen":"0","sin":"1","fan":"2","ʒyn":"3","zon":"4","vun":"5","wil":"C", "ei":0, "uwa":1, "ijo":2, "eu":3, "ai":4, "uwo":5, "ije":6, "au":7, "oi":8, "uwe":9, "ija":10, "ou":11};
+//meanings = {"shen":"0","sin":"1","fan":"2","zhyn":"3","zon":"4","vun":"5","wil":"C", "ei":0, "ua":1, "io":2, "eu":3, "ai":4, "uo":5, "ie":6, "au":7, "oi":8, "ue":9, "ia":10, "ou":11};
+let c=["ʃ","s","f","ʒ","z","v"];
+let v=["e","i","a","y","o","u"];
 for(let c1 in c){
 	for(let v1 in v){
 		for(let c2 in c){
@@ -26,14 +27,14 @@ for(let c1 in c){
 		}
 	}
 }
-let macrons={	"\u0101":"ah",
-				"\u0113":"eh",
-				"\u012B":"ih",
-				"\u014D":"oh",
-				"\u016B":"uh",
-				"\u0233":"yh",
-				"\u0304":"h",
-				}
+//let macrons={	"\u0101":"ah",
+//				"\u0113":"eh",
+//				"\u012B":"ih",
+//				"\u014D":"oh",
+//				"\u016B":"uh",
+//				"\u0233":"yh",
+//				"\u0304":"h",
+//				}
 function add12(num1,num2){
 	num1=num1.padStart(Math.max(num1.length,num2.length),"0")
 	num2=num2.padStart(Math.max(num1.length,num2.length),"0")
@@ -86,11 +87,11 @@ function convert()
 	while (input.indexOf("zh")>-1){
 		input=input.replace("zh","ʒ")
 	}
-	for(let m in macrons){
-		while (input.indexOf(m)>-1){
-			input=input.replace(m,macrons[m])
-		}
-	}
+	//for(let m in macrons){
+	//	while (input.indexOf(m)>-1){
+	//		input=input.replace(m,macrons[m])
+	//	}
+	//}
 
 	//set default output text and set up vars
 	var output = "INVALID INPUT";
@@ -111,7 +112,7 @@ function convert()
 			i=0
 		}
 	}
-
+	
 	//make sure "color" is in the input and only once
 	if (array.filter(function(x){ return x === "C"; }).length==1){
 
@@ -120,7 +121,7 @@ function convert()
 		mult=0
 		for(R in ram){
 			if(typeof(ram[R])==="number"){
-				mult=mult+ram[R]
+				mult=mult*6+ram[R]
 			}else{
 				if(ram[R]!=="C"){
 					array.push(ram[R]+"".padEnd(mult*3,"0"))
@@ -131,7 +132,7 @@ function convert()
 			}
 		}
 		array.push("C")
-
+		console.log(array)
 		ram=array
 		array=[]
 		total="0"
