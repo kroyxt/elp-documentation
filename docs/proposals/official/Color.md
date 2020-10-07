@@ -1,5 +1,7 @@
 # Color
 
+::: tip This section is currently being updated by the Official Proposal Committee and will be corrected soon :::
+
 The Encapsulated Language constructs colors in the following way:
 
 If **head initial** is Officialized, then color words are formed in the

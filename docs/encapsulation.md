@@ -54,73 +54,39 @@ The community discussed alternatives, such as to use a third signifier, somethin
 
 The Numeral-Phoneme Mapping encapsulates the following mathematical knowledge:
 
-### Consonant Evenness and 2x Multiplication
+### Consonants
 
-| Number | Consonant | Voicing  | Evenness | 2x Multiplication |
-| ------ | --------- | -------- | -------- | ----------------- |
-| 0      | v         | Voiced   | Even     | Yes               |
-| 1      | f         | Unvoiced | Odd      | No                |
-| 2      | gh        | Voiced   | Even     | Yes               |
-| 3      | kh        | Unvoiced | Odd      | No                |
-| 4      | z         | Voiced   | Even     | Yes               |
-| 5      | s         | Unvoiced | Odd      | No                |
-| 6      | zh        | Voiced   | Even     | Yes               |
-| 7      | sh        | Unvoiced | Odd      | No                |
-| 8      | dz        | Voiced   | Even     | Yes               |
-| 9      | ts        | Unvoiced | Odd      | No                |
-| X (10) | dzh       | Voiced   | Even     | Yes               |
-| E (11) | tsh       | Unvoiced | Odd      | No                |
+| Number | Phoneme | Place of Articulation | Voicing  |
+| ------ | ------- | --------------------- | -------- |
+| 0      | ɕ       | Palatal               | Unvoiced |
+| 1      | s       | Alveolar              | Unvoiced |
+| 2      | f       | Labial                | Unvoiced |
+| 3      | ʑ       | Palatal               | Voiced   |
+| 4      | z       | Alveolar              | Voiced   |
+| 5      | v       | Labial                | Voiced   |
 
-### Vowel Division by Halves
+- Post-Alveolars are a multiple of three.
+- Alveolars are one greater than a multiple of three.
+- Labials are one less than a multiple of three.
+- Unvoiced consonants are greater than or equal to 0 and less than 3.
+- Voiced consonants are greater than or equal to 3 and less than 10 (Base-6).
 
-| Number | Vowels | Length | Halves   |
-| ------ | ------ | ------ | -------- |
-| 0      | i      | Short  | 1st half |
-| 1      | u      | Short  | 1st half |
-| 2      | y      | Short  | 1st half |
-| 3      | a      | Short  | 1st half |
-| 4      | e      | Short  | 1st half |
-| 5      | o      | Short  | 1st half |
-| 6      | ī      | Long   | 2nd half |
-| 7      | ū      | Long   | 2nd half |
-| 8      | ȳ      | Long   | 2nd half |
-| 9      | ā      | Long   | 2nd half |
-| X (10) | ē      | Long   | 2nd half |
-| E (11) | ō      | Long   | 2nd half |
+### Vowels
 
-### Vowel Division by Quarters
+| Number | Phoneme | Openness | Position |
+| ------ | ------- | -------- | -------- |
+| 0      | e       | Open     | Front    |
+| 1      | i       | Closed   |	Front    |
+| 2      | a       | Open     |	Mid      |
+| 3      | y       | Closed   |	Mid      |
+| 4      | o       | Open     |	Back     |
+| 5      | u       | Closed   |	Back     |
 
-| Number | Vowels | Group | Quarters |
-| ------ | ------ | ----- | -------- |
-| 0      | i      | iuy   | 1st ¼    |
-| 1      | u      | iuy   | 1st ¼    |
-| 2      | y      | iuy   | 1st ¼    |
-| 3      | a      | aeo   | 2nd ¼    |
-| 4      | e      | aeo   | 2nd ¼    |
-| 5      | o      | aeo   | 2nd ¼    |
-| 6      | ī      | iuy   | 3rd ¼    |
-| 7      | ū      | iuy   | 3rd ¼    |
-| 8      | ȳ      | iuy   | 3rd ¼    |
-| 9      | ā      | aeo   | 4th ¼    |
-| X (10) | ē      | aeo   | 4th ¼    |
-| E (11) | ō      | aeo   | 4th ¼    |
-
-### Consonant Division by Sixths
-
-| Number | Consonant | Method of Articulation  | Sixths |
-| ------ | --------- | ----------------------- | ------ |
-| 0      | v         | Labial                  | 1st ⅙  |
-| 1      | f         | Labial                  | 1st ⅙  |
-| 2      | gh        | Velar                   | 2nd ⅙  |
-| 3      | kh        | Velar                   | 2nd ⅙  |
-| 4      | z         | Alveolar fricative      | 3rd ⅙  |
-| 5      | s         | Alveolar fricative      | 3rd ⅙  |
-| 6      | zh        | Post-alveolar fricative | 4th ⅙  |
-| 7      | sh        | Post-alveolar fricative | 4th ⅙  |
-| 8      | dz        | Alveolar affricate      | 5th ⅙  |
-| 9      | tsh       | Alveolar affricate      | 5th ⅙  |
-| X (10) | dzh       | Post-alveolar affricate | 6th ⅙  |
-| E (11) | tsh       | Post-alveolar affricate | 6th ⅙  |
+- Open vowels are even.
+- Closed vowels are odd.
+- Front vowels don't have any twos in them.
+- Mid vowels have 1x two in them.
+- Back vowels have 2x twos in them.
 
 ## Numeric Prefixes
 

@@ -42,26 +42,40 @@ The Encapsulated Language obeys the following phonotactic constraints:
 
 **Syllable Construction:**
 
-A syllable is built from an onset, an approximate, a nucleus, and a coda in that order.
+A syllable is built from an onset, an initial nucleus, a final nucleus, and a coda in that order.
 
 **Onset Phoneme group:**
 
 The onset phoneme group contains /p/, /b/, /t/, /d/, /k/, /g/, /ʔ/, /m/, /n/, /ɾ/, /f/, /v/, /s/, /z/, /ɕ/, /ʑ/, /x/, /ɣ/, /j/, /l/, /c/, /ɟ/, /ɲ/, /ŋ/ and /w/
 
-**Approximant Phoneme group:**
+**Initial and Final Nucleus Phoneme group:**
 
-The approximant phoneme group contains a null phoneme, /j/, /l/, and /w/
-
-**Nucleus Phoneme group:**
-
-The nucleus phoneme group contains /i/, /iː/, /y/, /yː/, /u/, /uː/, /e/, /eː/, /o/, /oː/, /a/, /aː/, /ai/, /ei/, /oi/, /au/, /eu/, and /ou/
+The nucleus phoneme group contains /i/, /iː/, /y/, /yː/, /u/, /uː/, /e/, /eː/, /o/, /oː/, /a/ and /aː/
 
 **Coda Phoneme group:**
 
 The coda phoneme group contains a null phoneme, /p/, /b/, /t/, /d/, /k/, /g/, /n/, /ɾ/, /f/, /v/, /s/, /z/, /ɕ/, /ʑ/, /x/, /ɣ/, /c/ and /ɟ/
 
+**Vowel pair realization:**
+
+- Two identical adjacent vowels become a single instance of that vowel.
+- /l/ is an epenthetic consonant between two vowels that do not form a legal diphthong.
+- /il/ becomes /ij/.
+- /ul/ becomes /uw/.
+
+|    |     |     |     |     |     |     |
+| -- | --- | --- | --- | --- | --- | --- |
+|    | _i  | _y  | _u  | _e  | _a  | _o  |
+| i_ | i   | ijy | iju | ije | ija | ijo |
+| y_ | yli | y   | ylu | yle | yla | ylo |
+| u_ | uwi | uwy | u   | uwe | uwa | uwo |
+| e_ | ei  | ely | eu  | e   | ela | elo |
+| a_ | ai  | aly | au  | ale | a   | alo |
+| o_ | oi  | oly | ou  | ole | ola | o   |
+
 | Approved Date |    Vote Summary    | Link                                                                                                                    |
 | ------------- | :----------------: | ----------------------------------------------------------------------------------------------------------------------- |
+| 8/10/2020     | 6 for / 5 against  | [See](https://www.reddit.com/r/EncapsulatedLanguage/comments/j5tkvh/official_proposal_vote_to_modify_the_phonotactics/)
 | 3/10/2020     | 8 for / 3 against  | [See](https://www.reddit.com/r/EncapsulatedLanguage/comments/j2xalm/official_proposal_vote_to_modify_the_phonemic/)
 | 3/10/2020     | 6 for / 4 against  | [See](https://www.reddit.com/r/EncapsulatedLanguage/comments/j2xd5a/official_proposal_vote_to_modify_the_phonemic/)
 | 18/09/2020    | 11 for / 3 against | [See](https://www.reddit.com/r/EncapsulatedLanguage/comments/itk52y/official_proposal_vote_to_clarify_the_phonotactics/)    |
