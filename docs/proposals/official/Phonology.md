@@ -12,7 +12,6 @@ The Encapsulated Language uses the following phonemes.
 | Plosive     | p b    | t d      | c ɟ     | k g   | ʔ       |
 | Fricative   | f v    | s z      | ɕ ʑ     | x ɣ   |         |
 | Approximant |        | l        | j       | w     |         |
-| Tap or Flap |        | ɾ        |         |       |         |
 
 |      | Front     | Back |
 | ---- | --------- | ---- |
@@ -27,6 +26,8 @@ The Encapsulated Language uses the following phonemes.
 
 | Approved Date |             Vote Summary             | Link                                                                                                                                                                      |
 | ------------- | :----------------------------------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 7/10/2020    |          12 for / 7 against          | [See](https://www.reddit.com/r/EncapsulatedLanguage/comments/j58nte/official_proposal_vote_to_removal_of_%C9%BE/)
+|
 | 3/10/2020    |          8 for / 3 against          | [See](https://www.reddit.com/r/EncapsulatedLanguage/comments/j2xalm/official_proposal_vote_to_modify_the_phonemic/)
 | 3/10/2020    |          6 for / 4 against          | [See](https://www.reddit.com/r/EncapsulatedLanguage/comments/j2xd5a/official_proposal_vote_to_modify_the_phonemic/)        
 | 14/09/2020    |          10 for / 12 for other proposals          | [See](https://www.reddit.com/r/EncapsulatedLanguage/comments/ir5vzj/official_proposal_vote_to_replace_the_vowel_value/)                                                             |

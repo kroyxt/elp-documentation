@@ -52,5 +52,11 @@ the underlying patterns of the new number word system.
 On the 9th of September 2020, the consonant /ʔ/ was introduced by a phonotactics 
 proposal to be the very first consonant in a syllable.
 
+On the 7th of October 2020, the phonology underwent several large changes. The phonemes 
+/t͡s/, /d͡z/, /t͡ʃ/, /d͡ʒ/, /ʃ/, /ʒ/ and /ɾ/ were removed or replaced with /c/, /ɟ/, /ɕ/ and /ʑ/ to 
+create a wider range of patterns for encapsulating data and to lower the risk of sound 
+mergers between phonemes. The consonants /ɲ/ and /ŋ/ were also introduced for 
+morphological purposes such as segmentation.
+
 The phonology is still considered highly unstable and further changes are
 expected.
