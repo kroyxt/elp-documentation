@@ -32,8 +32,6 @@ appropriate number words and numerals!
 
 ## Colors
 
-::: tip This app no longer works due to the recent Officialization of Base-6 :::
-
 This app visually shows the color a color word represents where physically possible.
 Just type the color word you want to see, and the app will generate the appropriate color!
 

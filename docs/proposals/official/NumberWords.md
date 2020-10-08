@@ -6,8 +6,7 @@ The Encapsulated Language constructs number words in the following ways:
 
 ## General Rules
 
-The Encapsulated Language starts counting ordinals from 0.
-Numerals are placed in decreasing order of value.
+The Encapsulated Language starts counting ordinals from 0. Digits are placed in decreasing order of value.
 
 | Approved Date |    Vote Summary    | Link                                                                                                            |
 | ------------- | :----------------: | --------------------------------------------------------------------------------------------------------------- |
@@ -20,58 +19,45 @@ The mononumeral number words are built from the consonant and vowel that represe
 
 | Numbers | Number Word |
 | ------- | ----------- |
-| 0       | vin         |
-| 1       | fun         |
-| 2       | ghyn        |
-| 3       | khan        |
-| 4       | zen         |
-| 5       | son         |
-| 6       | zhīn        |
-| 7       | shūn        |
-| 8       | dzȳn        |
-| 9       | tsān        |
-| X (10)  | dzhēn       |
-| E (11)  | tshōn       |
+| 0       | shen        |
+| 1       | sin         |
+| 2       | fan         |
+| 3       | zhyn        |
+| 4       | zon         |
+| 5       | vun         |
 
-The mononumeral number system can also be used to express a string of digits
-such as a phone number
-For example, **(605) 475 6968** can be expressed as **zhīn vin son - zen shūn
-son - zhīn tsān zhīn dzȳn**
+The mononumeral number system can also be used to express a string of digits such as a phone number For example, (205) 445 3215 can be expressed as fan shen vun zon zon vun zhyn fan sin vun.
 
 | Approved Date |    Vote Summary    | Link                                                                                                            |
 | ------------- | :----------------: | --------------------------------------------------------------------------------------------------------------- |
 | 02/08/2020    | 21 for / 3 against | [See](https://www.reddit.com/r/EncapsulatedLanguage/comments/i12ryt/official_proposal_vote_to_officialize_a/)   |
 
-## Trinumeral Number Words (10 - EEE)
+## Trinumeral Number Words (10 - 555)
 
-The number words (10 - EEE) are called trinumeral number words. They are built from the consonant, vowel, consonant that represents their value in the [Numeral-Phoneme Mapping](https://kroyxlab.github.io/elp-documentation/proposals/official/PhonologicalValues.html) system, which, when combined, give whole digit numbers.
+The number words (10 - 555) are called trinumeral number words. They are built from the consonant, vowel, consonant that represents their value in the [Numeral-Phoneme Mapping](https://kroyxlab.github.io/elp-documentation/proposals/official/PhonologicalValues.html) system, which, when combined, give whole digit numbers.
 
 Trinumerals are built using the following rules:
 
 - Phonemes in numbers are organized in a CVC fashion.
-- The first number in the gross\* place will receive a consonant.
-- The second number in the dozens\* place will receive a vowel.
+- The first number in the 100s\* place will receive a consonant.
+- The second number in the 10s\* place will receive a vowel.
 - The last number in the one's place will receive a consonant.
 
-* Gross is 144 in base-10 which is the base-12 equivalent of the hundreds
-place. Dozen is 12 in base-10 which is the base-12 equivalent of the tens
-place.
+* 100 in base-6 is 36 in base-10 which is the base-6 equivalent of the hundreds place. 10 in base-6 is 6 in base-10 which is the base-6 equivalent of the tens place.
 
-Number 0-E (0 - 11 in base-10) are left out of this list because the mononumeral
-numbers have a special dual purpose as being the first countable numbers in the
-set as well as being the means of communication for speaking these numbers.
+The numbers 0-5 are left out of this list because single-digit numbers have a special dual purpose as being the first countable numbers in the set as well as being the means of communication for speaking these numbers.
 
 Examples:
 
-| Numbers (base-12) | Trinumeral |
-| ----------------- | ---------- |
-| 10                | vuv        |
-| 11                | vuf        |
-| 12                | vugh       |
-| 13                | vukh       |
-| 14                | vuz        |
-| 15                | vus        |
-| 16                | vuzh       |
+| Numbers (base-6) | Trinumeral |
+| ----------------- | --------- |
+| 10                | shish     |
+| 11                | shis      |
+| 12                | shif      |
+| 13                | shizh     |
+| 14                | shiz      |
+| 15                | shiv      |
+| 20                | shash     |
 
 | Approved Date |    Vote Summary    | Link                                                                                                          |
 | ------------- | :----------------: | ------------------------------------------------------------------------------------------------------------- |
@@ -86,40 +72,41 @@ The numeric prefixes use a Base-12 positional system and act as an extension to 
 | Numeric Prefix | Value   |
 | -------------- | ------- |
 | ei-            | 1000^0  |
-| wa-            | 1000^1  |
-| jo-            | 1000^2  |
+| uwa-           | 1000^1  |
+| ijo-           | 1000^2  |
 | eu-            | 1000^3  |
 | ai-            | 1000^4  |
-| wo-            | 1000^5  |
-| je-            | 1000^6  |
+| uwo-           | 1000^5  |
+| ije-           | 1000^6  |
 | au-            | 1000^7  |
 | oi-            | 1000^8  |
-| we-            | 1000^9  |
-| ja-            | 1000^10 |
+| uwe-           | 1000^9  |
+| ija-           | 1000^10 |
 | ou-            | 1000^11 |
 
 Examples of numeric prefix use with mononumeral number words:
 
 | Numbers       | Numeric Prefix |
 | ------------- | -------------- |
-| 1             | **ei**fun      |
-| 1 000         | **wa**fun      |
-| 1 000 000     | **jo**fun      |
-| 1 000 000 000 | **eu**fun      |
+| 1             | **ei**sin      |
+| 1 000         | **uwa**sin     |
+| 1 000 000     | **ijo**sin     |
+| 1 000 000 000 | **eu**sin      |
 
 Examples of numeric prefix use with trinumerals:
+The **ei**- numeric prefixes in parenthesis isn't required, but is included for demonstration purposes
 
 | Numbers    | Numeric Prefix                      | Breakdown                                    |
 | ---------- | ----------------------------------- | -------------------------------------------- |
-| 37         | **ei**vash                          | 37 \* 1000^0                                 |
-| X1         | **ei**vēf                           | X1 \* 1000^0                                 |
-| 190        | **ei**fāv                           | 190 \* 1000^0                                |
-| 3EX        | **ei**khōdzh                        | 3EX \* 1000^0                                |
-| 496 476    | **wa**zāzh **ei**zūzh               | 496 \* 1000^3 + 476 \* 1000^0                |
-| E0 145 355 | **jo**vōv **wa**fes **ei**khos      | E0 \* 1000^6 + 145 \* 1000^3 + 355 \* 1000^0 |
-| 1 157 23E  | **jo**fun **wa**fosh **ei**ghaysh   | 1 \* 1000^6 + 157 \* 1000^3 + 23E \* 1000^0  |
-| 5 649 67E  | **jo**son **wa**zhets **ei**zhūtsh  | 5 \* 1000^6 + 649 \* 1000^3 + 67E \* 1000^0  |
-| E 44X 236  | **jo**tshōn **wa**zedzh **ei**ghazh | E \* 1000^6 + 44X \* 1000^3 + 236 \* 1000^0  |
+| 35         | (**ei**)shyv                          | 35( \* 1000^0)                               |
+| 143        | (**ei**)sozh                          | 143( \* 1000^0)                              |
+| 140        | (**ei**)sosh                          | 140( \* 1000^0)                              |
+| 354        | (**ei**)zhuz                          | 354( \* 1000^0)                              |
+| 441 421    | **uwa**zos (**ei**)zas                | 441 \* 1000^3 + 421 \* 1000^0)               |
+| 50 145 355 | **ijo**shush **uwa**suv (**ei**)zhuv  | 50 \* 1000^6 + 145 \* 1000^3 + 355( \* 1000^0) |
+| 1 152 235  | **ijo**sin **uwa**suf (**ei**)fyv     | 1 \* 1000^6 + 152 \* 1000^3 + 235( \* 1000^0)  |
+| 5 144 125  | **ijo**vun **uwa**soz (**ei**)sav  | 5 \* 1000^6 + 144 \* 1000^3 + 125( \* 1000^0)  |
+| 5 444 231  | **ijo**vun **uwa**zoz (**ei**)fys | 5 \* 1000^6 + 445 \* 1000^3 + 231( \* 1000^0)  |
 
 Examples of numeric prefix stacking:
 
@@ -135,30 +122,30 @@ Examples of numeric prefix stacking:
 | 05/08/2020    | 15 for / 4 against | [See](https://www.reddit.com/r/EncapsulatedLanguage/comments/i2ttzh/official_proposal_vote_to_change_the_numeric/)   |
 | 02/08/2020    | 21 for / 3 against | [See](https://www.reddit.com/r/EncapsulatedLanguage/comments/i12ryt/official_proposal_vote_to_officialize_a/)        |
 
-## Dozenal fraction
+## Senary fraction
 
-Dozenal fractions are built in the following way:
+Senary fractions are built in the following way:
 
 [number A] **ein** [number B]
 
-The word, **ein** is the word that represents the dozenal fraction separator. This word is built from a combination of the zero-magnitude prefix, “ei-” and the consonant, "n" that follows every mono-numeral.
+The word, **ein** is the word that represents the senary fraction separator. This word is built from a combination of the zero-magnitude prefix, “ei-” and the consonant, "n" that follows every mono-numeral.
 
-Number B gets divided by 12^L where L is the magnitude of its most significant digit (including leading zeros) then gets added to number A. If either number is unspecified then that number is assumed to be 0.
+Number B gets divided by 6^L where L is the magnitude of its most significant digit (including leading zeros) then gets added to number A. If either number is unspecified then that number is assumed to be 0.
 
 This is roughly equivalent to number A followed by a dozenal point followed by number B.
 
-Leading zeros must not be dropped as they are part of the number (wavin is 0000 not 0).
+Leading zeros must not be dropped as they are part of the number (uwashen is 0000 not 0).
 
 Examples:
 
-| Fractions (base-12) | Number words with dozenal fraction separator |
-| ------------------- | -------------------------------------------- |
-| 0.3                 | **ein** khan                                 |
-| 1.1                 | fun **ein** fun                              |
-| 10.010              | vuv **ein** vuv                              |
-| 100.001             | fiv **ein** vif                              |
-| 1000.0001           | wafun **ein** wavin fun                      |
-| 3.184809493B        | khan **ein** eufun jodzedz wavāz tsatsh      |
+| Fractions (base-6)  | Number words with senary fraction separator     |
+| ------------------- | ----------------------------------------------- |
+| 0.3                 | **ein** zhyn                                    |
+| 1.1                 | sin **ein** sin                                 |
+| 10.010              | shish **ein** shish                             |
+| 100.001             | sesh **ein** shes                               |
+| 1000.0001           | wasin **ein** washen sin                        |
+| 3.184809493B        | zhyn **ein** aishush euzhysh ijoshus uwaziv saz |
 
 | Approved Date |    Vote Summary    | Link                                                                                                                  |
 | ------------- | :----------------: | --------------------------------------------------------------------------------------------------------------------- |
@@ -168,10 +155,10 @@ Examples:
 
 Numerals following a numeral with a larger magnitude get combined.
 
-| Example       | Meaning |
-| ------------- | ------- |
-| wafun fun     | 1001    |
-| wafun vin fun | 1000, 1 |
+| Example        | Meaning |
+| -------------- | ------- |
+| wasin sin      | 1001    |
+| wasin shen sin | 1000, 1 |
 
 | Approved Date |    Vote Summary    | Link                                                                                                                    |
 | ------------- | :----------------: | ----------------------------------------------------------------------------------------------------------------------- |
