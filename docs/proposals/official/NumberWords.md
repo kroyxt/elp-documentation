@@ -1,7 +1,5 @@
 # Number Words
 
-::: tip This section is currently being updated by the Official Proposal Committee and will be corrected soon :::
-
 The Encapsulated Language constructs number words in the following ways:
 
 ## General Rules
