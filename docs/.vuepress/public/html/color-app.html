@@ -47,18 +47,18 @@ function add12(num1,num2){
 function toL(num){
 	value=0
 	for(let place in num){
-		value=value+parseInt(num.charAt(place),12)/Math.pow(12,place+1)
+		value=value+parseInt(num.charAt(place),12)/Math.pow(6,place+1)
 	}
-  value=value+.5/Math.pow(12,num.length)
+  value=value+.5/Math.pow(6,num.length)
 	value=value*100
 	return(value)
 }
 function toC(num){
 	value=0
 	for(let place in num){
-		value=value+parseInt(num.charAt(place),12)/Math.pow(12,place+1)
+		value=value+parseInt(num.charAt(place),12)/Math.pow(6,place+1)
 	}
-  value=value+.5/Math.pow(12,num.length)
+  value=value+.5/Math.pow(6,num.length)
 	value=value*2*defaltMagnitude
   value=200-value
 	return(value)
@@ -66,9 +66,9 @@ function toC(num){
 function toh(num){
 	value=0
 	for(let place in num){
-		value=value+parseInt(num.charAt(place),12)/Math.pow(12,place+1)
+		value=value+parseInt(num.charAt(place),12)/Math.pow(6,place+1)
 	}
-  value=value+.5/Math.pow(12,num.length)
+  value=value+.5/Math.pow(6,num.length)
 	value=value*2*Math.PI
 	return(value)
 	
