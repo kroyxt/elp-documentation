@@ -81,17 +81,21 @@ export default {
       ],
       digitMarker_: "n",
       fillerMarker_: "sh",
+      dotMarker_: "ein",
       imgArray_: [],
     }
   },
   methods: {
-    $_checkErrors(numbers) {
-      if (/[^0-5,. ]/.test(numbers)) {
-        this.error = true
-        return -1
-      } else {
-        this.error = false
-      }
+    $_parseInput(numbers) {
+      let countDot = (numbers.match(/\./g)||[]).length
+      this.error = true
+      if (/[^0-5. ]/.test(numbers) || countDot > 1) return -1
+      this.error = false
+      let numberArray = numbers.split('.')
+      return [
+        this.$_splitNumbers(numberArray[0]),
+        (numberArray.length == 0)? "":this.$_splitNumbers(numberArray[1])
+      ]
     },
     $_splitNumbers(numbers) {
       return numbers.replace(/[^0-5]/g, "").split(/(?=(?:...)*$)/)
@@ -147,13 +151,16 @@ export default {
     numbersToWord() {
       let input = this.numberInput,
         inputUpper = input.toUpperCase(),
-        inputSplit = this.$_splitNumbers(inputUpper)
-      this.$_checkErrors(inputUpper)
+        numberArray = this.$_parseInput(inputUpper)
       if (this.error) {
         this.numberOutput = "Error Number"
         this.imgArray_ = []
       } else {
-        this.numberOutput = this.$_numbersToIpa(inputSplit)
+        let decimal = ""
+        if (numberArray[1] != "") {
+          decimal = "ein" + this.$_numbersToIpa(numberArray[1])
+        }
+        this.numberOutput = this.$_numbersToIpa(numberArray[0]) + decimal
         this.imgArray_ = inputUpper.split("")
       }
     },
