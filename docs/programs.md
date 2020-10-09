@@ -10,20 +10,13 @@ logo from [here](/elp-documentation/downloads/Elp-logo.zip)
 You can download a ZIP file containing pictures of all the numerals from
 [here](/elp-documentation/downloads/Elp-number-pics.zip)
 
-## Download programs to type the numbers
+## Apps
 
-### Windows
+The following is a list of apps for the Encapsulated Language.
 
-::: tip This app no longer works due to the recent Officialization of Base-6 :::
+### Base-6 Number to number word and numeral converter
 
-You can download a ZIP file containing a number typer compatible with newer versions
-of Windows from [here](/elp-documentation/downloads/Elp-Win-NumberTyper.zip)
-
-## Base-12 Number to number word and numeral converter
-
-::: tip This app no longer works due to the recent Officialization of Base-6 :::
-
-This app quickly converts base-12 numbers to their Encapsulated Language number word
+This app quickly converts base-6 numbers to their Encapsulated Language number word
 and numeral equivalents. 
 Just type the number you want converted, and the app will generate the
 appropriate number words and numerals!
