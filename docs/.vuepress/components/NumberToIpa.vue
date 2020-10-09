@@ -41,76 +41,52 @@ export default {
       error: false,
       numbers_: {
         "0": {
-          consonant: "v",
-          vowel: "i",
+          consonant: "sh",
+          vowel: "e",
         },
         "1": {
-          consonant: "f",
-          vowel: "u",
+          consonant: "s",
+          vowel: "i",
         },
         "2": {
-          consonant: "gh",
-          vowel: "y",
+          consonant: "f",
+          vowel: "a",
         },
         "3": {
-          consonant: "kh",
-          vowel: "a",
+          consonant: "zh",
+          vowel: "y",
         },
         "4": {
           consonant: "z",
-          vowel: "e",
-        },
-        "5": {
-          consonant: "s",
           vowel: "o",
         },
-        "6": {
-          consonant: "zh",
-          vowel: "ī",
-        },
-        "7": {
-          consonant: "sh",
-          vowel: "ū",
-        },
-        "8": {
-          consonant: "dz",
-          vowel: "ȳ",
-        },
-        "9": {
-          consonant: "ts",
-          vowel: "ā",
-        },
-        X: {
-          consonant: "dzh",
-          vowel: "ē",
-        },
-        E: {
-          consonant: "tsh",
-          vowel: "ō",
-        },
+        "5": {
+          consonant: "v",
+          vowel: "u",
+        }
       },
       magnitudeVowel_: [
         "ei",
-        "wa",
-        "jo",
+        "uwa",
+        "ijo",
         "eu",
         "ai",
-        "wo",
-        "je",
+        "uwo",
+        "ije",
         "au",
         "oi",
-        "we",
-        "ja",
+        "uwe",
+        "ija",
         "ou",
       ],
       digitMarker_: "n",
-      fillerMarker_: "v",
+      fillerMarker_: "sh",
       imgArray_: [],
     }
   },
   methods: {
     $_checkErrors(numbers) {
-      if (/[^0-9XE,. ]/.test(numbers)) {
+      if (/[^0-5,. ]/.test(numbers)) {
         this.error = true
         return -1
       } else {
@@ -118,7 +94,7 @@ export default {
       }
     },
     $_splitNumbers(numbers) {
-      return numbers.replace(/[^0-9EX]/g, "").split(/(?=(?:...)*$)/)
+      return numbers.replace(/[^0-5]/g, "").split(/(?=(?:...)*$)/)
     },
     $_wordFormation(initialConsonant, vowel, finalConsonant, position) {
       let word = ""
