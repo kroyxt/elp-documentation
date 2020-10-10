@@ -110,9 +110,9 @@ Examples of numeric prefix stacking:
 
 | Number Word | Breakdown   |
 | ----------- | ----------- |
-| waeifun     | 1 \* 216^12 |
-| wawafun     | 1 \* 216^13 |
-| wajofun     | 1 \* 216^14 |
+| waeisin     | 1 \* 216^12 |
+| wawasin     | 1 \* 216^13 |
+| wajosin     | 1 \* 216^14 |
 
 | Approved Date |    Vote Summary    | Link                                                                                                                 |
 | ------------- | :----------------: | -------------------------------------------------------------------------------------------------------------------- |
@@ -143,7 +143,7 @@ Examples:
 | 10.010              | shish **ein** shish                             |
 | 100.001             | sesh **ein** shes                               |
 | 1000.0001           | wasin **ein** washen sin                        |
-| 3.184809493B        | zhyn **ein** aishush euzhysh ijoshus uwaziv saz |
+| 3.050330051415      | zhyn **ein** eushush ijozhysh uwashus eiziv     |
 
 | Approved Date |    Vote Summary    | Link                                                                                                                  |
 | ------------- | :----------------: | --------------------------------------------------------------------------------------------------------------------- |
