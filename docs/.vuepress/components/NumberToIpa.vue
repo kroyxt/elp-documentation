@@ -94,7 +94,7 @@ export default {
       let numberArray = numbers.split('.')
       return [
         this.$_splitNumbers(numberArray[0]),
-        (numberArray.length == 0)? "":this.$_splitNumbers(numberArray[1])
+        (countDot == 0)? "":this.$_splitNumbers(numberArray[1])
       ]
     },
     $_splitNumbers(numbers) {
@@ -158,7 +158,7 @@ export default {
       } else {
         let decimal = ""
         if (numberArray[1] != "") {
-          decimal = "ein" + this.$_numbersToIpa(numberArray[1])
+          decimal = " ein" + this.$_numbersToIpa(numberArray[1])
         }
         this.numberOutput = this.$_numbersToIpa(numberArray[0]) + decimal
         this.imgArray_ = inputUpper.split("")
