@@ -9,12 +9,6 @@ following way:
 | ---------------------------- | ---------- | ---------------------------- | ---------------------------- |
 | Represented by a number word | Wil        | Represented by a number word | Represented by a number word |
 
-If **head final** is Officialized, then color words are formed in the following way:
-
-| Dullness                     | Hue                          | Core Color | Lightness                    |
-| ---------------------------- | ---------------------------- | ---------- | ---------------------------- |
-| Represented by a number word | Represented by a number word | Wil        | Represented by a number word |
-
 ## Lightness
 
 A number word represents the lightness of the final color. For example:
