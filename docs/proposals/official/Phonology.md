@@ -36,6 +36,20 @@ The Encapsulated Language uses the following phonemes.
 | 18/07/2020    |          14 for / 5 against          | [See](https://www.reddit.com/r/EncapsulatedLanguage/comments/hs66eh/official_proposal_vote_to_slightly_modify_the/)                                                       |
 | 15/07/2020    | 12 for Devono / 11 for ArmoredFarmer | [See](https://www.reddit.com/r/EncapsulatedLanguage/comments/hqbnuh/official_phonology_proposal_final_round_of_voting/)                                                   |
 
+## Allophones
+
+The following phonemes have explicitly allowed allophones in the Encapsulated Language:
+
+- The phomeme /ɲ/ can be realized as [ nj~nʲ~ɲ ]
+- The phomeme /ŋ/ can be realized as [ ŋ~ŋᶢ ]
+- The phomeme /c/ can be realized as [ t͡ʃʲ~c~kʲ ]
+- The phomeme /ɟ/ can be realized as [ d͡ʒʲ~ɟ~ɡʲ ]
+
+| Approved Date |    Vote Summary    | Link                                                                                                                    |
+| ------------- | :----------------: | ----------------------------------------------------------------------------------------------------------------------- |
+| 20/10/2020     | 9 for / 7 against  | [See](https://www.reddit.com/r/EncapsulatedLanguage/comments/jdezeu/official_proposal_vote_to_establish_allophones/)
+| 20/10/2020     | 13 for / 2 against  | [See](https://www.reddit.com/r/EncapsulatedLanguage/comments/jdeysx/official_proposal_vote_to_establish_allophones/)
+
 ## Phonotactics
 
 The Encapsulated Language obeys the following phonotactic constraints:

@@ -7,9 +7,9 @@ The Encapsulated Language uses the following systems of romanization.
 The Encapsulated Language uses the following romanization for consonants and
 diphthongs:
 
-| IPA          | ɕ  | ʑ  | ɾ | x  | ɣ  | c           | ɟ           | ɲ           | ŋ           |
-| ------------ | -- | -- | --| -- | -- | ----------- | ----------- | ----------- | ----------- |
-| Romanization | sh | zh | r | kh | gh | Unspecified | Unspecified | Unspecified | Unspecified |
+| IPA          | ɕ  | ʑ  | x  | ɣ  | c           | ɟ           | ɲ           | ŋ           |
+| ------------ | -- | -- | -- | -- | ----------- | ----------- | ----------- | ----------- |
+| Romanization | sh | zh | kh | gh | Unspecified | Unspecified | Unspecified | Unspecified |
 
 | IPA          | ai̯ | ei̯ | oi̯ | au̯ | eu̯ | ou̯ |
 | ------------ | -- | -- | -- | -- | -- | -- |
