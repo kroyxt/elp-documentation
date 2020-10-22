@@ -72,8 +72,6 @@ The below picture represents one lightness slice of the CIELCh color space.
 
 The Encapsulated Language color words are actually more precise than their
 English color word equivalents.
-These examples use **head initial** ordering. If **head final** is Officialized
-then these examples will change.
 
 | Color                                                 | Color Word             | Breakdown | English Equivalent |
 |-------------------------------------------------------|------------------------|-----------|--------------------|

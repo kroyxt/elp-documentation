@@ -7,9 +7,9 @@ The Encapsulated Language uses the following systems of romanization.
 The Encapsulated Language uses the following romanization for consonants and
 diphthongs:
 
-| IPA          | ɕ  | ʑ  | x  | ɣ  | c           | ɟ           | ɲ           | ŋ           |
-| ------------ | -- | -- | -- | -- | ----------- | ----------- | ----------- | ----------- |
-| Romanization | sh | zh | kh | gh | Unspecified | Unspecified | Unspecified | Unspecified |
+| IPA          | ɕ  | ʑ  | x  | ɣ  | c | ɟ | ɲ  | ŋ  |
+| ------------ | -- | -- | -- | -- | - | - | -- | -- |
+| Romanization | ch | jh | kh | gh | c | j | nj | ng |
 
 | IPA          | ai̯ | ei̯ | oi̯ | au̯ | eu̯ | ou̯ |
 | ------------ | -- | -- | -- | -- | -- | -- |
@@ -39,6 +39,7 @@ too difficult to type.
 
 | Approved Date |             Vote Summary             | Link                                                                                                                                                                      |
 | ------------- | :----------------------------------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 22/10/2020    |          11 for / 8 against          | [See](https://www.reddit.com/r/EncapsulatedLanguage/comments/jekh8m/official_proposal_vote_to_update_the_romanization/)
 | 3/10/2020    |          8 for / 3 against          | [See](https://www.reddit.com/r/EncapsulatedLanguage/comments/j2xalm/official_proposal_vote_to_modify_the_phonemic/)
 | 3/10/2020    |          6 for / 4 against          | [See](https://www.reddit.com/r/EncapsulatedLanguage/comments/j2xd5a/official_proposal_vote_to_modify_the_phonemic/)               |
 | 19/09/2020    |          18 for / 1 against          | [See](https://www.reddit.com/r/EncapsulatedLanguage/comments/iuil09/official_proposal_vote_to_officialize_an/)               |
