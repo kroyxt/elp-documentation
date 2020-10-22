@@ -2,8 +2,7 @@
 
 The Encapsulated Language constructs colors in the following way:
 
-If **head initial** is Officialized, then color words are formed in the
-following way:
+Color words are formed in the following way:
 
 | Lightness                    | Core Color | Hue                          | Dullness                     |
 | ---------------------------- | ---------- | ---------------------------- | ---------------------------- |
