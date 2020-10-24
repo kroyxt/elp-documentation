@@ -77,6 +77,8 @@ The coda phoneme group contains a null phoneme, /p/, /b/, /t/, /d/, /k/, /g/, /n
 - /il/ becomes /ij/.
 - /ul/ becomes /uw/.
 
+The following table represents IPA values, not romanisations.
+
 |    |     |     |     |     |     |     |
 | -- | --- | --- | --- | --- | --- | --- |
 |    | _i  | _y  | _u  | _e  | _a  | _o  |
