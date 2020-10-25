@@ -54,7 +54,7 @@ precision isn’t required by the majority of speakers and is reserved for techn
 | ------------------ | ------------------------------------- |
 | wil **sin**        | one to two sixths of a hue rotation   |
 | wil **ches**       | 0.001 to 0.002 of a hue rotation      |
-| wil **uwasin sin** | 0.1001 to 0.01002 of a hue rotation   |
+| wil **uasin sin**  | 0.1001 to 0.01002 of a hue rotation   |
 
 ### Summary
 

@@ -70,16 +70,16 @@ The numeric prefixes use a Base-12 positional system and act as an extension to 
 | Numeric Prefix | Value   |
 | -------------- | ------- |
 | ei-            | 1000^0  |
-| uwa-           | 1000^1  |
-| ijo-           | 1000^2  |
+| ua-            | 1000^1  |
+| io-            | 1000^2  |
 | eu-            | 1000^3  |
 | ai-            | 1000^4  |
-| uwo-           | 1000^5  |
-| ije-           | 1000^6  |
+| uo-            | 1000^5  |
+| ie-            | 1000^6  |
 | au-            | 1000^7  |
 | oi-            | 1000^8  |
-| uwe-           | 1000^9  |
-| ija-           | 1000^10 |
+| ue-            | 1000^9  |
+| ia-            | 1000^10 |
 | ou-            | 1000^11 |
 
 Examples of numeric prefix use with mononumeral number words:
@@ -87,8 +87,8 @@ Examples of numeric prefix use with mononumeral number words:
 | Numbers       | Numeric Prefix |
 | ------------- | -------------- |
 | 1             | **ei**sin      |
-| 1 000         | **uwa**sin     |
-| 1 000 000     | **ijo**sin     |
+| 1 000         | **ua**sin      |
+| 1 000 000     | **io**sin      |
 | 1 000 000 000 | **eu**sin      |
 
 Examples of numeric prefix use with trinumerals:
@@ -96,15 +96,15 @@ The **ei**- numeric prefixes in parenthesis isn't required, but is included for 
 
 | Numbers    | Numeric Prefix                      | Breakdown                                    |
 | ---------- | ----------------------------------- | -------------------------------------------- |
-| 35         | (**ei**)chyv                          | 35( \* 1000^0)                               |
-| 143        | (**ei**)sojh                          | 143( \* 1000^0)                              |
-| 140        | (**ei**)soch                          | 140( \* 1000^0)                              |
-| 354        | (**ei**)jhuz                          | 354( \* 1000^0)                              |
-| 441 421    | **uwa**zos (**ei**)zas                | 441 \* 1000^3 + 421 \* 1000^0)               |
-| 50 145 355 | **ijo**chush **uwa**suv (**ei**)jhuv  | 50 \* 1000^6 + 145 \* 1000^3 + 355( \* 1000^0) |
-| 1 152 235  | **ijo**sin **uwa**suf (**ei**)fyv     | 1 \* 1000^6 + 152 \* 1000^3 + 235( \* 1000^0)  |
-| 5 144 125  | **ijo**vun **uwa**soz (**ei**)sav  | 5 \* 1000^6 + 144 \* 1000^3 + 125( \* 1000^0)  |
-| 5 444 231  | **ijo**vun **uwa**zoz (**ei**)fys | 5 \* 1000^6 + 445 \* 1000^3 + 231( \* 1000^0)  |
+| 35         | (**ei**)chyv                        | 35( \* 1000^0)                               |
+| 143        | (**ei**)sojh                        | 143( \* 1000^0)                              |
+| 140        | (**ei**)soch                        | 140( \* 1000^0)                              |
+| 354        | (**ei**)jhuz                        | 354( \* 1000^0)                              |
+| 441 421    | **ua**zos (**ei**)zas               | 441 \* 1000^3 + 421 \* 1000^0)               |
+| 50 145 355 | **io**chush **ua**suv (**ei**)jhuv  | 50 \* 1000^6 + 145 \* 1000^3 + 355( \* 1000^0) |
+| 1 152 235  | **io**sin **ua**suf (**ei**)fyv     | 1 \* 1000^6 + 152 \* 1000^3 + 235( \* 1000^0)  |
+| 5 144 125  | **io**vun **ua**soz (**ei**)sav     | 5 \* 1000^6 + 144 \* 1000^3 + 125( \* 1000^0)  |
+| 5 444 231  | **io**vun **ua**zoz (**ei**)fys     | 5 \* 1000^6 + 445 \* 1000^3 + 231( \* 1000^0)  |
 
 Examples of numeric prefix stacking:
 
@@ -142,8 +142,8 @@ Examples:
 | 1.1                 | sin **ein** sin                                 |
 | 10.010              | chich **ein** chish                             |
 | 100.001             | sech **ein** ches                               |
-| 1000.0001           | wasin **ein** wachen sin                        |
-| 3.050330051415      | jhyn **ein** euchuch ijojhych uwachus eiziv     |
+| 1000.0001           | uasin **ein** uachen sin                        |
+| 3.050330051415      | jhyn **ein** euchuch iojhych uachus eiziv       |
 
 | Approved Date |    Vote Summary    | Link                                                                                                                  |
 | ------------- | :----------------: | --------------------------------------------------------------------------------------------------------------------- |
@@ -155,8 +155,8 @@ Numerals following a numeral with a larger magnitude get combined.
 
 | Example        | Meaning |
 | -------------- | ------- |
-| wasin sin      | 1001    |
-| wasin shen sin | 1000, 1 |
+| uasin sin      | 1001    |
+| uasin shen sin | 1000, 1 |
 
 | Approved Date |    Vote Summary    | Link                                                                                                                    |
 | ------------- | :----------------: | ----------------------------------------------------------------------------------------------------------------------- |

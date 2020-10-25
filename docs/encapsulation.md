@@ -90,20 +90,22 @@ The Numeral-Phoneme Mapping encapsulates the following mathematical knowledge:
 
 ## Numeric Prefixes
 
-| Numbers | Numeric Prefix |
-| ------- | -------------- |
-| 0       | ei-            |
-| 1       | wa-            |
-| 2       | jo-            |
-| 3       | eu-            |
-| 4       | ai-            |
-| 5       | wo-            |
-| 6       | je-            |
-| 7       | au-            |
-| 8       | oi-            |
-| 9       | we-            |
-| X (10)  | ja-            |
-| E (11)  | ou-            |
+The Encapsulation of Numeric Prefixes is based on their spoken form, not on their romanizations.
+
+| Numbers | Numeric Prefix (Spoken) |
+| ------- | ----------------------- |
+| 0       | ei-                     |
+| 1       | uwa-                    |
+| 2       | ijo-                    |
+| 3       | eu-                     |
+| 4       | ai-                     |
+| 5       | uwo-                    |
+| 6       | ije-                    |
+| 7       | au-                     |
+| 8       | oi-                     |
+| 9       | uwe-                    |
+| X (10)  | ija-                    |
+| E (11)  | ou-                     |
 
 The numeric prefixes encapsulate the following mathematical knowledge:
 
@@ -127,8 +129,8 @@ Numeric prefixes that end with "i" are part of the 4x multiplication table.
 Swapping the position of the vowel within a numeric prefix either adds or
 removes 6 from the total value. For example:
 
-Swapping the position of the vowel in "ei" (0) will create "je" (6).
-Swapping the position of the vowel in "ja" (10) will create "ai" (4).
+Swapping the position of the vowel in "ei" (0) will create "i**je**" (6).
+Swapping the position of the vowel in "i**ja**" (10) will create "**ai**" (4).
 
 ### In depth Breakdown
 
