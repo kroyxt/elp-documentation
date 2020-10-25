@@ -60,7 +60,7 @@ A syllable is built from an onset, an initial nucleus, a final nucleus, and a co
 
 **Onset Phoneme group:**
 
-The onset phoneme group contains /p/, /b/, /t/, /d/, /k/, /g/, /ʔ/, /m/, /n/, /ɾ/, /f/, /v/, /s/, /z/, /ɕ/, /ʑ/, /x/, /ɣ/, /j/, /l/, /c/, /ɟ/, /ɲ/, /ŋ/ and /w/
+The onset phoneme group contains /p/, /b/, /t/, /d/, /k/, /g/, /ʔ/, /m/, /n/, /f/, /v/, /s/, /z/, /ɕ/, /ʑ/, /x/, /ɣ/, /j/, /l/, /c/, /ɟ/, /ɲ/, /ŋ/ and /w/
 
 **Initial and Final Nucleus Phoneme group:**
 
