@@ -100,3 +100,11 @@ The following table represents IPA values, not romanisations.
 | 27/08/2020    | 16 for / 2 against | [See](https://www.reddit.com/r/EncapsulatedLanguage/comments/igb9g2/official_proposal_vote_to_officialize_a/)    |
 | 27/08/2020    | 11 for / 4 against | [See](https://www.reddit.com/r/EncapsulatedLanguage/comments/igb6jh/official_proposal_vote_to_officialize_a/)    |
 | 27/08/2020    | 10 for / 4 against | [See](https://www.reddit.com/r/EncapsulatedLanguage/comments/igb81f/official_proposal_vote_to_officialize_a/)    |
+
+## Stress
+
+The Encapsulated Language doesn't have lexical stress.
+
+| Approved Date |    Vote Summary    | Link                                                                                                                    |
+| ------------- | :----------------: | ----------------------------------------------------------------------------------------------------------------------- |
+| 2/11/2020     | 15 for / 3 against  | [See](https://www.reddit.com/r/EncapsulatedLanguage/comments/jl95vz/official_proposal_vote_to_officialize_no_lexical/) |

@@ -7,9 +7,13 @@ The Encapsulated Language uses the following systems of romanization.
 The Encapsulated Language uses the following romanization for consonants and
 diphthongs:
 
-| IPA          | ɕ  | ʑ  | x  | ɣ  | c | ɟ | ɲ  | ŋ  |
-| ------------ | -- | -- | -- | -- | - | - | -- | -- |
-| Romanization | ch | jh | kh | gh | c | j | nj | ng |
+| IPA          | m | p | b | f | v | n | t | d | s | z |
+| ------------ | - | - | - | - | - | - | - | - | - | - |
+| Romanization | m | p | b | f | v | n | t | d | s | z |
+
+| IPA          | ɲ  | c  | ɟ  | ɕ  | ʑ  | ŋ  | k | g | x  | ɣ  |
+| ------------ | -- | -- | -- | -- | -- | -- | - | - | -- | -- |
+| Romanization | nj | tj | dj | sj | zj | ng | k | g | kh | gh |
 
 | IPA          | ai̯ | ei̯ | oi̯ | au̯ | eu̯ | ou̯ |
 | ------------ | -- | -- | -- | -- | -- | -- |
@@ -40,6 +44,7 @@ too difficult to type.
 
 | Approved Date |             Vote Summary             | Link                                                                                                                                                                      |
 | ------------- | :----------------------------------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 2/11/2020    |          14 for / 5 against          | [See](https://www.reddit.com/r/EncapsulatedLanguage/comments/jl8pt5/official_proposal_vote_to_officialize_changes_to/)
 | 25/10/2020    |          10 for / 8 against          | [See](https://www.reddit.com/r/EncapsulatedLanguage/comments/jfp06b/official_proposal_vote_to_make_specific_phonemes/)
 | 22/10/2020    |          11 for / 8 against          | [See](https://www.reddit.com/r/EncapsulatedLanguage/comments/jekh8m/official_proposal_vote_to_update_the_romanization/)
 | 3/10/2020    |          8 for / 3 against          | [See](https://www.reddit.com/r/EncapsulatedLanguage/comments/j2xalm/official_proposal_vote_to_modify_the_phonemic/)
@@ -52,11 +57,12 @@ too difficult to type.
 
 The Encapsulated Language uses the following punctuation marks:
 
-| Symbol  | Functions                                 | Example   |
-| :-----: | ----------------------------------------- | --------- |
-|         | A separator symbol for digit groups.      | 1 000 000 |
-| **.**   | A separator symbol for senary fractions.  | 1.0       |
+| Symbol  | Functions                                                    | Example   |
+| :-----: | ------------------------------------------------------------ | --------- |
+|         | A separator symbol for digit groups and word boundaries      | 1 000 000 |
+| **.**   | A separator symbol for senary fractions.                     | 1.0       |
 
 | Approved Date |    Vote Summary    | Link                                                                                                                    |
 | ------------- | :----------------: | ----------------------------------------------------------------------------------------------------------------------- |
+| 02/11/2020    | 21 for / 2 against | [See](https://www.reddit.com/r/EncapsulatedLanguage/comments/jl8t3l/official_proposal_vote_to_officialize_the_space/) |
 | 26/08/2020    | 19 for / 1 against | [See](https://www.reddit.com/r/EncapsulatedLanguage/comments/ifo9gh/official_proposal_vote_to_officialize_a_separator/) |

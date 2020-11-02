@@ -41,7 +41,7 @@ export default {
       error: false,
       numbers_: {
         "0": {
-          consonant: "ch",
+          consonant: "sj",
           vowel: "e",
         },
         "1": {
@@ -53,7 +53,7 @@ export default {
           vowel: "a",
         },
         "3": {
-          consonant: "jh",
+          consonant: "zj",
           vowel: "y",
         },
         "4": {
@@ -80,7 +80,7 @@ export default {
         "ou",
       ],
       digitMarker_: "n",
-      fillerMarker_: "ch",
+      fillerMarker_: "sj",
       dotMarker_: "ein",
       imgArray_: [],
     }

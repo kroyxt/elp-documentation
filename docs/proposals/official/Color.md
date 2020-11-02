@@ -53,7 +53,7 @@ precision isn’t required by the majority of speakers and is reserved for techn
 | Color Word         | Meaning                               |
 | ------------------ | ------------------------------------- |
 | wil **sin**        | one to two sixths of a hue rotation   |
-| wil **ches**       | 0.001 to 0.002 of a hue rotation      |
+| wil **sjes**       | 0.001 to 0.002 of a hue rotation      |
 | wil **uasin sin**  | 0.1001 to 0.01002 of a hue rotation   |
 
 ### Summary
@@ -74,10 +74,10 @@ English color word equivalents.
 
 | Color                                                 | Color Word             | Breakdown | English Equivalent |
 |-------------------------------------------------------|------------------------|-----------|--------------------|
-| ![Black](/elp-documentation/img/colors/Black.png)     | **chen** wil           | 0 Color   | Black              |
+| ![Black](/elp-documentation/img/colors/Black.png)     | **sjen** wil           | 0 Color   | Black              |
 | ![Grey](/elp-documentation/img/colors/Grey.png)       | wil                    | Color     | Grey               |
 | ![White](/elp-documentation/img/colors/White.png)     | **vun** wil            | 5 color   | White              |
-| ![Red](/elp-documentation/img/colors/Red.png)         | wil **chen**           | Color 1   | Red                |
+| ![Red](/elp-documentation/img/colors/Red.png)         | wil **sjen**           | Color 1   | Red                |
 | ![Brown](/elp-documentation/img/colors/Brown.png)     | **fan** wil **sin**    | 2 Color 1 | Brown              |
 | ![Green](/elp-documentation/img/colors/Green.png)     | wil **fan**            | Color 2   | Green              |
 | ![Blue](/elp-documentation/img/colors/Blue.png)       | wil **zon**            | Color 4   | Blue               |

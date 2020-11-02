@@ -1,5 +1,35 @@
 # Grammar
 
+## Noun Phrases
+
+The order of Words in a noun phrase is as follows:
+
+Noun, Determiner, adjectives, numerals, genitive phrase, relative clause 
+
+Adpositions come before nouns:
+
+For example:
+
+Most sunny days
+Day-PL most sunny
+
+The old picture of Fred that I found
+\* Picture Def old GEN fred REL find-past 1st
+
+The 3 goats who ate the sandwich
+Goat-PL Def 3 Rel eat-past sandwhich Def
+
+In the old rickety house
+\*\* In house DEF old rickety
+\*\* In house DEF rickety old 
+
+\* Relative clauses use VSO word order for example purposes only (VSO hasn't been officialized.)
+\*\* either is acceptable.
+
+| Approved Date |    Vote Summary    | Link                                                                                                                    |
+| ------------- | :----------------: | ----------------------------------------------------------------------------------------------------------------------- |
+| 02/11/2020    | 12 for / 3 against | [See](https://www.reddit.com/r/EncapsulatedLanguage/comments/jl93z7/official_proposal_vote_to_establish_noun_phase/)    |
+
 ## Quantitative Modifiers
 Quantitative modifiers are independent words or affixes. Examples of quantitative modifiers are:
 

@@ -17,10 +17,10 @@ The mononumeral number words are built from the consonant and vowel that represe
 
 | Numbers | Number Word |
 | ------- | ----------- |
-| 0       | chen        |
+| 0       | sjen        |
 | 1       | sin         |
 | 2       | fan         |
-| 3       | jhyn        |
+| 3       | zjyn        |
 | 4       | zon         |
 | 5       | vun         |
 
@@ -49,13 +49,13 @@ Examples:
 
 | Numbers (base-6) | Trinumeral |
 | ----------------- | --------- |
-| 10                | chich     |
-| 11                | chis      |
-| 12                | chif      |
-| 13                | chijh     |
-| 14                | chiz      |
-| 15                | chiv      |
-| 20                | chach     |
+| 10                | sjich     |
+| 11                | sjis      |
+| 12                | sjif      |
+| 13                | sjizj     |
+| 14                | sjiz      |
+| 15                | sjiv      |
+| 20                | sjach     |
 
 | Approved Date |    Vote Summary    | Link                                                                                                          |
 | ------------- | :----------------: | ------------------------------------------------------------------------------------------------------------- |
@@ -96,12 +96,12 @@ The **ei**- numeric prefixes in parenthesis isn't required, but is included for 
 
 | Numbers    | Numeric Prefix                      | Breakdown                                    |
 | ---------- | ----------------------------------- | -------------------------------------------- |
-| 35         | (**ei**)chyv                        | 35( \* 1000^0)                               |
-| 143        | (**ei**)sojh                        | 143( \* 1000^0)                              |
+| 35         | (**ei**)sjyv                        | 35( \* 1000^0)                               |
+| 143        | (**ei**)sozj                        | 143( \* 1000^0)                              |
 | 140        | (**ei**)soch                        | 140( \* 1000^0)                              |
-| 354        | (**ei**)jhuz                        | 354( \* 1000^0)                              |
+| 354        | (**ei**)zjuz                        | 354( \* 1000^0)                              |
 | 441 421    | **ua**zos (**ei**)zas               | 441 \* 1000^3 + 421 \* 1000^0)               |
-| 50 145 355 | **io**chush **ua**suv (**ei**)jhuv  | 50 \* 1000^6 + 145 \* 1000^3 + 355( \* 1000^0) |
+| 50 145 355 | **io**sjush **ua**suv (**ei**)zjuv  | 50 \* 1000^6 + 145 \* 1000^3 + 355( \* 1000^0) |
 | 1 152 235  | **io**sin **ua**suf (**ei**)fyv     | 1 \* 1000^6 + 152 \* 1000^3 + 235( \* 1000^0)  |
 | 5 144 125  | **io**vun **ua**soz (**ei**)sav     | 5 \* 1000^6 + 144 \* 1000^3 + 125( \* 1000^0)  |
 | 5 444 231  | **io**vun **ua**zoz (**ei**)fys     | 5 \* 1000^6 + 445 \* 1000^3 + 231( \* 1000^0)  |
@@ -138,12 +138,12 @@ Examples:
 
 | Fractions (base-6)  | Number words with senary fraction separator     |
 | ------------------- | ----------------------------------------------- |
-| 0.3                 | **ein** jhyn                                    |
+| 0.3                 | **ein** zjyn                                    |
 | 1.1                 | sin **ein** sin                                 |
-| 10.010              | chich **ein** chish                             |
-| 100.001             | sech **ein** ches                               |
-| 1000.0001           | uasin **ein** uachen sin                        |
-| 3.050330051415      | jhyn **ein** euchuch iojhych uachus eiziv       |
+| 10.010              | sjich **ein** sjish                             |
+| 100.001             | sesj **ein** sjes                               |
+| 1000.0001           | uasin **ein** uasjen sin                        |
+| 3.050330051415      | zjyn **ein** euchuch iozjych uasjus eiziv       |
 
 | Approved Date |    Vote Summary    | Link                                                                                                                  |
 | ------------- | :----------------: | --------------------------------------------------------------------------------------------------------------------- |
