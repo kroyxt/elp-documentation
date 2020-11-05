@@ -11,7 +11,7 @@ The Encapsulated Language uses the following phonemes.
 | Nasal       | m      | n        | ɲ       | ŋ     |         |
 | Plosive     | p b    | t d      | c ɟ     | k g   | ʔ       |
 | Fricative   | f v    | s z      | ɕ ʑ     | x ɣ   |         |
-| Approximant |        | l        | j       | w     |         |
+| Approximant |        | l        |         |       |         |
 
 |      | Front     | Back |
 | ---- | --------- | ---- |
@@ -26,6 +26,7 @@ The Encapsulated Language uses the following phonemes.
 
 | Approved Date |             Vote Summary             | Link                                                                                                                                                                      |
 | ------------- | :----------------------------------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 5/11/2020     | 12 for / 3 against  | [See](https://www.reddit.com/r/EncapsulatedLanguage/comments/jn4czc/official_proposal_vote_to_modify_the_phonemic/)
 | 7/10/2020    |          12 for / 7 against          | [See](https://www.reddit.com/r/EncapsulatedLanguage/comments/j58nte/official_proposal_vote_to_removal_of_%C9%BE/)
 | 3/10/2020    |          8 for / 3 against          | [See](https://www.reddit.com/r/EncapsulatedLanguage/comments/j2xalm/official_proposal_vote_to_modify_the_phonemic/)
 | 3/10/2020    |          6 for / 4 against          | [See](https://www.reddit.com/r/EncapsulatedLanguage/comments/j2xd5a/official_proposal_vote_to_modify_the_phonemic/)        
@@ -44,9 +45,11 @@ The following phonemes have explicitly allowed allophones in the Encapsulated La
 - The phomeme /ŋ/ can be realized as [ ŋ~ŋᶢ ]
 - The phomeme /c/ can be realized as [ t͡ʃʲ~c~kʲ ]
 - The phomeme /ɟ/ can be realized as [ d͡ʒʲ~ɟ~ɡʲ ]
+- The phomeme /l/ can be realized as [ l~ɹ~j~ɥ~w ]
 
 | Approved Date |    Vote Summary    | Link                                                                                                                    |
 | ------------- | :----------------: | ----------------------------------------------------------------------------------------------------------------------- |
+| 5/11/2020     | 12 for / 3 against  | [See](https://www.reddit.com/r/EncapsulatedLanguage/comments/jn4czc/official_proposal_vote_to_modify_the_phonemic/)
 | 20/10/2020     | 9 for / 7 against  | [See](https://www.reddit.com/r/EncapsulatedLanguage/comments/jdezeu/official_proposal_vote_to_establish_allophones/)
 | 20/10/2020     | 13 for / 2 against  | [See](https://www.reddit.com/r/EncapsulatedLanguage/comments/jdeysx/official_proposal_vote_to_establish_allophones/)
 
@@ -73,24 +76,23 @@ The coda phoneme group contains a null phoneme, /p/, /b/, /t/, /d/, /k/, /g/, /n
 **Vowel pair realization:**
 
 - Two identical adjacent vowels become a single instance of that vowel.
-- /l/ is an epenthetic consonant between two vowels that do not form a legal diphthong.
-- /il/ becomes /ij/.
-- /ul/ becomes /uw/.
+- [ l~ɹ~j~ɥ~w ] is an epenthetic consonant between two vowels that do not form a legal diphthong.
 
 The following table represents IPA values, not romanisations.
 
 |    |     |     |     |     |     |     |
 | -- | --- | --- | --- | --- | --- | --- |
 |    | _i  | _y  | _u  | _e  | _a  | _o  |
-| i_ | i   | ijy | iju | ije | ija | ijo |
+| i_ | i   | ily | ilu | ile | ila | ilo |
 | y_ | yli | y   | ylu | yle | yla | ylo |
-| u_ | uwi | uwy | u   | uwe | uwa | uwo |
+| u_ | uli | uly | u   | ule | ula | ulo |
 | e_ | ei  | ely | eu  | e   | ela | elo |
 | a_ | ai  | aly | au  | ale | a   | alo |
 | o_ | oi  | oly | ou  | ole | ola | o   |
 
 | Approved Date |    Vote Summary    | Link                                                                                                                    |
 | ------------- | :----------------: | ----------------------------------------------------------------------------------------------------------------------- |
+| 5/11/2020     | 12 for / 3 against  | [See](https://www.reddit.com/r/EncapsulatedLanguage/comments/jn4czc/official_proposal_vote_to_modify_the_phonemic/)
 | 8/10/2020     | 6 for / 5 against  | [See](https://www.reddit.com/r/EncapsulatedLanguage/comments/j5tkvh/official_proposal_vote_to_modify_the_phonotactics/)
 | 3/10/2020     | 8 for / 3 against  | [See](https://www.reddit.com/r/EncapsulatedLanguage/comments/j2xalm/official_proposal_vote_to_modify_the_phonemic/)
 | 3/10/2020     | 6 for / 4 against  | [See](https://www.reddit.com/r/EncapsulatedLanguage/comments/j2xd5a/official_proposal_vote_to_modify_the_phonemic/)
