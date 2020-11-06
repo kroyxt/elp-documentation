@@ -11,7 +11,6 @@ The Encapsulated Language uses the following phonemes.
 | Nasal       | m      | n        | ɲ       | ŋ     |         |
 | Plosive     | p b    | t d      | c ɟ     | k g   | ʔ       |
 | Fricative   | f v    | s z      | ɕ ʑ     | x ɣ   |         |
-| Approximant |        | l        |         |       |         |
 
 |      | Front     | Back |
 | ---- | --------- | ---- |
@@ -45,7 +44,7 @@ The following phonemes have explicitly allowed allophones in the Encapsulated La
 - The phomeme /ŋ/ can be realized as [ ŋ~ŋᶢ ]
 - The phomeme /c/ can be realized as [ t͡ʃʲ~c~kʲ ]
 - The phomeme /ɟ/ can be realized as [ d͡ʒʲ~ɟ~ɡʲ ]
-- The phomeme /l/ can be realized as [ l~ɹ~j~ɥ~w ]
+- Epenthetic consonant represented with “l”, for the purposes of ease, can be realized as [ l~ɹ~j~ɥ~w ]
 
 | Approved Date |    Vote Summary    | Link                                                                                                                    |
 | ------------- | :----------------: | ----------------------------------------------------------------------------------------------------------------------- |
