@@ -20,7 +20,7 @@ diphthongs:
 | Romanization | ai | ei | oi | au | eu | ou |
 
 - /ʔ/ is written as an apostrophe when it's immediately before an approximate or between two vowels that would otherwise make a diphthong.
-- /l/, /j/, and /w/ are all unwritten and don't have romanizations.
+- /l/ is unwritten and doesn’t have a romanization.
 
 The Encapsulated Language uses the following two systems of romanization for
 the vowels:
