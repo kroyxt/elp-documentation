@@ -1,5 +1,18 @@
 # Grammar
 
+## Sublanguage
+
+The sublanguage is a subset of the spoken or written language used to encapsulate arbitrary information.
+
+- Sublanguage words are less specific or as specific as their Encapsulated Language counterparts.
+- Sublanguage grammar is less vague or as vague as its Encapsulated Language counterpart.  
+
+In summary, any rule that exists in the sublanguage must also exist in the main language, but not every rule that exists in the main language must also exist in the sublanguage.
+
+| Approved Date |    Vote Summary    | Link                                                                                                                    |
+| ------------- | :----------------: | ----------------------------------------------------------------------------------------------------------------------- |
+| 10/11/2020    | 9 for / 6 against  | [See](https://www.reddit.com/r/EncapsulatedLanguage/comments/jq3iih/official_proposal_vote_to_officialize_a_sub/)       |
+
 ## Noun Phrases
 
 The order of Words in a noun phrase is as follows:
