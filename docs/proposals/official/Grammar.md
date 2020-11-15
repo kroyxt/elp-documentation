@@ -13,6 +13,22 @@ In summary, any rule that exists in the sublanguage must also exist in the main 
 | ------------- | :----------------: | ----------------------------------------------------------------------------------------------------------------------- |
 | 10/11/2020    | 9 for / 6 against  | [See](https://www.reddit.com/r/EncapsulatedLanguage/comments/jq3iih/official_proposal_vote_to_officialize_a_sub/)       |
 
+## Structure
+
+Nouns and verbs are composed of a grammatical part and a semantic part.
+
+The grammatical part is the head of the verb/noun phrase as it determines the phrase's part-of speech.
+
+- Thematic role such as agent, patient, etc. for nouns.
+
+- Person of argument(s) of the verb for verbs.
+
+The semantic part is the dependant of the verb/noun phrase. It carries the bulk of the information.
+
+| Approved Date |    Vote Summary    | Link                                                                                                                    |
+| ------------- | :----------------: | ----------------------------------------------------------------------------------------------------------------------- |
+| 15/11/2020    | 12 for / 5 against  | [See](https://www.reddit.com/r/EncapsulatedLanguage/comments/jsukqq/official_proposal_vote_to_officialize_components/)       |
+
 ## Noun Phrases
 
 The order of Words in a noun phrase is as follows:
