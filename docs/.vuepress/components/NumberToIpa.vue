@@ -45,7 +45,7 @@ export default {
           vowel: "e",
         },
         "1": {
-          consonant: "s",
+          consonant: "z",
           vowel: "i",
         },
         "2": {
@@ -57,7 +57,7 @@ export default {
           vowel: "y",
         },
         "4": {
-          consonant: "z",
+          consonant: "s",
           vowel: "o",
         },
         "5": {

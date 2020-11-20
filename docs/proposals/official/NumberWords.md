@@ -18,10 +18,10 @@ The mononumeral number words are built from the consonant and vowel that represe
 | Numbers | Number Word |
 | ------- | ----------- |
 | 0       | sjen        |
-| 1       | sin         |
+| 1       | zin         |
 | 2       | fan         |
 | 3       | zjyn        |
-| 4       | zon         |
+| 4       | son         |
 | 5       | vun         |
 
 The mononumeral number system can also be used to express a string of digits such as a phone number For example, (205) 445 3215 can be expressed as fan shen vun zon zon vun zhyn fan sin vun.
