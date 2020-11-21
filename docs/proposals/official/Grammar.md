@@ -35,16 +35,7 @@ The order of Words in a noun phrase is as follows:
 
 Noun, determiner, adjectives, numerals, genitive phrase, relative clause 
 
-Adpositions come before nouns:
-
-| English Sentence                     | Encapsulated Language Example                              |
-| ------------------------------------ | ---------------------------------------------------------- |
-| Most sunny days                      | Day-PL most sunny                                          |
-| The old picture of Fred that I found | Picture Def old GEN fred REL find-past 1st                 |
-| The 3 goats who ate the sandwich     | Goat-PL Def 3 Rel eat-past sandwhich Def                   |
-| In the old rickety house             | \* In house DEF old rickety or \* In house DEF rickety old | 
-
-In these examples, relative clauses use VSO word order even though it hasn't been officialized. This is for example purposes only.
+Adpositions come before nouns.
 
 | Approved Date |    Vote Summary    | Link                                                                                                                    |
 | ------------- | :----------------: | ----------------------------------------------------------------------------------------------------------------------- |
