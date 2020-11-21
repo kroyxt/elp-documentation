@@ -59,17 +59,17 @@ The Numeral-Phoneme Mapping encapsulates the following mathematical knowledge:
 | Number | Phoneme | Place of Articulation | Voicing  |
 | ------ | ------- | --------------------- | -------- |
 | 0      | ɕ       | Palatal               | Unvoiced |
-| 1      | s       | Alveolar              | Unvoiced |
+| 1      | z       | Alveolar              | Voiced   |
 | 2      | f       | Labial                | Unvoiced |
 | 3      | ʑ       | Palatal               | Voiced   |
-| 4      | z       | Alveolar              | Voiced   |
+| 4      | s       | Alveolar              | Unvoiced |
 | 5      | v       | Labial                | Voiced   |
 
 - Post-Alveolars are a multiple of three.
 - Alveolars are one greater than a multiple of three.
 - Labials are one less than a multiple of three.
-- Unvoiced consonants are greater than or equal to 0 and less than 3.
-- Voiced consonants are greater than or equal to 3 and less than 10 (Base-6).
+- Unvoiced consonants are even.
+- Voiced consonants are odd.
 
 ### Vowels
 

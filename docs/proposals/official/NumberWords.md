@@ -49,13 +49,13 @@ Examples:
 
 | Numbers (base-6) | Trinumeral |
 | ----------------- | --------- |
-| 10                | sjich     |
-| 11                | sjis      |
+| 10                | sjisj     |
+| 11                | sjiz      |
 | 12                | sjif      |
 | 13                | sjizj     |
-| 14                | sjiz      |
+| 14                | sjis      |
 | 15                | sjiv      |
-| 20                | sjach     |
+| 20                | sjasj     |
 
 | Approved Date |    Vote Summary    | Link                                                                                                          |
 | ------------- | :----------------: | ------------------------------------------------------------------------------------------------------------- |
@@ -86,10 +86,10 @@ Examples of numeric prefix use with mononumeral number words:
 
 | Numbers       | Numeric Prefix |
 | ------------- | -------------- |
-| 1             | **ei**sin      |
-| 1 000         | **ua**sin      |
-| 1 000 000     | **io**sin      |
-| 1 000 000 000 | **eu**sin      |
+| 1             | **ei**zin      |
+| 1 000         | **ua**zin      |
+| 1 000 000     | **io**zin      |
+| 1 000 000 000 | **eu**zin      |
 
 Examples of numeric prefix use with trinumerals:
 The **ei**- numeric prefixes in parenthesis isn't required, but is included for demonstration purposes
@@ -97,22 +97,22 @@ The **ei**- numeric prefixes in parenthesis isn't required, but is included for 
 | Numbers    | Numeric Prefix                      | Breakdown                                    |
 | ---------- | ----------------------------------- | -------------------------------------------- |
 | 35         | (**ei**)sjyv                        | 35( \* 1000^0)                               |
-| 143        | (**ei**)sozj                        | 143( \* 1000^0)                              |
-| 140        | (**ei**)soch                        | 140( \* 1000^0)                              |
-| 354        | (**ei**)zjuz                        | 354( \* 1000^0)                              |
-| 441 421    | **ua**zos (**ei**)zas               | 441 \* 1000^3 + 421 \* 1000^0)               |
-| 50 145 355 | **io**sjush **ua**suv (**ei**)zjuv  | 50 \* 1000^6 + 145 \* 1000^3 + 355( \* 1000^0) |
-| 1 152 235  | **io**sin **ua**suf (**ei**)fyv     | 1 \* 1000^6 + 152 \* 1000^3 + 235( \* 1000^0)  |
-| 5 144 125  | **io**vun **ua**soz (**ei**)sav     | 5 \* 1000^6 + 144 \* 1000^3 + 125( \* 1000^0)  |
-| 5 444 231  | **io**vun **ua**zoz (**ei**)fys     | 5 \* 1000^6 + 445 \* 1000^3 + 231( \* 1000^0)  |
+| 143        | (**ei**)zozj                        | 143( \* 1000^0)                              |
+| 140        | (**ei**)zosj                        | 140( \* 1000^0)                              |
+| 354        | (**ei**)zjus                        | 354( \* 1000^0)                              |
+| 441 421    | **ua**soz (**ei**)saz               | 441 \* 1000^3 + 421 \* 1000^0)               |
+| 50 145 355 | **io**sjusj **ua**zov (**ei**)zjuv  | 50 \* 1000^6 + 145 \* 1000^3 + 355( \* 1000^0) |
+| 1 152 235  | **io**zin **ua**zuf (**ei**)fyv     | 1 \* 1000^6 + 152 \* 1000^3 + 235( \* 1000^0)  |
+| 5 144 125  | **io**vun **ua**zos (**ei**)zav     | 5 \* 1000^6 + 144 \* 1000^3 + 125( \* 1000^0)  |
+| 5 444 231  | **io**vun **ua**sos (**ei**)fyz     | 5 \* 1000^6 + 445 \* 1000^3 + 231( \* 1000^0)  |
 
 Examples of numeric prefix stacking:
 
 | Number Word | Breakdown   |
 | ----------- | ----------- |
-| waeisin     | 1 \* 216^12 |
-| wawasin     | 1 \* 216^13 |
-| wajosin     | 1 \* 216^14 |
+| waeizin     | 1 \* 216^12 |
+| wawazin     | 1 \* 216^13 |
+| wajozin     | 1 \* 216^14 |
 
 | Approved Date |    Vote Summary    | Link                                                                                                                 |
 | ------------- | :----------------: | -------------------------------------------------------------------------------------------------------------------- |
@@ -130,7 +130,7 @@ The word, **ein** is the word that represents the senary fraction separator. Thi
 
 Number B gets divided by 6^L where L is the magnitude of its most significant digit (including leading zeros) then gets added to number A. If either number is unspecified then that number is assumed to be 0.
 
-This is roughly equivalent to number A followed by a dozenal point followed by number B.
+This is roughly equivalent to number A followed by a senary point followed by number B.
 
 Leading zeros must not be dropped as they are part of the number (uwashen is 0000 not 0).
 
@@ -139,11 +139,11 @@ Examples:
 | Fractions (base-6)  | Number words with senary fraction separator     |
 | ------------------- | ----------------------------------------------- |
 | 0.3                 | **ein** zjyn                                    |
-| 1.1                 | sin **ein** sin                                 |
-| 10.010              | sjich **ein** sjish                             |
-| 100.001             | sesj **ein** sjes                               |
-| 1000.0001           | uasin **ein** uasjen sin                        |
-| 3.050330051415      | zjyn **ein** euchuch iozjych uasjus eiziv       |
+| 1.1                 | zin **ein** zin                                 |
+| 10.010              | sjisj **ein** sjisj                             |
+| 100.001             | zesj **ein** zin                                |
+| 1000.0001           | uazin **ein** uasjen eizin                      |
+| 3.050330051415      | zjyn **ein** eusjusj iozjysj uasjuz eisiv       |
 
 | Approved Date |    Vote Summary    | Link                                                                                                                  |
 | ------------- | :----------------: | --------------------------------------------------------------------------------------------------------------------- |
@@ -155,8 +155,8 @@ Numerals following a numeral with a larger magnitude get combined.
 
 | Example        | Meaning |
 | -------------- | ------- |
-| uasin sin      | 1001    |
-| uasin shen sin | 1000, 1 |
+| uazin zin      | 1001    |
+| uazin shen zin | 1000, 1 |
 
 | Approved Date |    Vote Summary    | Link                                                                                                                    |
 | ------------- | :----------------: | ----------------------------------------------------------------------------------------------------------------------- |
