@@ -109,6 +109,7 @@ The following table represents IPA values, not romanisations.
 
 | Approved Date |    Vote Summary    | Link                                                                                                                    |
 | ------------- | :----------------: | ----------------------------------------------------------------------------------------------------------------------- |
+| 24/11/2020    | 12 for / 2 against  | [See](https://www.reddit.com/r/EncapsulatedLanguage/comments/jykhf0/official_proposal_vote_to_modify_the_coda_phoneme/)
 | 5/11/2020     | 12 for / 3 against  | [See](https://www.reddit.com/r/EncapsulatedLanguage/comments/jn4czc/official_proposal_vote_to_modify_the_phonemic/)
 | 8/10/2020     | 6 for / 5 against  | [See](https://www.reddit.com/r/EncapsulatedLanguage/comments/j5tkvh/official_proposal_vote_to_modify_the_phonotactics/)
 | 3/10/2020     | 8 for / 3 against  | [See](https://www.reddit.com/r/EncapsulatedLanguage/comments/j2xalm/official_proposal_vote_to_modify_the_phonemic/)
