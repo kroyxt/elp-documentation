@@ -70,7 +70,25 @@ The nucleus phoneme group contains /i/, /iː/, /y/, /yː/, /u/, /uː/, /e/, /eː
 
 **Coda Phoneme group:**
 
-The coda phoneme group contains a null phoneme, /p/, /b/, /t/, /d/, /k/, /g/, /n/, /f/, /v/, /s/, /z/, /ɕ/, /ʑ/, /x/, /ɣ/, /c/ and /ɟ/
+The coda phoneme group contains a null phoneme, /N/, /S/, and /SJ/
+
+Where /N/ is any legal nasal, /S/ is [ s~z ], and /SJ/ is [ ɕ~ʑ ]
+
+The phoneme pair /Ss/ can be realized as [ sː ]
+
+The phoneme pair /Sz/ can be realized as [ zː ]
+
+The phoneme pair /SJɕ/ can be realized as [ ɕː ]
+
+The phoneme pair /SJʑ/ can be realized as [ ʑː ]
+
+The phoneme pair /Nm/ can be realized as [ mː ]
+
+The phoneme pair /Nn/ can be realized as [ nː ]
+
+The phoneme pair /Nɲ/ can be realized as [ ɲː ]
+
+The phoneme pair /Nŋ/ can be realized as [ ŋː ]
 
 **Vowel pair realization:**
 
