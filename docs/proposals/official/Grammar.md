@@ -5,12 +5,13 @@
 The sublanguage is a subset of the spoken or written language used to encapsulate arbitrary information.
 
 - Sublanguage words are less specific or as specific as their Encapsulated Language counterparts.
-- Sublanguage grammar is less vague or as vague as its Encapsulated Language counterpart.  
+- Sublanguage grammar is the same as its Encapsulated Language counterpart, unless otherwise specified.
 
 In summary, any rule that exists in the sublanguage must also exist in the main language, but not every rule that exists in the main language must also exist in the sublanguage.
 
 | Approved Date |    Vote Summary    | Link                                                                                                                    |
 | ------------- | :----------------: | ----------------------------------------------------------------------------------------------------------------------- |
+| 27/11/2020    | 12 for / 3 against  | [See](https://www.reddit.com/r/EncapsulatedLanguage/comments/k00th2/official_proposal_vote_to_modify_the_grammar_of/)       |
 | 10/11/2020    | 9 for / 6 against  | [See](https://www.reddit.com/r/EncapsulatedLanguage/comments/jq3iih/official_proposal_vote_to_officialize_a_sub/)       |
 
 ## Structure
@@ -28,6 +29,14 @@ The semantic part is the dependant of the verb/noun phrase. It carries the bulk 
 | Approved Date |    Vote Summary    | Link                                                                                                                    |
 | ------------- | :----------------: | ----------------------------------------------------------------------------------------------------------------------- |
 | 15/11/2020    | 12 for / 5 against  | [See](https://www.reddit.com/r/EncapsulatedLanguage/comments/jsukqq/official_proposal_vote_to_officialize_components/)       |
+
+## Tense, Aspect and Mood
+
+Roots are heads of root phrases in which TAM (tense, aspect and mood) markers are optional dependants.
+
+| Approved Date |    Vote Summary    | Link                                                                                                                    |
+| ------------- | :----------------: | ----------------------------------------------------------------------------------------------------------------------- |
+| 26/11/2020    | 11 for / 4 against  | [See](https://www.reddit.com/r/EncapsulatedLanguage/comments/jykn4o/official_proposal_vote_to_establish_how_to_treat/)       |
 
 ## Noun Phrases
 
