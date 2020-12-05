@@ -50,6 +50,14 @@ Adpositions come before nouns.
 | ------------- | :----------------: | ----------------------------------------------------------------------------------------------------------------------- |
 | 02/11/2020    | 12 for / 3 against | [See](https://www.reddit.com/r/EncapsulatedLanguage/comments/jl93z7/official_proposal_vote_to_establish_noun_phase/)    |
 
+## Markers
+
+The Encapsulated Language is dependent-marking.
+
+| Approved Date |    Vote Summary    | Link                                                                                                                    |
+| ------------- | :----------------: | ----------------------------------------------------------------------------------------------------------------------- |
+| 05/12/2020    | 6 for / 6 against | [See](https://www.reddit.com/r/EncapsulatedLanguage/comments/k5r0o3/official_proposal_vote_to_officialize/)             |
+
 ## Quantitative Modifiers
 Quantitative modifiers are independent words or affixes. Examples of quantitative modifiers are:
 

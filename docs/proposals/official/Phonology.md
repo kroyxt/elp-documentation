@@ -70,17 +70,17 @@ The nucleus phoneme group contains /i/, /iː/, /y/, /yː/, /u/, /uː/, /e/, /eː
 
 **Coda Phoneme group:**
 
-The coda phoneme group contains a null phoneme, /N/, /S/, and /SJ/
+The coda phoneme group contains a null phoneme, /N/, and /S/
 
-Where /N/ is any legal nasal, /S/ is [ s~z ], and /SJ/ is [ ɕ~ʑ ]
+Where /N/ is any legal nasal, and /S/ is [ s~z~ɕ~ʑ ]
 
 The phoneme pair /Ss/ can be realized as [ sː ]
 
 The phoneme pair /Sz/ can be realized as [ zː ]
 
-The phoneme pair /SJɕ/ can be realized as [ ɕː ]
+The phoneme pair /Sɕ/ can be realized as [ ɕː ]
 
-The phoneme pair /SJʑ/ can be realized as [ ʑː ]
+The phoneme pair /Sʑ/ can be realized as [ ʑː ]
 
 The phoneme pair /Nm/ can be realized as [ mː ]
 
@@ -109,6 +109,7 @@ The following table represents IPA values, not romanisations.
 
 | Approved Date |    Vote Summary    | Link                                                                                                                    |
 | ------------- | :----------------: | ----------------------------------------------------------------------------------------------------------------------- |
+| 5/12/2020     | 14 for / 1 against  | [See](https://www.reddit.com/r/EncapsulatedLanguage/comments/k5qzm3/official_proposal_vote_to_officialize_a_coda/)
 | 24/11/2020    | 12 for / 2 against  | [See](https://www.reddit.com/r/EncapsulatedLanguage/comments/jykhf0/official_proposal_vote_to_modify_the_coda_phoneme/)
 | 5/11/2020     | 12 for / 3 against  | [See](https://www.reddit.com/r/EncapsulatedLanguage/comments/jn4czc/official_proposal_vote_to_modify_the_phonemic/)
 | 8/10/2020     | 6 for / 5 against  | [See](https://www.reddit.com/r/EncapsulatedLanguage/comments/j5tkvh/official_proposal_vote_to_modify_the_phonotactics/)
