@@ -58,7 +58,7 @@ The Encapsulated Language obeys the following phonotactic constraints:
 
 **Syllable Construction:**
 
-A syllable is built from an onset, an initial nucleus, a final nucleus, and a coda in that order.
+A syllable is built from an onset, an initial nucleus, an optional final nucleus, and a coda in that order.
 
 **Onset Phoneme group:**
 
@@ -92,7 +92,7 @@ The phoneme pair /Nŋ/ can be realized as [ ŋː ]
 
 **Vowel pair realization:**
 
-- Two identical adjacent vowels become a single instance of that vowel.
+- Two identical adjacent vowels don’t become a single instance of that vowel. Instead, an approximate is placed between them.
 - [ l~ɹ~j~ɥ~w ] is an epenthetic consonant between two vowels that do not form a legal diphthong.
 
 The following table represents IPA values, not romanisations.
@@ -111,6 +111,7 @@ The following table represents IPA values, not romanisations.
 | ------------- | :----------------: | ----------------------------------------------------------------------------------------------------------------------- |
 | 5/12/2020     | 14 for / 1 against  | [See](https://www.reddit.com/r/EncapsulatedLanguage/comments/k5qzm3/official_proposal_vote_to_officialize_a_coda/)
 | 24/11/2020    | 12 for / 2 against  | [See](https://www.reddit.com/r/EncapsulatedLanguage/comments/jykhf0/official_proposal_vote_to_modify_the_coda_phoneme/)
+| 21/11/2020    | 14 for / 2 against  | [See](https://www.reddit.com/r/EncapsulatedLanguage/comments/jy4wk6/official_proposal_vote_to_officialize_changes_to/)
 | 5/11/2020     | 12 for / 3 against  | [See](https://www.reddit.com/r/EncapsulatedLanguage/comments/jn4czc/official_proposal_vote_to_modify_the_phonemic/)
 | 8/10/2020     | 6 for / 5 against  | [See](https://www.reddit.com/r/EncapsulatedLanguage/comments/j5tkvh/official_proposal_vote_to_modify_the_phonotactics/)
 | 3/10/2020     | 8 for / 3 against  | [See](https://www.reddit.com/r/EncapsulatedLanguage/comments/j2xalm/official_proposal_vote_to_modify_the_phonemic/)
