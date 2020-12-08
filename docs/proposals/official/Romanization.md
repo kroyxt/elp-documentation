@@ -2,7 +2,7 @@
 
 The Encapsulated Language uses the following systems of romanization.
 
-## Consonants and Diphthongs
+## Consonants
 
 The Encapsulated Language uses the following romanization for consonants and
 diphthongs:
@@ -17,6 +17,8 @@ diphthongs:
 
 - /ʔ/ is written as an apostrophe when it's immediately before an approximate or between two vowels that would otherwise make a diphthong.
 - The epenthetic consonant “l” is unwritten and doesn’t have a romanization.
+
+## Vowels and Diphthongs
 
 The Encapsulated Language uses the following romanization for vowels and diphthongs:
 
