@@ -15,35 +15,22 @@ diphthongs:
 | ------------ | -- | -- | -- | -- | -- | -- | - | - | -- | -- |
 | Romanization | nj | tj | dj | sj | zj | ng | k | g | kh | gh |
 
+- /ʔ/ is written as an apostrophe when it's immediately before an approximate or between two vowels that would otherwise make a diphthong.
+- The epenthetic consonant “l” is unwritten and doesn’t have a romanization.
+
+The Encapsulated Language uses the following romanization for vowels and diphthongs:
+
+| IPA          | i | iː  | y | yː  | u | uː  | e | eː  | o | oː  | a | aː  |
+| ------------ | - | --- | - | --- | - | --- | - | --- | - | --- | - | --- |
+| Romanization | i | ii  | y | yy  | u | uu  | e | ee  | o | oo  | a | aa  |
+
 | IPA          | ai̯ | ei̯ | oi̯ | au̯ | eu̯ | ou̯ |
 | ------------ | -- | -- | -- | -- | -- | -- |
 | Romanization | ai | ei | oi | au | eu | ou |
 
-- /ʔ/ is written as an apostrophe when it's immediately before an approximate or between two vowels that would otherwise make a diphthong.
-- The epenthetic consonant “l” is unwritten and doesn’t have a romanization.
-
-The Encapsulated Language uses the following two systems of romanization for
-the vowels:
-
-## Vowels (Primary System)
-
-This system must be used by all Official Proposals and training materials.
-
-| IPA          | i | iː | y | yː | u | uː | e | eː | o | oː | a | aː |
-| ------------ | - | -- | - | -- | - | -- | - | -- | - | -- | - | -- |
-| Romanization | i | ī  | y | ȳ  | u | ū  | e | ē  | o | ō  | a | ā  |
-
-## Vowels (Alternative System)
-
-This system can be used in informal settings when the primary means proves
-too difficult to type.
-
-| IPA          | i | iː | y | yː | u | uː | e | eː | o | oː | a | aː |
-| ------------ | - | -- | - | -- | - | -- | - | -- | - | -- | - | -- |
-| Romanization | i | ih | y | yh | u | uh | e | eh | o | oh | a | ah |
-
 | Approved Date |             Vote Summary             | Link                                                                                                                                                                      |
 | ------------- | :----------------------------------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 8/12/2020    |          14 for / 0 against          | [See](https://www.reddit.com/r/EncapsulatedLanguage/comments/k7i7wj/official_proposal_vote_to_modify_the_romanization/)
 | 2/11/2020    |          14 for / 5 against          | [See](https://www.reddit.com/r/EncapsulatedLanguage/comments/jl8pt5/official_proposal_vote_to_officialize_changes_to/)
 | 25/10/2020    |          10 for / 8 against          | [See](https://www.reddit.com/r/EncapsulatedLanguage/comments/jfp06b/official_proposal_vote_to_make_specific_phonemes/)
 | 22/10/2020    |          11 for / 8 against          | [See](https://www.reddit.com/r/EncapsulatedLanguage/comments/jekh8m/official_proposal_vote_to_update_the_romanization/)
