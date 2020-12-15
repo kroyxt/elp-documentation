@@ -58,6 +58,29 @@ The Encapsulated Language is dependent-marking.
 | ------------- | :----------------: | ----------------------------------------------------------------------------------------------------------------------- |
 | 05/12/2020    | 6 for / 6 against | [See](https://www.reddit.com/r/EncapsulatedLanguage/comments/k5r0o3/official_proposal_vote_to_officialize/)             |
 
+## Quantifiers
+There are a few basic pronouns which act as quantifiers.
+
+There are two main quantifier: "to" for "all" (everything), which is called the universal quantifier, and one for "some" (something(s)), which is called the existential quantifier. As placeholders, the word "sa" will be used for the universal quantifier and "ma" will be used for the existential quantifier.
+
+The universal quantifier is used to indicate everything in a certain set/context. The context can be specified using the placeholder word "pa" which means "in the set of". So, "all people are tired" usually doesn't mean that everyone in the entire world is tired, it just means that everyone is the group of people we're talking about is tired.
+
+The existential quantifier is the opposite of the universal quantifier. It's used to talk about part of a set. As with the universal quantifier, we can use "pa" to specify the set we're talking about.
+
+To use them with nouns, we must use apposition. So, "all people" is treated as an apposition of the universal quantifier (a pronoun) and "people" (a noun). "people" is the word we use to restrict the range of "everything". It basically mean "everything fitting the property of person".
+
+To indicate existence, we say that a certain amount of things are something else. So, to say "there are cats", we would say "some(thing) is cats". To add a specific quantity, we can replace "some" with another word, like "5 are cats" which means "there are 5 cats", and "many are cats" which means "there are many cats".
+
+To indicate the lack of something, we use negation: "There are no cats" would be "all (everything) is not cats". "I saw no cats" would be "I didn't see all cats". Thus, in general, there is no word meaning "no", although there may be a specific word to indicate a lack of something in places where it's necessary, like on a scale or other measuring devices. "no" is formed using "all" + negative.
+
+Negation is always put on the word being negated. So, we wouldn't say "I went with no one", or "I didn't go with anyone", but rather "I went not with anyone", since the negation is about the word "with".
+
+"not" is always tightly bound.
+
+| Approved Date |    Vote Summary    | Link                                                                                                                    |
+| ------------- | :----------------: | ----------------------------------------------------------------------------------------------------------------------- |
+| 10/09/2020    | 8 for / 2 against | [See](https://www.reddit.com/r/EncapsulatedLanguage/comments/k8fzi6/official_proposal_vote_to_establish_how/)            |
+
 ## Quantitative Modifiers
 Quantitative modifiers are independent words or affixes. Examples of quantitative modifiers are:
 
