@@ -65,7 +65,7 @@ The Numeral-Phoneme Mapping encapsulates the following mathematical knowledge:
 | 4      | s       | Alveolar              | Unvoiced |
 | 5      | v       | Labial                | Voiced   |
 
-- Post-Alveolars are a multiple of three.
+- Palatals are a multiple of three.
 - Alveolars are one greater than a multiple of three.
 - Labials are one less than a multiple of three.
 - Unvoiced consonants are even.
