@@ -51,67 +51,35 @@ module.exports = {
 			},
 			{
 				text: "FAQ",
-				link: "/faq/"
-			}
+				link: "/faq/",
+			},
 		],
 		displayAllHeaders: true,
 		// Sidebar Nav links
 		sidebar: {
 			// Sidebar of Officials Proposals
 			"/proposals/official/": [
-                                "", // to -> /proposals/official/README.md
-                                "AimsAndGoals", // to -> /proposals/official/AimsAndGoals.md
-                                "CommunityAdministration",
-                                "Phonology",
-                                "Romanization",
-                                "NumberBase",
-                                "PhonologicalValues",
-                                "OrthographicNumerals",
-                                "OrthographicSymbols",
-                                "NumberWords",
-                                "WordOrder",
-                                "Mathematics",
-                                "Color",
-                                "Grammar",
-                                "Country",
-                                "Logo",
+				"", // to -> /proposals/official/README.md
+				"AimsAndGoals", // to -> /proposals/official/AimsAndGoals.md
+				"CommunityAdministration",
+				"Phonology",
+				"Romanization",
+				"NumberBase",
+				"PhonologicalValues",
+				"OrthographicNumerals",
+				"OrthographicSymbols",
+				"NumberWords",
+				"WordOrder",
+				"Mathematics",
+				"Color",
+				"Grammar",
+				"Country",
+				"Logo",
 			],
 			// Sidebar of Drafts Proposals
-			"/proposals/draft/": [
-				"",
-				"animals",
-				"arithmetic",
-				"astronomy",
-				"calendar",
-				"chemistry",
-				"colors",
-				"communityAdministration",
-				"countryNames",
-				"flag",
-				"grammar",
-				"logo",
-				"meteorology",
-				"name",
-				"numberBase",
-				"numbers",
-				"orthographicnumerals",
-				"phonology",
-				"physics",
-                                "prosody",
-				"script",
-				"shapes",
-				"touch-alphabet",
-			],
-			"/faq/": [
-				""
-			],
+			"/faq/": [""],
 			// Fallback Sidebar
-			"/": [
-				"documentation",
-				"encapsulation",
-				"history",
-				"programs"
-			],
+			"/": ["documentation", "encapsulation", "history", "programs"],
 		},
 		// Repository info: owner/name-of-repository
 		docsRepo: "kroyxlab/elp-documentation",

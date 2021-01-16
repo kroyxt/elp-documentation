@@ -1,3 +1,0 @@
-# Name
-
-<Proposals type="Name"/>

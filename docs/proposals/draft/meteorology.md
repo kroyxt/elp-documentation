@@ -1,3 +1,0 @@
-# Meteorology
-
-<Proposals type="Meteorology"/>

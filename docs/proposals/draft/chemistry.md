@@ -1,3 +1,0 @@
-# Chemistry
-
-<Proposals type="Chemistry"/>
