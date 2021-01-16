@@ -1,3 +1,0 @@
-# Shapes
-
-<Proposals type="Shapes"/>

@@ -1,3 +1,0 @@
-# Physics
-
-<Proposals type="Physics"/>

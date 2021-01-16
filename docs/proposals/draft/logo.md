@@ -1,3 +1,0 @@
-# Logo
-
-<Proposals type="Logo"/>

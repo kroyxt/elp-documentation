@@ -1,3 +1,0 @@
-# Grammar
-
-<Proposals type="Grammar"/>
