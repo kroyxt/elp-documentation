@@ -1,19 +1,40 @@
 <template>
 	<section class="Proposals">
-
 		<!--Section Title-->
 		<h1 v-if="selectedType === ''">Draft Proposals</h1>
 		<h1 v-else>{{ selectedType }}</h1>
 		<!--End of Section Title-->
 
 		<!--List of Flair names-->
-		<select class="Proposals__select" v-model="selectedType" v-on:click="getProposals">
-			<option class="Proposals__option" selected disabled value="">Select Proposal</option>
-			<option class="Proposals__option" v-for="type in types">{{ type }}</option>
+
+			<!--
+				 -When one of the options is selected, the value of the option will be set to
+				 -the variable selectedType. Next the getProposals() method will be called.
+				 -->
+		<select
+			class="Proposals__select"
+			v-model="selectedType"
+			v-on:click="getProposals"
+		>
+			<option class="Proposals__option" selected disabled value=""
+				>Select Proposal</option
+			>
+			<option class="Proposals__option" v-for="type in types">{{
+				type
+			}}</option>
 		</select>
 		<!--End of List of Flair names-->
 
 		<!--Active Proposals-->
+
+		<!--
+			 when the variable activeProposals receives the data from the reddit API
+			 this section will be shown.
+
+			 by default the variable activeProposals is an empty object and this
+			 section will not be displayed.
+			 -->
+
 		<transition name="fade">
 			<section class="Proposals__posts" v-if="activeProposals.length > 0">
 				<table>
@@ -64,6 +85,15 @@
 		<!--End of Active Proposals-->
 
 		<!--Invalid Proposals-->
+
+		<!--
+			 when the variable invalidProposals receives the data from the reddit API
+			 this section will be shown.
+			 
+			 by default the variable invalidProposals is an empty object and this
+			 section will not be displayed.
+			 -->
+
 		<transition name="fade">
 			<section class="Proposals__lock" v-if="invalidProposals.length > 0">
 				<div class="custom-block danger">
@@ -122,7 +152,6 @@
 			</section>
 		</transition>
 		<!--End of invalid Proposals-->
-
 	</section>
 </template>
 
@@ -164,7 +193,6 @@ export default {
 
 	methods: {
 		async getProposals() {
-
 			// request the data to the reddit api
 			const getJsonData = await axios.get(
 				`https://www.reddit.com/r/EncapsulatedLanguage/search.json?q=flair_name%3A%22${this.selectedType}%20Proposal%22&restrict_sr=1&show=all&sort=new`
@@ -186,27 +214,27 @@ export default {
 </script>
 
 <style>
-	.fade-enter-active,
-	.fade-leave-active {
-		transition: opacity 0.5s;
-	}
+.fade-enter-active,
+.fade-leave-active {
+	transition: opacity 0.5s;
+}
 
-	.fade-enter,
-	.fade-leave-to {
-		opacity: 0;
-	}
+.fade-enter,
+.fade-leave-to {
+	opacity: 0;
+}
 
-	.Proposals__select {
-		background-color: transparent;
-		width: 100%;
-		padding: 5px;
-		border-radius: 10px;
-		color: skyblue;
-		font-size: 1rem;
-		font-weight: bold;
-	}
+.Proposals__select {
+	background-color: transparent;
+	width: 100%;
+	padding: 5px;
+	border-radius: 10px;
+	color: skyblue;
+	font-size: 1rem;
+	font-weight: bold;
+}
 
-	.Proposals__select:focus {
-		outline: none;
-	}
+.Proposals__select:focus {
+	outline: none;
+}
 </style>
