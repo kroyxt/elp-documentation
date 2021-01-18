@@ -1,3 +1,0 @@
-# Colors
-
-<Proposals type="Colors"/>

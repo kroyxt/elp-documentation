@@ -1,3 +1,0 @@
-# Phonology
-
-<Proposals type="Phonology"/>

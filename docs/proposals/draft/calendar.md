@@ -1,4 +1,0 @@
-# Calendar
-
-<Proposals type="Calendar"/>
-

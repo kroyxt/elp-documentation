@@ -1,3 +1,0 @@
-# Flag
-
-<Proposals type="Flag"/>

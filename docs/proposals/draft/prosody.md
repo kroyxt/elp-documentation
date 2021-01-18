@@ -1,3 +1,0 @@
-# Prosody
-
-<Proposals type="Prosody"/>
