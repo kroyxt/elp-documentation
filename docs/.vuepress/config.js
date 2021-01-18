@@ -72,6 +72,7 @@ module.exports = {
 				"WordOrder",
 				"Mathematics",
 				"Color",
+                                "Shapes",
 				"Grammar",
 				"Country",
 				"Logo",
