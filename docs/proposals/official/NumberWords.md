@@ -17,12 +17,12 @@ The mononumeral number words are built from the consonant and vowel that represe
 
 | Numbers | Number Word |
 | ------- | ----------- |
-| 0       | sjen        |
-| 1       | zin         |
-| 2       | fan         |
-| 3       | zjyn        |
-| 4       | son         |
-| 5       | vun         |
+| 0       | sjyn        |
+| 1       | zen         |
+| 2       | fun         |
+| 3       | zjan        |
+| 4       | sin         |
+| 5       | von         |
 
 The mononumeral number system can also be used to express a string of digits such as a phone number For example, (205) 445 3215 can be expressed as fan shen vun zon zon vun zhyn fan sin vun.
 
@@ -49,13 +49,13 @@ Examples:
 
 | Numbers (base-6) | Trinumeral |
 | ----------------- | --------- |
-| 10                | sjisj     |
-| 11                | sjiz      |
-| 12                | sjif      |
-| 13                | sjizj     |
-| 14                | sjis      |
-| 15                | sjiv      |
-| 20                | sjasj     |
+| 10                | sjesj     |
+| 11                | sjez      |
+| 12                | sjef      |
+| 13                | sjezj     |
+| 14                | sjes      |
+| 15                | sjev      |
+| 20                | sjusj     |
 
 | Approved Date |    Vote Summary    | Link                                                                                                          |
 | ------------- | :----------------: | ------------------------------------------------------------------------------------------------------------- |
@@ -86,33 +86,33 @@ Examples of numeric prefix use with mononumeral number words:
 
 | Numbers       | Numeric Prefix |
 | ------------- | -------------- |
-| 1             | **ei**zin      |
-| 1 000         | **ua**zin      |
-| 1 000 000     | **io**zin      |
-| 1 000 000 000 | **eu**zin      |
+| 1             | **ei**zen      |
+| 1 000         | **ua**zen      |
+| 1 000 000     | **io**zen      |
+| 1 000 000 000 | **eu**zen      |
 
 Examples of numeric prefix use with trinumerals:
 The **ei**- numeric prefixes in parenthesis isn't required, but is included for demonstration purposes
 
 | Numbers    | Numeric Prefix                      | Breakdown                                    |
 | ---------- | ----------------------------------- | -------------------------------------------- |
-| 35         | (**ei**)sjyv                        | 35( \* 1000^0)                               |
-| 143        | (**ei**)zozj                        | 143( \* 1000^0)                              |
-| 140        | (**ei**)zosj                        | 140( \* 1000^0)                              |
-| 354        | (**ei**)zjus                        | 354( \* 1000^0)                              |
-| 441 421    | **ua**soz (**ei**)saz               | 441 \* 1000^3 + 421 \* 1000^0)               |
-| 50 145 355 | **io**sjusj **ua**zov (**ei**)zjuv  | 50 \* 1000^6 + 145 \* 1000^3 + 355( \* 1000^0) |
-| 1 152 235  | **io**zin **ua**zuf (**ei**)fyv     | 1 \* 1000^6 + 152 \* 1000^3 + 235( \* 1000^0)  |
-| 5 144 125  | **io**vun **ua**zos (**ei**)zav     | 5 \* 1000^6 + 144 \* 1000^3 + 125( \* 1000^0)  |
-| 5 444 231  | **io**vun **ua**sos (**ei**)fyz     | 5 \* 1000^6 + 445 \* 1000^3 + 231( \* 1000^0)  |
+| 35         | (**ei**)sjav                        | 35( \* 1000^0)                               |
+| 143        | (**ei**)zizj                        | 143( \* 1000^0)                              |
+| 140        | (**ei**)zisj                        | 140( \* 1000^0)                              |
+| 354        | (**ei**)zjos                        | 354( \* 1000^0)                              |
+| 441 421    | **ua**siz (**ei**)suz               | 441 \* 1000^3 + 421 \* 1000^0)               |
+| 50 145 355 | **io**sjosj **ua**ziv (**ei**)zjov  | 50 \* 1000^6 + 145 \* 1000^3 + 355( \* 1000^0) |
+| 1 152 235  | **io**zen **ua**zof (**ei**)fav     | 1 \* 1000^6 + 152 \* 1000^3 + 235( \* 1000^0)  |
+| 5 144 125  | **io**von **ua**zis (**ei**)zuv     | 5 \* 1000^6 + 144 \* 1000^3 + 125( \* 1000^0)  |
+| 5 444 231  | **io**von **ua**sis (**ei**)faz     | 5 \* 1000^6 + 445 \* 1000^3 + 231( \* 1000^0)  |
 
 Examples of numeric prefix stacking:
 
 | Number Word | Breakdown   |
 | ----------- | ----------- |
-| waeizin     | 1 \* 216^12 |
-| wawazin     | 1 \* 216^13 |
-| wajozin     | 1 \* 216^14 |
+| waeizen     | 1 \* 216^12 |
+| wawazen     | 1 \* 216^13 |
+| wajozen     | 1 \* 216^14 |
 
 | Approved Date |    Vote Summary    | Link                                                                                                                 |
 | ------------- | :----------------: | -------------------------------------------------------------------------------------------------------------------- |
@@ -138,12 +138,12 @@ Examples:
 
 | Fractions (base-6)  | Number words with senary fraction separator     |
 | ------------------- | ----------------------------------------------- |
-| 0.3                 | **ein** zjyn                                    |
-| 1.1                 | zin **ein** zin                                 |
-| 10.010              | sjisj **ein** sjisj                             |
-| 100.001             | zesj **ein** zin                                |
-| 1000.0001           | uazin **ein** uasjen eizin                      |
-| 3.050330051415      | zjyn **ein** eusjusj iozjysj uasjuz eisiv       |
+| 0.3                 | **ein** zjan                                    |
+| 1.1                 | zen **ein** zen                                 |
+| 10.010              | sjesj **ein** sjesj                             |
+| 100.001             | zysj **ein** zen                                |
+| 1000.0001           | uazen **ein** uasjyn eizen                      |
+| 3.050330051415      | zjan **ein** eusjosj iozjasj uasjoz eisev       |
 
 | Approved Date |    Vote Summary    | Link                                                                                                                  |
 | ------------- | :----------------: | --------------------------------------------------------------------------------------------------------------------- |
@@ -155,8 +155,8 @@ Numerals following a numeral with a larger magnitude get combined.
 
 | Example        | Meaning |
 | -------------- | ------- |
-| uazin zin      | 1001    |
-| uazin shen zin | 1000, 1 |
+| uazen zen      | 1001    |
+| uazen shen zen | 1000, 1 |
 
 | Approved Date |    Vote Summary    | Link                                                                                                                    |
 | ------------- | :----------------: | ----------------------------------------------------------------------------------------------------------------------- |

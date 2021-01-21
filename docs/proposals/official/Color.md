@@ -52,9 +52,9 @@ precision isn’t required by the majority of speakers and is reserved for techn
 
 | Color Word         | Meaning                               |
 | ------------------ | ------------------------------------- |
-| wil **zin**        | one to two sixths of a hue rotation   |
-| wil **sjez**       | 0.001 to 0.002 of a hue rotation      |
-| wil **uazin zin**  | 0.1001 to 0.01002 of a hue rotation   |
+| wil **zen**        | one to two sixths of a hue rotation   |
+| wil **sjyz**       | 0.001 to 0.002 of a hue rotation      |
+| wil **uazen eizen**  | 0.1001 to 0.01002 of a hue rotation   |
 
 ### Summary
 
@@ -74,16 +74,16 @@ English color word equivalents.
 
 | Color                                                 | Color Word             | Breakdown | English Equivalent |
 |-------------------------------------------------------|------------------------|-----------|--------------------|
-| ![Black](/elp-documentation/img/colors/Black.png)     | **sjen** wil           | 0 Color   | Black              |
+| ![Black](/elp-documentation/img/colors/Black.png)     | **sjyn** wil           | 0 Color   | Black              |
 | ![Grey](/elp-documentation/img/colors/Grey.png)       | wil                    | Color     | Grey               |
-| ![White](/elp-documentation/img/colors/White.png)     | **vun** wil            | 5 color   | White              |
-| ![Red](/elp-documentation/img/colors/Red.png)         | wil **sjen**           | Color 1   | Red                |
-| ![Brown](/elp-documentation/img/colors/Brown.png)     | **fan** wil **zin**    | 2 Color 1 | Brown              |
-| ![Green](/elp-documentation/img/colors/Green.png)     | wil **fan**            | Color 2   | Green              |
-| ![Blue](/elp-documentation/img/colors/Blue.png)       | wil **son**            | Color 4   | Blue               |
-| ![Magenta](/elp-documentation/img/colors/Magenta.png) | **fan** wil **vun**    | 2 Color 5 | Purple / Magenta   |
-| ![Yellow](/elp-documentation/img/colors/Yellow.png)   | **vun** wil **zin**    | 5 Color 1 | Yellow             |
-| ![Pink](/elp-documentation/img/colors/Pink.png)       | **son** wil **vun**    | 4 Color 5 | Pink               |
+| ![White](/elp-documentation/img/colors/White.png)     | **von** wil            | 5 color   | White              |
+| ![Red](/elp-documentation/img/colors/Red.png)         | wil **zen**            | Color 1   | Red                |
+| ![Brown](/elp-documentation/img/colors/Brown.png)     | **fun** wil **zen**    | 2 Color 1 | Brown              |
+| ![Green](/elp-documentation/img/colors/Green.png)     | wil **fun**            | Color 2   | Green              |
+| ![Blue](/elp-documentation/img/colors/Blue.png)       | wil **sin**            | Color 4   | Blue               |
+| ![Magenta](/elp-documentation/img/colors/Magenta.png) | **fun** wil **von**    | 2 Color 5 | Purple / Magenta   |
+| ![Yellow](/elp-documentation/img/colors/Yellow.png)   | **von** wil **zin**    | 5 Color 1 | Yellow             |
+| ![Pink](/elp-documentation/img/colors/Pink.png)       | **son** wil **von**    | 4 Color 5 | Pink               |
 
 | Approved Date |           Vote Summary            | Link                                                                                                                  |
 | ------------- | :-------------------------------: | --------------------------------------------------------------------------------------------------------------------- |

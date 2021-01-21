@@ -42,27 +42,27 @@ export default {
       numbers_: {
         "0": {
           consonant: "sj",
-          vowel: "e",
+          vowel: "y",
         },
         "1": {
           consonant: "z",
-          vowel: "i",
+          vowel: "e",
         },
         "2": {
           consonant: "f",
-          vowel: "a",
+          vowel: "u",
         },
         "3": {
           consonant: "zj",
-          vowel: "y",
+          vowel: "a",
         },
         "4": {
           consonant: "s",
-          vowel: "o",
+          vowel: "i",
         },
         "5": {
           consonant: "v",
-          vowel: "u",
+          vowel: "o",
         }
       },
       magnitudeVowel_: [

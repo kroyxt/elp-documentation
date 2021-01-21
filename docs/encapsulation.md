@@ -75,18 +75,18 @@ The Numeral-Phoneme Mapping encapsulates the following mathematical knowledge:
 
 | Number | Phoneme | Openness | Position |
 | ------ | ------- | -------- | -------- |
-| 0      | e       | Open     | Front    |
-| 1      | i       | Closed   |	Front    |
-| 2      | a       | Open     |	Mid      |
-| 3      | y       | Closed   |	Mid      |
-| 4      | o       | Open     |	Back     |
-| 5      | u       | Closed   |	Back     |
+| 0      | y       | Closed   | Mid      |
+| 1      | e       | Open     |	Front    |
+| 2      | u       | Closed   |	Back     |
+| 3      | a       | Open     |	Mid      |
+| 4      | i       | Closed   |	Front    |
+| 5      | o       | Open     |	Back     |
 
-- Open vowels are even.
-- Closed vowels are odd.
-- Front vowels don't have any twos in them.
-- Mid vowels have 1x two in them.
-- Back vowels have 2x twos in them.
+- Open vowels are odd.
+- Closed vowels are even.
+- Front vowels are one more than a multiple of three.
+- Mid vowels are a multiple of three.
+- Back vowels are one less than a multiple of three.
 
 ## Numeric Prefixes
 
