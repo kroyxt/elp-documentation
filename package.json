@@ -10,10 +10,10 @@
     "docs:build": "vuepress build docs"
   },
   "devDependencies": {
-    "@vuepress/plugin-back-to-top": "^1.5.2",
-    "vuepress": "^1.5.2"
+    "@vuepress/plugin-back-to-top": "^1.8.2",
+    "vuepress": "^1.8.2"
   },
   "dependencies": {
-    "axios": "^0.20.0"
+    "axios": "^0.21.1"
   }
 }
